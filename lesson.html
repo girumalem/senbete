@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lesson</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grandstander:wght@600;800&family=Lexend:wght@400;500;600&family=Noto+Serif+Ethiopic:wght@500;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <a class="icon-btn" id="homeBtn" href="index.html" aria-label="All lessons"></a>
+      <svg viewBox="-50 -50 100 100" aria-hidden="true" id="logo"></svg>
+      <div><b id="title"></b><small id="sub"></small></div>
+    </div>
+    <div class="stickers" id="stickers" aria-label="Stickers collected"></div>
+    <button class="icon-btn" id="soundBtn" type="button" aria-pressed="true" aria-label="Sound on"></button>
+  </header>
+  <div class="stage"><div class="tibeb"></div><div class="scene" id="scene"></div><div class="tibeb"></div></div>
+  <div class="talk">
+    <svg class="selam" id="selam" viewBox="-60 -66 120 134" aria-hidden="true"></svg>
+    <div class="bubble"><p id="line" aria-live="polite"></p><button class="icon-btn" id="replayBtn" type="button" aria-label="Hear it again"></button></div>
+  </div>
+  <nav class="controls" aria-label="Lesson pages">
+    <button class="icon-btn" id="prevBtn" type="button" aria-label="Back"></button>
+    <div class="dots" id="dots"></div>
+    <button class="next" id="nextBtn" type="button">Next ➜</button>
+  </nav>
+  <details class="parents"><summary>For parents and teachers</summary><div id="parentText"></div>
+    <h3>The lesson as written</h3><div class="src" id="source"></div></details>
+  <p class="credit" id="credit"></p>
+</div>
+<script src="data/lexicon.js"></script>
+<script src="data/audio.js"></script>
+<script src="data/curriculum.js"></script>
+<script src="data/songs.js"></script>
+<script src="js/art.js"></script>
+<script src="js/voice.js"></script>
+<script src="js/player.js"></script>
+<script>
+(function(){
+  const id=(new URLSearchParams(location.search).get('id')||'').trim();
+  if(!/^L[1-4]-[a-z]{3}[1-5]$/.test(id)){ BKPlay(); return; }
+  const s=document.createElement('script'); s.src='data/lessons/'+id+'.js'; s.onload=()=>BKPlay(); s.onerror=()=>BKPlay(); document.body.appendChild(s);
+})();
+</script>
+</body>
+</html>

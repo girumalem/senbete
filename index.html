@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Betekrstian Sunday School</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grandstander:wght@600;800&family=Lexend:wght@400;500;600&family=Noto+Serif+Ethiopic:wght@500;700&display=swap">
+<link rel="stylesheet" href="css/app.css">
+<style>
+.hero{position:relative;border-radius:24px;overflow:hidden;background:#0A0F2C}
+.hero .scene{aspect-ratio:16/6}
+.hero h1{position:absolute;left:0;right:0;top:12%;margin:0;text-align:center;color:#fff;font-family:var(--display);font-size:clamp(1.6rem,5.4vw,3rem);text-shadow:0 3px 0 rgba(0,0,0,.25);pointer-events:none;line-height:1.05}
+.hero h1 .am{display:block;font-size:.55em;color:#FFE18A}
+.levels{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.levels button{border-radius:18px;padding:.5em .4em;display:flex;flex-direction:column;align-items:center;gap:0;line-height:1.2}
+.levels button b{font-family:var(--ethiopic);font-size:1.6rem;color:var(--red)}
+.levels button span{font-family:var(--display);font-size:1rem}
+.levels button small{color:var(--muted);font-weight:500;font-size:.75rem}
+.levels button[aria-pressed="true"]{background:var(--gold-soft);box-shadow:inset 0 0 0 3px var(--gold)}
+.note{color:var(--muted);font-size:.9rem;margin:0}
+.month h2{font-family:var(--display);font-size:1.15rem;margin:.6em 0 .3em;display:flex;gap:.5em;align-items:baseline}
+.month h2 .am{color:var(--red);font-size:.95rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.tile{position:relative;display:flex;flex-direction:column;align-items:center;gap:4px;padding:10px 8px 12px;border-radius:20px;background:var(--surface);box-shadow:inset 0 0 0 2px var(--line);text-decoration:none;color:var(--ink);text-align:center;font-family:var(--display);font-weight:600;font-size:.98rem;line-height:1.2;cursor:pointer;border:0}
+.tile:hover{box-shadow:inset 0 0 0 3px var(--gold)}
+.tile .pic{width:100%;aspect-ratio:4/3;border-radius:14px;background:linear-gradient(#79BEF0,#F3E3B5);display:grid;place-items:center}
+.tile .pic svg{width:80%;height:88px}
+.tile .wk{font-family:var(--body);font-weight:500;color:var(--muted);font-size:.75rem}
+.tile.soon{opacity:.72}
+.tile.soon .pic{background:repeating-linear-gradient(45deg,var(--bg),var(--bg) 10px,var(--surface) 10px,var(--surface) 20px)}
+.tile.soon .pic span{font-family:var(--ethiopic);font-size:2rem;color:var(--muted)}
+.tile .done{position:absolute;top:6px;right:6px;width:34px;height:34px;border-radius:50%;background:var(--gold-soft);box-shadow:0 0 0 2px var(--gold);display:grid;place-items:center}
+.tile .done svg{width:24px;height:24px}
+dialog{border:0;border-radius:20px;max-width:min(680px,calc(100vw - 32px));max-height:85vh;padding:18px 22px;background:var(--surface);color:var(--ink)}
+dialog::backdrop{background:rgba(10,15,44,.55)}
+dialog h3{font-family:var(--display);margin:.2em 0}
+dialog .meta{color:var(--muted);font-size:.9rem}
+dialog .song{background:var(--gold-soft);border-radius:12px;padding:8px 12px}
+footer{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+footer a{color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand"><svg viewBox="-50 -50 100 100" aria-hidden="true" id="logo"></svg><div><b>Betekrstian</b><small><span class="am">ሰንበት ትምህርት ቤት</span> · Sunday school</small></div></div>
+    <button class="icon-btn" id="soundBtn" type="button" aria-pressed="true" aria-label="Sound on"></button>
+  </header>
+  <div class="stage hero"><div class="tibeb"></div><div class="scene" id="hero"></div><div class="tibeb"></div></div>
+  <div class="talk">
+    <svg class="selam" id="selam" viewBox="-60 -66 120 134" aria-hidden="true"></svg>
+    <div class="bubble"><p id="line"></p><button class="icon-btn" id="replayBtn" type="button" aria-label="Hear Selam"></button></div>
+  </div>
+  <div class="levels" id="levels" role="group" aria-label="Level"></div>
+  <p class="note" id="levelNote"></p>
+  <div id="months"></div>
+  <footer><a href="tools/words.html">Pronunciation list</a><a href="lessons/creation.html">Creation (first prototype)</a></footer>
+  <p class="credit">Lessons compiled by Kesis Solomon Mulugeta for Bole Debre Salem Medhanealem Church, Ethiopian Orthodox Tewahedo Church English Sunday school.</p>
+</div>
+<dialog id="dlg"><div id="dlgBody"></div><form method="dialog"><button class="next" type="submit">Close</button></form></dialog>
+<script src="data/lexicon.js"></script>
+<script src="data/audio.js"></script>
+<script src="data/curriculum.js"></script>
+<script src="data/songs.js"></script>
+<script src="js/art.js"></script>
+<script src="js/voice.js"></script>
+<script>
+(function(){
+const {icon,cross,selam,BG,draw}=BKArt; const VO=BKVoice; const $=s=>document.querySelector(s);
+const GEEZ=['፩','፪','፫','፬','፭','፮','፯','፰','፱','፲'];
+const LEVELS=[['Level I','KG and Pre-KG'],['Level II','Grades 1 to 3'],['Level III','Grades 4 to 6'],['Level IV','Grade 7 and up']];
+const MONTHS={September:'መስከረም',October:'ጥቅምት',November:'ኅዳር',December:'ታኅሣሥ',January:'ጥር',February:'የካቲት',Lent:'ዐቢይ ጾም',Easter:'ፋሲካ',July:'ሐምሌ',August:'ነሐሴ'};
+const NOTE={1:'Every lesson is a game. Selam reads everything out loud, so no reading is needed.',2:'Interactive lessons for Level II are coming next. For now each lesson opens as text for a parent or teacher to read.',3:'Level III lessons open as text for now. Their games will use reading, memory verses and puzzles.',4:'Level IV lessons open as text for now. Their activities will focus on reading, memory verses and discussion.'};
+let prog={}; try{ prog=JSON.parse(localStorage.getItem('bk.progress')||'{}'); }catch(e){}
+const esc=s=>String(s||'').replace(/[<>&]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]));
+$('#logo').innerHTML=cross();
+$('#hero').innerHTML=`<svg viewBox="0 150 800 300" preserveAspectRatio="xMidYMid slice">${BG.sunrise()}
+  <g transform="translate(400 432) scale(.62)">${draw('church')}</g><g transform="translate(140 440) scale(.7)"><g class="sway">${draw('acacia')}</g></g><g transform="translate(660 440) scale(.55)"><g class="bob">${draw('sheep')}</g></g>
+  <g transform="translate(250 440) scale(.45)">${draw('flowers')}</g><g transform="translate(560 442) scale(.45)">${draw('flowers')}</g></svg><h1>Sunday School<span class="am">ሰንበት ትምህርት ቤት</span></h1>`;
+const sb=$('#soundBtn'); const SP='<svg viewBox="0 0 24 24"><path d="M4 9 H8 L13 5 V19 L8 15 H4Z" fill="currentColor"/><path d="M16 8 Q19 12 16 16 M18.5 5.5 Q23 12 18.5 18.5" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>';
+const MU='<svg viewBox="0 0 24 24"><path d="M4 9 H8 L13 5 V19 L8 15 H4Z" fill="currentColor"/><path d="M16 9 L21 15 M21 9 L16 15" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>';
+const paint=()=>{ sb.innerHTML=VO.sound?SP:MU; sb.setAttribute('aria-pressed',VO.sound); }; sb.onclick=()=>{ VO.sound=!VO.sound; if(!VO.sound) VO.stop(); paint(); }; paint();
+$('#replayBtn').innerHTML=SP; $('#selam').innerHTML=selam();
+VO.onTalk=on=>{ const s=$('#selam'); s.classList.toggle('talking',on); s.innerHTML=selam(on); };
+const hello="[[selam]]! I'm Selam. Pick a lesson, and let's learn and play together!";
+$('#line').innerHTML=VO.render(hello);
+$('#replayBtn').onclick=()=>VO.say('home.hello',hello);
+let level=+(location.hash.slice(1))||1; if(level<1||level>4) level=1;
+function render(){
+  $('#levels').innerHTML=LEVELS.map(([n,g],i)=>{ const ready=BK_CURR.filter(c=>c.level===i+1&&c.built).length;
+    return `<button type="button" aria-pressed="${level===i+1}" data-l="${i+1}"><b>${GEEZ[i]}</b><span>${n}</span><small>${g}${ready?` · ${ready} ready`:''}</small></button>`; }).join('');
+  document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{ level=+b.dataset.l; history.replaceState(null,'','#'+level); render(); });
+  $('#levelNote').textContent=NOTE[level];
+  const ls=BK_CURR.filter(c=>c.level===level); const groups=[];
+  ls.forEach(c=>{ let g=groups[groups.length-1]; if(!g||g.m!==c.month) groups.push(g={m:c.month,items:[]}); g.items.push(c); });
+  $('#months').innerHTML=groups.map((g,gi)=>`<section class="month"><h2>${g.m==='Lent'?'Great Lent':g.m==='Easter'?'Easter season':g.m}${gi===groups.length-1&&g.m==='September'?' (year end)':''} <span class="am">${MONTHS[g.m]||''}</span></h2><div class="grid">${g.items.map(c=>{
+      const done=prog[c.id]&&prog[c.id].done; const wk=`${g.m==='Lent'||g.m==='Easter'?'Week':'Week'} ${c.week}`;
+      if(c.built){ const href=c.built.href||`lesson.html?id=${c.id}`; return `<a class="tile" href="${href}"><div class="pic">${icon(c.built.icon)}</div>${esc(c.title)}<span class="wk">${wk}</span>${done?`<span class="done" title="Finished">${icon('adeyAbeba')}</span>`:''}</a>`; }
+      return `<button type="button" class="tile soon" data-id="${c.id}"><div class="pic"><span>${GEEZ[c.week-1]}</span></div>${esc(c.title)}<span class="wk">${wk} · coming soon</span></button>`; }).join('')}</div></section>`).join('');
+  document.querySelectorAll('.tile.soon').forEach(b=>b.onclick=()=>openText(b.dataset.id));
+}
+function openText(id){ const c=BK_CURR.find(x=>x.id===id); const s=c.song&&BK_SONGS[c.song];
+  $('#dlgBody').innerHTML=`<h3>${esc(c.title)}</h3><p class="meta">Level ${GEEZ[c.level-1]} · ${c.month} week ${c.week}${c.refs?` · ${esc(c.refs)}`:''}</p>${c.objective?`<p><b>Objective:</b> ${esc(c.objective)}</p>`:''}${c.verse?`<p><b>Memory verse:</b> ${esc(c.verse)}</p>`:''}${c.text.map(t=>`<p>${esc(t)}</p>`).join('')}${s?`<div class="song"><b>Mezmur</b>${s.lines.map(l=>`<div>${esc(l)}</div>`).join('')}<div class="meta">${esc(s.meaning)}</div></div>`:''}<p class="meta">The interactive version of this lesson is coming soon.</p>`;
+  $('#dlg').showModal(); }
+render();
+window.addEventListener('hashchange',()=>{ const l=+(location.hash.slice(1)); if(l>=1&&l<=4){ level=l; render(); } });
+})();
+</script>
+</body>
+</html>

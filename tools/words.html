@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pronunciation List</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grandstander:wght@600;800&family=Lexend:wght@400;500;600&family=Noto+Serif+Ethiopic:wght@500;700&display=swap">
+<link rel="stylesheet" href="../css/app.css">
+<style>
+h1{font-family:var(--display);margin:.2em 0}
+table{width:100%;border-collapse:collapse;background:var(--surface);border-radius:14px;overflow:hidden;font-size:.92rem}
+th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);vertical-align:middle}
+th{font-size:.8rem;color:var(--muted);font-weight:600}
+td .am{font-size:1.2rem}
+.tag{display:inline-block;border-radius:999px;padding:.1em .6em;font-size:.75rem;font-weight:600}
+.rec{background:#DFF3E6;color:#2F7A4E}.tts{background:var(--gold-soft);color:#7A5208}.sil{background:#F6DCD9;color:#B3322A}
+.wrap{overflow-x:auto}
+td button{padding:.3em .8em}
+</style>
+</head>
+<body>
+<div class="app">
+  <a href="../index.html">← All lessons</a>
+  <h1>Pronunciation list</h1>
+  <p class="note">Every Amharic and Ge'ez word the app speaks. <b>Recorded</b> words play their clip. <b>Device voice</b> words use an Amharic voice if this device has one (<span id="amv"></span>), otherwise the English respelling. <b>Silent</b> words (Ge'ez, or Amharic with no respelling) wait for a recording. Fidel spellings still need a native speaker's check.</p>
+  <div class="wrap"><table><thead><tr><th>Fidel</th><th>Latin</th><th>Meaning</th><th>Language</th><th>Plays as</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+</div>
+<script src="../data/lexicon.js"></script>
+<script src="../data/audio.js"></script>
+<script>window.BK_AUDIO_BASE="../";</script><script src="../js/voice.js"></script>
+<script>
+const VO=BKVoice, L=BK_LEX, A=BK_AUDIO;
+function draw(){
+  document.getElementById('amv').textContent=VO.amVoice?'found: '+VO.amVoice.name:'none found on this device';
+  document.getElementById('rows').innerHTML=Object.entries(L).map(([k,w])=>{
+    const rec=A.words.includes(k)||A.lines.includes(k);
+    const mode=rec?'<span class="tag rec">Recorded</span>':w.lang==='gez'?'<span class="tag sil">Silent until recorded</span>':VO.amVoice?'<span class="tag tts">Amharic device voice</span>':w.say?`<span class="tag tts">Respelling: ${w.say}</span>`:'<span class="tag sil">Silent until recorded</span>';
+    return `<tr><td><span class="am">${w.fidel}</span></td><td>${w.latin}</td><td>${w.en}</td><td>${w.lang==='gez'?"Ge'ez":'Amharic'}${w.check?' · check':''}</td><td>${mode}</td><td><button type="button" data-k="${k}">▶</button></td></tr>`; }).join('');
+  document.querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>VO.say('words.'+b.dataset.k,`[[${b.dataset.k}]]`));
+}
+draw(); try{ speechSynthesis.addEventListener('voiceschanged',()=>setTimeout(draw,50)); }catch(e){}
+</script>
+</body>
+</html>
