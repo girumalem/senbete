@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Betekrstian Sunday School</title>
+<meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grandstander:wght@600;800&family=Lexend:wght@400;500;600&family=Noto+Serif+Ethiopic:wght@500;700&display=swap">
@@ -97,7 +98,7 @@ function render(){
   ls.forEach(c=>{ let g=groups[groups.length-1]; if(!g||g.m!==c.month) groups.push(g={m:c.month,items:[]}); g.items.push(c); });
   $('#months').innerHTML=groups.map((g,gi)=>`<section class="month"><h2>${g.m==='Lent'?'Great Lent':g.m==='Easter'?'Easter season':g.m}${gi===groups.length-1&&g.m==='September'?' (year end)':''} <span class="am">${MONTHS[g.m]||''}</span></h2><div class="grid">${g.items.map(c=>{
       const done=prog[c.id]&&prog[c.id].done; const wk=`${g.m==='Lent'||g.m==='Easter'?'Week':'Week'} ${c.week}`;
-      if(c.built){ const href=c.built.href||`lesson.html?id=${c.id}`; return `<a class="tile" href="${href}"><div class="pic">${icon(c.built.icon)}</div>${esc(c.title)}<span class="wk">${wk}</span>${done?`<span class="done" title="Finished">${icon('adeyAbeba')}</span>`:''}</a>`; }
+      if(c.built){ const href=c.built.href||`lesson.html#${c.id}`; return `<a class="tile" href="${href}"><div class="pic">${icon(c.built.icon)}</div>${esc(c.title)}<span class="wk">${wk}</span>${done?`<span class="done" title="Finished">${icon('adeyAbeba')}</span>`:''}</a>`; }
       return `<button type="button" class="tile soon" data-id="${c.id}"><div class="pic"><span>${GEEZ[c.week-1]}</span></div>${esc(c.title)}<span class="wk">${wk} · coming soon</span></button>`; }).join('')}</div></section>`).join('');
   document.querySelectorAll('.tile.soon').forEach(b=>b.onclick=()=>openText(b.dataset.id));
 }
