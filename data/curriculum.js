@@ -3106,7 +3106,10 @@ window.BK_CURR=[
 "Why do we fast one week before, and another week after the 40 day fasting?",
 "When we fast, what do we fast from?",
 "7. Do you fast? If not, why not?"
-]
+],
+"built": {
+"icon": "lentils"
+}
 },
 {
 "id": "L3-len2",
@@ -3128,7 +3131,10 @@ window.BK_CURR=[
 "Who raised Esther?",
 "Why was Esther raised by her uncle?",
 "In which book of the Bible do we find the story of Esther? The Old or the New Testament?"
-]
+],
+"built": {
+"icon": "gift"
+}
 },
 {
 "id": "L3-len3",
@@ -3150,7 +3156,10 @@ window.BK_CURR=[
 "What did the people of God do when a decree was made to kill them all?",
 "What do you learn from Esther?",
 "What happened to Haman, who tried to have the people of God killed?"
-]
+],
+"built": {
+"icon": "shield"
+}
 },
 {
 "id": "L3-len4",
@@ -3171,7 +3180,10 @@ window.BK_CURR=[
 "What did Jesus ask Bartimaeus?",
 "How did Jesus heal Bartimaes?",
 "In which book of the Bible do we find the story of Bartimaeus?"
-]
+],
+"built": {
+"icon": "seeingMan"
+}
 },
 {
 "id": "L3-len5",
@@ -3191,7 +3203,10 @@ window.BK_CURR=[
 "How is Jesus going to come, when He comes for judgment?",
 "Who are going to stand on His right, and on His left when Jesus Christ comes for judgment?",
 "What is Jesus Christ going to say to those standing on His right? What about to those standing on His left?"
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L3-len6",
@@ -3211,7 +3226,10 @@ window.BK_CURR=[
 "What is Baptism?",
 "What is the name given to a child who is baptized?",
 "Are you eager to learn about God, as Nicodemus?"
-]
+],
+"built": {
+"icon": "candle"
+}
 },
 {
 "id": "L3-len7",
@@ -3231,7 +3249,10 @@ window.BK_CURR=[
 "How did people receive Him?",
 "Who is the king who prophesied about children receiving Jesus Christ with a praise?",
 "What did the children sing when they received Jesus Christ?"
-]
+],
+"built": {
+"icon": "palm"
+}
 },
 {
 "id": "L3-len8",
@@ -3252,7 +3273,10 @@ window.BK_CURR=[
 "Did Pontius Pilate find any fault with Jesus Christ?",
 "When he offered them, according to the custom at Passover, to free Jesus Christ or the criminal Barabbas, who did the people want to be freed?",
 "On which day of the week was Jesus Christ crucified?"
-]
+],
+"built": {
+"icon": "calvary"
+}
 },
 {
 "id": "L3-eas1",
