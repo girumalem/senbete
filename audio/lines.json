@@ -1,0 +1,2604 @@
+[
+ {
+  "id": "yes0",
+  "lesson": "shared",
+  "text": "Yes! Well done!",
+  "plain": "Yes! Well done!",
+  "words": []
+ },
+ {
+  "id": "yes1",
+  "lesson": "shared",
+  "text": "That is right!",
+  "plain": "That is right!",
+  "words": []
+ },
+ {
+  "id": "yes2",
+  "lesson": "shared",
+  "text": "Wonderful!",
+  "plain": "Wonderful!",
+  "words": []
+ },
+ {
+  "id": "tryagain",
+  "lesson": "shared",
+  "text": "Hmm, try again!",
+  "plain": "Hmm, try again!",
+  "words": []
+ },
+ {
+  "id": "cross-0",
+  "lesson": "shared",
+  "text": "Forehead. [[cross-1]]",
+  "plain": "Forehead. Beseme Ab",
+  "words": [
+   "cross-1"
+  ]
+ },
+ {
+  "id": "cross-1",
+  "lesson": "shared",
+  "text": "Chest. [[cross-2]]",
+  "plain": "Chest. Wewold",
+  "words": [
+   "cross-2"
+  ]
+ },
+ {
+  "id": "cross-2",
+  "lesson": "shared",
+  "text": "Left shoulder. [[cross-3]]",
+  "plain": "Left shoulder. Wemenfes Kidus",
+  "words": [
+   "cross-3"
+  ]
+ },
+ {
+  "id": "cross-3",
+  "lesson": "shared",
+  "text": "Right shoulder. [[cross-4]]",
+  "plain": "Right shoulder. Ahadu Amlak",
+  "words": [
+   "cross-4"
+  ]
+ },
+ {
+  "id": "amen",
+  "lesson": "shared",
+  "text": "[[sign-of-cross]] [[amen]]",
+  "plain": "Beseme Ab wewold wemenfes kidus ahadu amlak amen Amen",
+  "words": [
+   "sign-of-cross",
+   "amen"
+  ]
+ },
+ {
+  "id": "L1-dec1.cover",
+  "lesson": "L1-dec1",
+  "text": "[[selam]]! Moses grew up in a king's palace in Egypt. He was kind and helped the poor. Today we see something amazing he saw on a mountain! Tap *Let's play*!",
+  "plain": "Selam! Moses grew up in a king's palace in Egypt. He was kind and helped the poor. Today we see something amazing he saw on a mountain! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-dec1.sheep",
+  "lesson": "L1-dec1",
+  "text": "Moses took care of the sheep of his father-in-law. The sheep wandered away! Drag each sheep back to Moses.",
+  "plain": "Moses took care of the sheep of his father-in-law. The sheep wandered away! Drag each sheep back to Moses.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.sheep-done",
+  "lesson": "L1-dec1",
+  "text": "All the sheep are safe with Moses. Now they came to the mountain of God.",
+  "plain": "All the sheep are safe with Moses. Now they came to the mountain of God.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.b1",
+  "lesson": "L1-dec1",
+  "text": "On the mountain, Moses saw a bush. Tap the bush!",
+  "plain": "On the mountain, Moses saw a bush. Tap the bush!",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.b2",
+  "lesson": "L1-dec1",
+  "text": "There was a fire burning in the middle of the bush. But the bush did not burn up! Moses went up to see.",
+  "plain": "There was a fire burning in the middle of the bush. But the bush did not burn up! Moses went up to see.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.b3",
+  "lesson": "L1-dec1",
+  "text": "God called out: Moses! Moses! And Moses said: Here I am. Tap Moses.",
+  "plain": "God called out: Moses! Moses! And Moses said: Here I am. Tap Moses.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.b4",
+  "lesson": "L1-dec1",
+  "text": "God said: take your shoes off, because this place is holy. So Moses took off his shoes.",
+  "plain": "God said: take your shoes off, because this place is holy. So Moses took off his shoes.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.b5",
+  "lesson": "L1-dec1",
+  "text": "In Ethiopia we take off our shoes when we go into church too, because the church is holy.",
+  "plain": "In Ethiopia we take off our shoes when we go into church too, because the church is holy.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.e1",
+  "lesson": "L1-dec1",
+  "text": "God told Moses: go back to Egypt and free My people. They are slaves there. I will be with you and help you. Tap Moses to send him.",
+  "plain": "God told Moses: go back to Egypt and free My people. They are slaves there. I will be with you and help you. Tap Moses to send him.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.e2",
+  "lesson": "L1-dec1",
+  "text": "So Moses came down from the mountain, and went to Egypt to free God's people.",
+  "plain": "So Moses came down from the mountain, and went to Egypt to free God's people.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.q1",
+  "lesson": "L1-dec1",
+  "text": "Where did Moses grow up? In his father's house, in a king's palace, or in a church?",
+  "plain": "Where did Moses grow up? In his father's house, in a king's palace, or in a church?",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.q2",
+  "lesson": "L1-dec1",
+  "text": "What was Moses doing when he came to the mountain? Playing, farming, or keeping sheep?",
+  "plain": "What was Moses doing when he came to the mountain? Playing, farming, or keeping sheep?",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.q3",
+  "lesson": "L1-dec1",
+  "text": "What did Moses see on the mountain of God?",
+  "plain": "What did Moses see on the mountain of God?",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.q4",
+  "lesson": "L1-dec1",
+  "text": "What did God tell Moses? To take off his shoes, to go to Egypt, or both?",
+  "plain": "What did God tell Moses? To take off his shoes, to go to Egypt, or both?",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.song-intro",
+  "lesson": "L1-dec1",
+  "text": "Our song says: what Moses saw on Mount Sinai, the bush that stayed green, is like the Virgin Mary. Tap the kebero drum to play along with your teacher.",
+  "plain": "Our song says: what Moses saw on Mount Sinai, the bush that stayed green, is like the Virgin Mary. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.song-done",
+  "lesson": "L1-dec1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-dec1.finish",
+  "lesson": "L1-dec1",
+  "text": "You did it! You finished Moses and the Burning Bush and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Moses and the Burning Bush and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.cover",
+  "lesson": "L1-dec2",
+  "text": "[[selam]]! Do you remember what God told Moses on the mountain? Go to Egypt and free My people! Today we see a great miracle on the way. Tap *Let's play*!",
+  "plain": "Selam! Do you remember what God told Moses on the mountain? Go to Egypt and free My people! Today we see a great miracle on the way. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-dec2.k1",
+  "lesson": "L1-dec2",
+  "text": "Moses went to the king of Egypt and said: God says, let My people go! Tap the king.",
+  "plain": "Moses went to the king of Egypt and said: God says, let My people go! Tap the king.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.k2",
+  "lesson": "L1-dec2",
+  "text": "But the king said no! So God sent many troubles upon the king and his people.",
+  "plain": "But the king said no! So God sent many troubles upon the king and his people.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.k3",
+  "lesson": "L1-dec2",
+  "text": "At last the king let God's people go. Moses led the Israelites out of Egypt!",
+  "plain": "At last the king let God's people go. Moses led the Israelites out of Egypt!",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.r1",
+  "lesson": "L1-dec2",
+  "text": "They came to the Red Sea. Then the king changed his mind, and sent his army after them!",
+  "plain": "They came to the Red Sea. Then the king changed his mind, and sent his army after them!",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.r2",
+  "lesson": "L1-dec2",
+  "text": "The people were afraid. God told Moses: hit the sea with your rod! Tap Moses.",
+  "plain": "The people were afraid. God told Moses: hit the sea with your rod! Tap Moses.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.r3",
+  "lesson": "L1-dec2",
+  "text": "The water parted in two, and there was dry land in the middle!",
+  "plain": "The water parted in two, and there was dry land in the middle!",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.cross",
+  "lesson": "L1-dec2",
+  "text": "Help everyone walk across on the dry land! Drag each one to Moses on the other side.",
+  "plain": "Help everyone walk across on the dry land! Drag each one to Moses on the other side.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.cross-done",
+  "lesson": "L1-dec2",
+  "text": "Everyone crossed the Red Sea safely, on dry land!",
+  "plain": "Everyone crossed the Red Sea safely, on dry land!",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.a1",
+  "lesson": "L1-dec2",
+  "text": "The king's army followed them into the sea. Moses lifted his rod again. Tap Moses!",
+  "plain": "The king's army followed them into the sea. Moses lifted his rod again. Tap Moses!",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.a2",
+  "lesson": "L1-dec2",
+  "text": "The water came back together, and the army could not catch God's people.",
+  "plain": "The water came back together, and the army could not catch God's people.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.a3",
+  "lesson": "L1-dec2",
+  "text": "The Israelites praised God for saving them. God always takes care of His people!",
+  "plain": "The Israelites praised God for saving them. God always takes care of His people!",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.q1",
+  "lesson": "L1-dec2",
+  "text": "Did the king let the Israelites go at first?",
+  "plain": "Did the king let the Israelites go at first?",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.q2",
+  "lesson": "L1-dec2",
+  "text": "What did God tell Moses to do when the army came?",
+  "plain": "What did God tell Moses to do when the army came?",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.q3",
+  "lesson": "L1-dec2",
+  "text": "How did the Israelites cross the Red Sea? By swimming, by boat, or on dry land?",
+  "plain": "How did the Israelites cross the Red Sea? By swimming, by boat, or on dry land?",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.song-intro",
+  "lesson": "L1-dec2",
+  "text": "Here is our song! It means: (You /Virgin Mary/ are) What Moses saw on Mount Sinai (Mountain of God) The evergreen bush, the evergreen. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: (You /Virgin Mary/ are) What Moses saw on Mount Sinai (Mountain of God) The evergreen bush, the evergreen. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.song-done",
+  "lesson": "L1-dec2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-dec2.finish",
+  "lesson": "L1-dec2",
+  "text": "You did it! You finished Crossing the Red Sea and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Crossing the Red Sea and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.cover",
+  "lesson": "L1-dec3",
+  "text": "[[selam]]! We saw two great miracles: the burning bush and the Red Sea. Today we see how God fed His people in the desert. Tap *Let's play*!",
+  "plain": "Selam! We saw two great miracles: the burning bush and the Red Sea. Today we see how God fed His people in the desert. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-dec3.h1",
+  "lesson": "L1-dec3",
+  "text": "After they crossed the Red Sea, the people came to a desert. There was nothing to eat! Tap the people.",
+  "plain": "After they crossed the Red Sea, the people came to a desert. There was nothing to eat! Tap the people.",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.h2",
+  "lesson": "L1-dec3",
+  "text": "They cried to Moses: why did you bring us here? In Egypt we had bread to eat!",
+  "plain": "They cried to Moses: why did you bring us here? In Egypt we had bread to eat!",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.h3",
+  "lesson": "L1-dec3",
+  "text": "God heard them. He told Moses: I will give you bread from heaven.",
+  "plain": "God heard them. He told Moses: I will give you bread from heaven.",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.manna",
+  "lesson": "L1-dec3",
+  "text": "The next morning, there was white bread all over the ground! It was called manna. Tap the ground to find it.",
+  "plain": "The next morning, there was white bread all over the ground! It was called manna. Tap the ground to find it.",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.manna-done",
+  "lesson": "L1-dec3",
+  "text": "The manna was white, and tasted like a wafer made with honey. Yum!",
+  "plain": "The manna was white, and tasted like a wafer made with honey. Yum!",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.basket",
+  "lesson": "L1-dec3",
+  "text": "Let's gather manna for breakfast. Drag it into the basket!",
+  "plain": "Let's gather manna for breakfast. Drag it into the basket!",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.basket-done",
+  "lesson": "L1-dec3",
+  "text": "God fed His people with bread from heaven every day for forty years!",
+  "plain": "God fed His people with bread from heaven every day for forty years!",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.q1",
+  "lesson": "L1-dec3",
+  "text": "Why did the Israelites cry to Moses? They had no food, they were tired, or they didn't like Moses?",
+  "plain": "Why did the Israelites cry to Moses? They had no food, they were tired, or they didn't like Moses?",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.q2",
+  "lesson": "L1-dec3",
+  "text": "How did God feed them?",
+  "plain": "How did God feed them?",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.q3",
+  "lesson": "L1-dec3",
+  "text": "How long did God feed them with manna? 40 days, 40 years, or 25 years?",
+  "plain": "How long did God feed them with manna? 40 days, 40 years, or 25 years?",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.q4",
+  "lesson": "L1-dec3",
+  "text": "What did manna taste like? Ice cream, injera, or a wafer with honey?",
+  "plain": "What did manna taste like? Ice cream, injera, or a wafer with honey?",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.song-intro",
+  "lesson": "L1-dec3",
+  "text": "Here is our song! It means: You gave them manna from above St Michael, you gave them Manna from above. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: You gave them manna from above St Michael, you gave them Manna from above. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.song-done",
+  "lesson": "L1-dec3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-dec3.finish",
+  "lesson": "L1-dec3",
+  "text": "You did it! You finished Manna from Heaven and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Manna from Heaven and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.cover",
+  "lesson": "L1-dec4",
+  "text": "[[selam]]! God gave His people bread from heaven. Today we see how He kept taking care of them. Tap *Let's play*!",
+  "plain": "Selam! God gave His people bread from heaven. Today we see how He kept taking care of them. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-dec4.t1",
+  "lesson": "L1-dec4",
+  "text": "The people walked and walked in the hot desert. They were very thirsty, and there was no water. Tap the people.",
+  "plain": "The people walked and walked in the hot desert. They were very thirsty, and there was no water. Tap the people.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.t2",
+  "lesson": "L1-dec4",
+  "text": "They complained to Moses. They forgot all the miracles God did for them.",
+  "plain": "They complained to Moses. They forgot all the miracles God did for them.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.t3",
+  "lesson": "L1-dec4",
+  "text": "But Moses prayed to God for water. Tap Moses to pray.",
+  "plain": "But Moses prayed to God for water. Tap Moses to pray.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.t4",
+  "lesson": "L1-dec4",
+  "text": "God told Moses: hit the rock with your rod, the same rod that opened the Red Sea.",
+  "plain": "God told Moses: hit the rock with your rod, the same rod that opened the Red Sea.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.w1",
+  "lesson": "L1-dec4",
+  "text": "Tap the rock!",
+  "plain": "Tap the rock!",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.w2",
+  "lesson": "L1-dec4",
+  "text": "Water came pouring out of the rock, like a spring!",
+  "plain": "Water came pouring out of the rock, like a spring!",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.drink",
+  "lesson": "L1-dec4",
+  "text": "Bring everyone to the water! Drag the water jar, the children and the animals to the stream.",
+  "plain": "Bring everyone to the water! Drag the water jar, the children and the animals to the stream.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.drink-done",
+  "lesson": "L1-dec4",
+  "text": "All the people, their children and their animals drank. God takes care of us, even when we forget to thank Him.",
+  "plain": "All the people, their children and their animals drank. God takes care of us, even when we forget to thank Him.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.q1",
+  "lesson": "L1-dec4",
+  "text": "Why did the people cry to Moses this time?",
+  "plain": "Why did the people cry to Moses this time?",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.q2",
+  "lesson": "L1-dec4",
+  "text": "What did God tell Moses to do?",
+  "plain": "What did God tell Moses to do?",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.q3",
+  "lesson": "L1-dec4",
+  "text": "What other miracle did Moses do with his rod?",
+  "plain": "What other miracle did Moses do with his rod?",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.song-intro",
+  "lesson": "L1-dec4",
+  "text": "Here is our song! It means: You gave them manna from above St Michael, you gave them Manna from above. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: You gave them manna from above St Michael, you gave them Manna from above. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.song-done",
+  "lesson": "L1-dec4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-dec4.finish",
+  "lesson": "L1-dec4",
+  "text": "You did it! You finished Water from a Rock and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Water from a Rock and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.cover",
+  "lesson": "L1-feb1",
+  "text": "[[selam]]! Do you remember the first miracle of Jesus? He turned water into wine at Cana! Today we will see another miracle, by the sea. Tap *Let's play*!",
+  "plain": "Selam! Do you remember the first miracle of Jesus? He turned water into wine at Cana! Today we will see another miracle, by the sea. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-feb1.t1",
+  "lesson": "L1-feb1",
+  "text": "Many people came to hear Jesus teach by the sea. Tap the people!",
+  "plain": "Many people came to hear Jesus teach by the sea. Tap the people!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.t2",
+  "lesson": "L1-feb1",
+  "text": "Jesus sat in a fishing boat and taught them from the water. Tap the boat!",
+  "plain": "Jesus sat in a fishing boat and taught them from the water. Tap the boat!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.t3",
+  "lesson": "L1-feb1",
+  "text": "The boat belonged to a fisherman called Simon [[petros]]. Fishermen catch fish with big nets.",
+  "plain": "The boat belonged to a fisherman called Simon Petros. Fishermen catch fish with big nets.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.t4",
+  "lesson": "L1-feb1",
+  "text": "But that night [[petros]] and his friends worked hard, and they caught nothing at all. Their net was empty. Tap the empty net.",
+  "plain": "But that night Petros and his friends worked hard, and they caught nothing at all. Their net was empty. Tap the empty net.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.n1",
+  "lesson": "L1-feb1",
+  "text": "Jesus said to [[petros]]: go out into deep water, and let down your net.",
+  "plain": "Jesus said to Petros: go out into deep water, and let down your net.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.n2",
+  "lesson": "L1-feb1",
+  "text": "[[petros]] said: Master, we worked all night and caught nothing. But because You say so, I will let down the net. Tap the net to drop it into the water!",
+  "plain": "Petros said: Master, we worked all night and caught nothing. But because You say so, I will let down the net. Tap the net to drop it into the water!",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.n3",
+  "lesson": "L1-feb1",
+  "text": "Splash! Down went the net. Now let's see what happens!",
+  "plain": "Splash! Down went the net. Now let's see what happens!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.fish",
+  "lesson": "L1-feb1",
+  "text": "Tap the water to fill the net with fish!",
+  "plain": "Tap the water to fill the net with fish!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.fish-done",
+  "lesson": "L1-feb1",
+  "text": "So many fish! The net was so full it began to break!",
+  "plain": "So many fish! The net was so full it began to break!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.f1",
+  "lesson": "L1-feb1",
+  "text": "[[petros]] called his friends in the other boat to come and help. Tap the full net!",
+  "plain": "Petros called his friends in the other boat to come and help. Tap the full net!",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.f2",
+  "lesson": "L1-feb1",
+  "text": "Both boats were filled with fish, so full they nearly sank!",
+  "plain": "Both boats were filled with fish, so full they nearly sank!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.f3",
+  "lesson": "L1-feb1",
+  "text": "[[petros]] fell down at the knees of Jesus. He knew this was a great miracle.",
+  "plain": "Petros fell down at the knees of Jesus. He knew this was a great miracle.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.f4",
+  "lesson": "L1-feb1",
+  "text": "Jesus said: do not be afraid. From now on you will catch people! Tap Jesus.",
+  "plain": "Jesus said: do not be afraid. From now on you will catch people! Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.f5",
+  "lesson": "L1-feb1",
+  "text": "[[petros]], James and John left everything, and followed Jesus.",
+  "plain": "Petros, James and John left everything, and followed Jesus.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb1.order",
+  "lesson": "L1-feb1",
+  "text": "Put the story in order. Tap what happened first!",
+  "plain": "Put the story in order. Tap what happened first!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.order-done",
+  "lesson": "L1-feb1",
+  "text": "You told the whole story!",
+  "plain": "You told the whole story!",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.o1",
+  "lesson": "L1-feb1",
+  "text": "Jesus taught the people from the boat.",
+  "plain": "Jesus taught the people from the boat.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.o2",
+  "lesson": "L1-feb1",
+  "text": "The fishermen had caught nothing.",
+  "plain": "The fishermen had caught nothing.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.o3",
+  "lesson": "L1-feb1",
+  "text": "Then the net was full of fish.",
+  "plain": "Then the net was full of fish.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.o4",
+  "lesson": "L1-feb1",
+  "text": "And they followed Jesus.",
+  "plain": "And they followed Jesus.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.order-again",
+  "lesson": "L1-feb1",
+  "text": "Hmm, what happened before that?",
+  "plain": "Hmm, what happened before that?",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.q1",
+  "lesson": "L1-feb1",
+  "text": "Where did Jesus sit to teach the people?",
+  "plain": "Where did Jesus sit to teach the people?",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.q2",
+  "lesson": "L1-feb1",
+  "text": "What do fishermen do?",
+  "plain": "What do fishermen do?",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.q3",
+  "lesson": "L1-feb1",
+  "text": "Did Peter catch any fish before Jesus came?",
+  "plain": "Did Peter catch any fish before Jesus came?",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.q4",
+  "lesson": "L1-feb1",
+  "text": "What did the fishermen do after the miracle?",
+  "plain": "What did the fishermen do after the miracle?",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.song-intro",
+  "lesson": "L1-feb1",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.song-done",
+  "lesson": "L1-feb1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-feb1.finish",
+  "lesson": "L1-feb1",
+  "text": "You did it! You finished The Big Catch of Fish and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished The Big Catch of Fish and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.cover",
+  "lesson": "L1-feb2",
+  "text": "[[selam]]! We saw two miracles of Jesus: water into wine, and the big catch of fish. Today we learn about another one. Tap *Let's play*!",
+  "plain": "Selam! We saw two miracles of Jesus: water into wine, and the big catch of fish. Today we learn about another one. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-feb2.b1",
+  "lesson": "L1-feb2",
+  "text": "There was a man who was born blind. He had never seen anything. Tap the man.",
+  "plain": "There was a man who was born blind. He had never seen anything. Tap the man.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.b2",
+  "lesson": "L1-feb2",
+  "text": "He sat by the road and asked people for help.",
+  "plain": "He sat by the road and asked people for help.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.b3",
+  "lesson": "L1-feb2",
+  "text": "The disciples asked Jesus: whose fault is it that he was born blind?",
+  "plain": "The disciples asked Jesus: whose fault is it that he was born blind?",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.b4",
+  "lesson": "L1-feb2",
+  "text": "Jesus said: it is nobody's fault. God's wonderful work will be shown in him!",
+  "plain": "Jesus said: it is nobody's fault. God's wonderful work will be shown in him!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.m1",
+  "lesson": "L1-feb2",
+  "text": "Jesus bent down and made a little mud. Tap the ground to see!",
+  "plain": "Jesus bent down and made a little mud. Tap the ground to see!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.m2",
+  "lesson": "L1-feb2",
+  "text": "He put the mud on the man's eyes, and said: go and wash in the pool of [[siloam]].",
+  "plain": "He put the mud on the man's eyes, and said: go and wash in the pool of Siloham.",
+  "words": [
+   "siloam"
+  ]
+ },
+ {
+  "id": "L1-feb2.go",
+  "lesson": "L1-feb2",
+  "text": "Help the man walk to the pool of [[siloam]]. Drag him to the water!",
+  "plain": "Help the man walk to the pool of Siloham. Drag him to the water!",
+  "words": [
+   "siloam"
+  ]
+ },
+ {
+  "id": "L1-feb2.go-done",
+  "lesson": "L1-feb2",
+  "text": "He washed his eyes in the pool, just as Jesus said.",
+  "plain": "He washed his eyes in the pool, just as Jesus said.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.s1",
+  "lesson": "L1-feb2",
+  "text": "And he came back seeing! For the first time in his life, he could see!",
+  "plain": "And he came back seeing! For the first time in his life, he could see!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.s2",
+  "lesson": "L1-feb2",
+  "text": "He could see the sky, the trees and the faces of the people. Thank God! [[egziabher-yimesgen]]!",
+  "plain": "He could see the sky, the trees and the faces of the people. Thank God! Egziabher yimesgen!",
+  "words": [
+   "egziabher-yimesgen"
+  ]
+ },
+ {
+  "id": "L1-feb2.find",
+  "lesson": "L1-feb2",
+  "text": "Now the man can see everything! Tap the bushes to see what he sees.",
+  "plain": "Now the man can see everything! Tap the bushes to see what he sees.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.find-done",
+  "lesson": "L1-feb2",
+  "text": "What a beautiful world God made!",
+  "plain": "What a beautiful world God made!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.f1",
+  "lesson": "L1-feb2",
+  "text": "A bird!",
+  "plain": "A bird!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.f2",
+  "lesson": "L1-feb2",
+  "text": "A yellow flower!",
+  "plain": "A yellow flower!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.f3",
+  "lesson": "L1-feb2",
+  "text": "A sheep!",
+  "plain": "A sheep!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.t1",
+  "lesson": "L1-feb2",
+  "text": "The people were amazed. Is this the blind man who used to sit by the road? Tap the people!",
+  "plain": "The people were amazed. Is this the blind man who used to sit by the road? Tap the people!",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.t2",
+  "lesson": "L1-feb2",
+  "text": "He said: yes, it is me! A man called Jesus put mud on my eyes, I washed, and now I can see! Tap him.",
+  "plain": "He said: yes, it is me! A man called Jesus put mud on my eyes, I washed, and now I can see! Tap him.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.q1",
+  "lesson": "L1-feb2",
+  "text": "What was wrong with the man?",
+  "plain": "What was wrong with the man?",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.q2",
+  "lesson": "L1-feb2",
+  "text": "What did Jesus put on his eyes?",
+  "plain": "What did Jesus put on his eyes?",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.q3",
+  "lesson": "L1-feb2",
+  "text": "Where did the man wash?",
+  "plain": "Where did the man wash?",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.q4",
+  "lesson": "L1-feb2",
+  "text": "What happened after he washed?",
+  "plain": "What happened after he washed?",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.song-intro",
+  "lesson": "L1-feb2",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.song-done",
+  "lesson": "L1-feb2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-feb2.finish",
+  "lesson": "L1-feb2",
+  "text": "You did it! You finished Jesus Heals the Blind Man and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Jesus Heals the Blind Man and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.cover",
+  "lesson": "L1-feb3",
+  "text": "[[selam]]! Jesus did many miracles. He turned water into wine, and He helped a blind man see. Today, Jesus walks on the water! Tap *Let's play*!",
+  "plain": "Selam! Jesus did many miracles. He turned water into wine, and He helped a blind man see. Today, Jesus walks on the water! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-feb3.w1",
+  "lesson": "L1-feb3",
+  "text": "The disciples went across the sea in a boat. Night came, and the wind was very strong! Tap the boat.",
+  "plain": "The disciples went across the sea in a boat. Night came, and the wind was very strong! Tap the boat.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.w2",
+  "lesson": "L1-feb3",
+  "text": "Then they saw someone walking on the water, towards them!",
+  "plain": "Then they saw someone walking on the water, towards them!",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.w3",
+  "lesson": "L1-feb3",
+  "text": "They were scared. They thought it was a ghost!",
+  "plain": "They were scared. They thought it was a ghost!",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.w4",
+  "lesson": "L1-feb3",
+  "text": "But Jesus said: it is I. Do not be afraid! [[ayzoh]]! Tap Jesus.",
+  "plain": "But Jesus said: it is I. Do not be afraid! Ayzoh! Tap Jesus.",
+  "words": [
+   "ayzoh"
+  ]
+ },
+ {
+  "id": "L1-feb3.p1",
+  "lesson": "L1-feb3",
+  "text": "[[petros]] said: Lord, if it is You, tell me to come to You on the water.",
+  "plain": "Petros said: Lord, if it is You, tell me to come to You on the water.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb3.p2",
+  "lesson": "L1-feb3",
+  "text": "Jesus said: come! Tap [[petros]] to help him step onto the water.",
+  "plain": "Jesus said: come! Tap Petros to help him step onto the water.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb3.p3",
+  "lesson": "L1-feb3",
+  "text": "[[petros]] walked on the water! He looked at Jesus and walked.",
+  "plain": "Petros walked on the water! He looked at Jesus and walked.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb3.p4",
+  "lesson": "L1-feb3",
+  "text": "But then he looked at the strong wind. He was afraid, and he began to sink!",
+  "plain": "But then he looked at the strong wind. He was afraid, and he began to sink!",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.p5",
+  "lesson": "L1-feb3",
+  "text": "[[petros]] cried: Lord, save me! Tap Jesus to help him!",
+  "plain": "Petros cried: Lord, save me! Tap Jesus to help him!",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb3.p6",
+  "lesson": "L1-feb3",
+  "text": "Right away Jesus reached out His hand and caught him. Jesus said: why did you doubt?",
+  "plain": "Right away Jesus reached out His hand and caught him. Jesus said: why did you doubt?",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.calm",
+  "lesson": "L1-feb3",
+  "text": "Jesus and [[petros]] got into the boat, and the wind stopped! Tap the dark clouds to send them away.",
+  "plain": "Jesus and Petros got into the boat, and the wind stopped! Tap the dark clouds to send them away.",
+  "words": [
+   "petros"
+  ]
+ },
+ {
+  "id": "L1-feb3.calm-done",
+  "lesson": "L1-feb3",
+  "text": "The sea was calm. The disciples bowed down and said: truly You are the Son of God!",
+  "plain": "The sea was calm. The disciples bowed down and said: truly You are the Son of God!",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.order",
+  "lesson": "L1-feb3",
+  "text": "Put the story in order. Tap what happened first!",
+  "plain": "Put the story in order. Tap what happened first!",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.order-done",
+  "lesson": "L1-feb3",
+  "text": "You told the whole story!",
+  "plain": "You told the whole story!",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.o1",
+  "lesson": "L1-feb3",
+  "text": "The disciples were in the boat in the wind.",
+  "plain": "The disciples were in the boat in the wind.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.o2",
+  "lesson": "L1-feb3",
+  "text": "Jesus came walking on the water.",
+  "plain": "Jesus came walking on the water.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.o3",
+  "lesson": "L1-feb3",
+  "text": "Peter walked, then began to sink.",
+  "plain": "Peter walked, then began to sink.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.o4",
+  "lesson": "L1-feb3",
+  "text": "Jesus got in the boat, and the wind stopped.",
+  "plain": "Jesus got in the boat, and the wind stopped.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.order-again",
+  "lesson": "L1-feb3",
+  "text": "Hmm, what happened before that?",
+  "plain": "Hmm, what happened before that?",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.q1",
+  "lesson": "L1-feb3",
+  "text": "What did the disciples think when they saw Jesus on the water?",
+  "plain": "What did the disciples think when they saw Jesus on the water?",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.q2",
+  "lesson": "L1-feb3",
+  "text": "What did Peter ask Jesus?",
+  "plain": "What did Peter ask Jesus?",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.q3",
+  "lesson": "L1-feb3",
+  "text": "Why did Peter start to sink?",
+  "plain": "Why did Peter start to sink?",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.q4",
+  "lesson": "L1-feb3",
+  "text": "What did the disciples say at the end?",
+  "plain": "What did the disciples say at the end?",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.song-intro",
+  "lesson": "L1-feb3",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.song-done",
+  "lesson": "L1-feb3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-feb3.finish",
+  "lesson": "L1-feb3",
+  "text": "You did it! You finished Jesus Walks on Water and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Jesus Walks on Water and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.cover",
+  "lesson": "L1-jan1",
+  "text": "[[selam]]! Why do we celebrate Christmas, [[genna]]? Because it is the birthday of our Lord Jesus Christ! Our church celebrates it on January seventh. Tap *Let's play*!",
+  "plain": "Selam! Why do we celebrate Christmas, Genna? Because it is the birthday of our Lord Jesus Christ! Our church celebrates it on January seventh. Tap Let's play!",
+  "words": [
+   "selam",
+   "genna"
+  ]
+ },
+ {
+  "id": "L1-jan1.n1",
+  "lesson": "L1-jan1",
+  "text": "The Virgin [[mariam]] and Joseph travelled to Bethlehem. Tap the house to look for a place to stay.",
+  "plain": "The Virgin Mariam and Joseph travelled to Bethlehem. Tap the house to look for a place to stay.",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-jan1.n2",
+  "lesson": "L1-jan1",
+  "text": "But there was no room for them anywhere.",
+  "plain": "But there was no room for them anywhere.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.n3",
+  "lesson": "L1-jan1",
+  "text": "The only place they could find was a stable, where animals sleep.",
+  "plain": "The only place they could find was a stable, where animals sleep.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.m1",
+  "lesson": "L1-jan1",
+  "text": "That night, the Virgin [[mariam]] gave birth to baby Jesus. Tap the manger!",
+  "plain": "That night, the Virgin Mariam gave birth to baby Jesus. Tap the manger!",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-jan1.m2",
+  "lesson": "L1-jan1",
+  "text": "She wrapped Him in cloths and laid Him in the manger. The Savior of the world was born!",
+  "plain": "She wrapped Him in cloths and laid Him in the manger. The Savior of the world was born!",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.find",
+  "lesson": "L1-jan1",
+  "text": "Near Bethlehem, shepherds were watching their sheep at night. Some sheep are hiding. Tap the bushes to find them!",
+  "plain": "Near Bethlehem, shepherds were watching their sheep at night. Some sheep are hiding. Tap the bushes to find them!",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.find-done",
+  "lesson": "L1-jan1",
+  "text": "All the sheep are safe. Then something wonderful happened!",
+  "plain": "All the sheep are safe. Then something wonderful happened!",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.f1",
+  "lesson": "L1-jan1",
+  "text": "A sheep!",
+  "plain": "A sheep!",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.f2",
+  "lesson": "L1-jan1",
+  "text": "Another sheep!",
+  "plain": "Another sheep!",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.f3",
+  "lesson": "L1-jan1",
+  "text": "One more!",
+  "plain": "One more!",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.angels",
+  "lesson": "L1-jan1",
+  "text": "An angel came to the shepherds and said: Do not be afraid! I bring you good news of great joy. A Savior is born! Tap the sky to fill it with angels.",
+  "plain": "An angel came to the shepherds and said: Do not be afraid! I bring you good news of great joy. A Savior is born! Tap the sky to fill it with angels.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.angels-done",
+  "lesson": "L1-jan1",
+  "text": "All the angels praised God: Glory to God in the highest, and on earth peace! The shepherds ran to Bethlehem and found baby Jesus, just as the angel said.",
+  "plain": "All the angels praised God: Glory to God in the highest, and on earth peace! The shepherds ran to Bethlehem and found baby Jesus, just as the angel said.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.q1",
+  "lesson": "L1-jan1",
+  "text": "Why do we celebrate Christmas?",
+  "plain": "Why do we celebrate Christmas?",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.q2",
+  "lesson": "L1-jan1",
+  "text": "Where was baby Jesus laid?",
+  "plain": "Where was baby Jesus laid?",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.q3",
+  "lesson": "L1-jan1",
+  "text": "Who told the shepherds the good news?",
+  "plain": "Who told the shepherds the good news?",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.song-intro",
+  "lesson": "L1-jan1",
+  "text": "Here is our song! It means: He lied in a manger, and was wrapped in cloths, The Savior of the World, was born today. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: He lied in a manger, and was wrapped in cloths, The Savior of the World, was born today. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.song-done",
+  "lesson": "L1-jan1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-jan1.finish",
+  "lesson": "L1-jan1",
+  "text": "You did it! You finished Jesus Is Born and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Jesus Is Born and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.cover",
+  "lesson": "L1-jan2",
+  "text": "[[selam]]! When Jesus was born, angels told the shepherds. But visitors also came from a faraway land! Tap *Let's play*!",
+  "plain": "Selam! When Jesus was born, angels told the shepherds. But visitors also came from a faraway land! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-jan2.star",
+  "lesson": "L1-jan2",
+  "text": "Far away, kings saw a special star. They knew it meant a new King was born! Tap to follow the star.",
+  "plain": "Far away, kings saw a special star. They knew it meant a new King was born! Tap to follow the star.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.star-done",
+  "lesson": "L1-jan2",
+  "text": "The shining star led them all the way to Bethlehem, to baby Jesus!",
+  "plain": "The shining star led them all the way to Bethlehem, to baby Jesus!",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.gifts",
+  "lesson": "L1-jan2",
+  "text": "The kings worshipped baby Jesus and gave Him three gifts. Drag each gift to Jesus!",
+  "plain": "The kings worshipped baby Jesus and gave Him three gifts. Drag each gift to Jesus!",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.gifts-done",
+  "lesson": "L1-jan2",
+  "text": "Gold, frankincense and myrrh! Then the kings went back home to their country.",
+  "plain": "Gold, frankincense and myrrh! Then the kings went back home to their country.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.g1",
+  "lesson": "L1-jan2",
+  "text": "Gold, a gift for a King!",
+  "plain": "Gold, a gift for a King!",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.g2",
+  "lesson": "L1-jan2",
+  "text": "Frankincense, sweet incense for God!",
+  "plain": "Frankincense, sweet incense for God!",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.g3",
+  "lesson": "L1-jan2",
+  "text": "Myrrh, a precious oil.",
+  "plain": "Myrrh, a precious oil.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.o1",
+  "lesson": "L1-jan2",
+  "text": "Did you get gifts for Christmas? What gift can we give to Jesus? Tap the children.",
+  "plain": "Did you get gifts for Christmas? What gift can we give to Jesus? Tap the children.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.o2",
+  "lesson": "L1-jan2",
+  "text": "We can give Him our love, our prayers, and kindness to others!",
+  "plain": "We can give Him our love, our prayers, and kindness to others!",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.q1",
+  "lesson": "L1-jan2",
+  "text": "How did the kings know a new King was born?",
+  "plain": "How did the kings know a new King was born?",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.q2",
+  "lesson": "L1-jan2",
+  "text": "Who did the kings visit?",
+  "plain": "Who did the kings visit?",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.q3",
+  "lesson": "L1-jan2",
+  "text": "Which was one of the gifts?",
+  "plain": "Which was one of the gifts?",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.song-intro",
+  "lesson": "L1-jan2",
+  "text": "Here is our song! It means: He lied in a manger, and was wrapped in cloths, The Savior of the World, was born today. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: He lied in a manger, and was wrapped in cloths, The Savior of the World, was born today. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.song-done",
+  "lesson": "L1-jan2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-jan2.finish",
+  "lesson": "L1-jan2",
+  "text": "You did it! You finished Kings Bring Gifts to Jesus and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Kings Bring Gifts to Jesus and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.cover",
+  "lesson": "L1-jan3",
+  "text": "[[selam]]! In Ethiopia we celebrate [[timket]] with water, singing and the [[tabot]]. Today we learn why: it is the baptism of Jesus Christ! Tap *Let's play*!",
+  "plain": "Selam! In Ethiopia we celebrate Timket with water, singing and the Tabot. Today we learn why: it is the baptism of Jesus Christ! Tap Let's play!",
+  "words": [
+   "selam",
+   "timket",
+   "tabot"
+  ]
+ },
+ {
+  "id": "L1-jan3.j1",
+  "lesson": "L1-jan3",
+  "text": "A man named John was baptizing people in the Jordan River. Tap John!",
+  "plain": "A man named John was baptizing people in the Jordan River. Tap John!",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.j2",
+  "lesson": "L1-jan3",
+  "text": "When Jesus was thirty years old, He came to the river to be baptized by John.",
+  "plain": "When Jesus was thirty years old, He came to the river to be baptized by John.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.j3",
+  "lesson": "L1-jan3",
+  "text": "John said: I need to be baptized by You! But Jesus wanted to set an example for us. Tap Jesus.",
+  "plain": "John said: I need to be baptized by You! But Jesus wanted to set an example for us. Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.j4",
+  "lesson": "L1-jan3",
+  "text": "So John baptized Jesus in the Jordan River.",
+  "plain": "So John baptized Jesus in the Jordan River.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.d1",
+  "lesson": "L1-jan3",
+  "text": "When Jesus came out of the water, the heavens opened. Tap the sky!",
+  "plain": "When Jesus came out of the water, the heavens opened. Tap the sky!",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.d2",
+  "lesson": "L1-jan3",
+  "text": "The Holy Spirit came down upon Jesus like a dove!",
+  "plain": "The Holy Spirit came down upon Jesus like a dove!",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.d3",
+  "lesson": "L1-jan3",
+  "text": "And a voice came from heaven: This is My beloved Son, with whom I am well pleased.",
+  "plain": "And a voice came from heaven: This is My beloved Son, with whom I am well pleased.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.timket",
+  "lesson": "L1-jan3",
+  "text": "At [[timket]], the priest blesses the water and sprinkles it on everyone. Tap to splash the holy water!",
+  "plain": "At Timket, the priest blesses the water and sprinkles it on everyone. Tap to splash the holy water!",
+  "words": [
+   "timket"
+  ]
+ },
+ {
+  "id": "L1-jan3.timket-done",
+  "lesson": "L1-jan3",
+  "text": "Splash! Everyone is blessed. Happy [[timket]]!",
+  "plain": "Splash! Everyone is blessed. Happy Timket!",
+  "words": [
+   "timket"
+  ]
+ },
+ {
+  "id": "L1-jan3.q1",
+  "lesson": "L1-jan3",
+  "text": "How old was Jesus when He was baptized? 3, 12, or 30?",
+  "plain": "How old was Jesus when He was baptized? 3, 12, or 30?",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.q2",
+  "lesson": "L1-jan3",
+  "text": "Who baptized Jesus?",
+  "plain": "Who baptized Jesus?",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.q3",
+  "lesson": "L1-jan3",
+  "text": "How did the Holy Spirit come down?",
+  "plain": "How did the Holy Spirit come down?",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.song-intro",
+  "lesson": "L1-jan3",
+  "text": "Here is our song! It means: Jesus went From Galilee to John (to the Jordan River for Baptism) Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Jesus went From Galilee to John (to the Jordan River for Baptism) Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.song-done",
+  "lesson": "L1-jan3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-jan3.finish",
+  "lesson": "L1-jan3",
+  "text": "You did it! You finished Jesus Is Baptized and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Jesus Is Baptized and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.cover",
+  "lesson": "L1-jan4",
+  "text": "[[selam]]! Do you remember who baptized Jesus? John, in the Jordan River! Today we see the first miracle Jesus did. Tap *Let's play*!",
+  "plain": "Selam! Do you remember who baptized Jesus? John, in the Jordan River! Today we see the first miracle Jesus did. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-jan4.w1",
+  "lesson": "L1-jan4",
+  "text": "Jesus, His mother the Virgin [[mariam]], and His disciples went to a wedding in Cana. Tap the wedding couple!",
+  "plain": "Jesus, His mother the Virgin Mariam, and His disciples went to a wedding in Cana. Tap the wedding couple!",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-jan4.w2",
+  "lesson": "L1-jan4",
+  "text": "Oh no! The family ran out of wine for the guests. Tap the empty jug.",
+  "plain": "Oh no! The family ran out of wine for the guests. Tap the empty jug.",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.w3",
+  "lesson": "L1-jan4",
+  "text": "The Virgin [[mariam]] saw their problem, and told her Son. She knew He could help.",
+  "plain": "The Virgin Mariam saw their problem, and told her Son. She knew He could help.",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-jan4.w4",
+  "lesson": "L1-jan4",
+  "text": "She told the servants: do whatever He tells you!",
+  "plain": "She told the servants: do whatever He tells you!",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.fill",
+  "lesson": "L1-jan4",
+  "text": "There were six big empty jars. Jesus said: fill the jars with water. Tap six times to fill them!",
+  "plain": "There were six big empty jars. Jesus said: fill the jars with water. Tap six times to fill them!",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.fill-done",
+  "lesson": "L1-jan4",
+  "text": "All six jars are full of water, right to the top!",
+  "plain": "All six jars are full of water, right to the top!",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.v1",
+  "lesson": "L1-jan4",
+  "text": "Jesus said: now pour some out and take it to the guests. Tap a jar!",
+  "plain": "Jesus said: now pour some out and take it to the guests. Tap a jar!",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.v2",
+  "lesson": "L1-jan4",
+  "text": "The water had turned into wine! Even better wine than before!",
+  "plain": "The water had turned into wine! Even better wine than before!",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.v3",
+  "lesson": "L1-jan4",
+  "text": "This was the first miracle of Jesus, in Cana of Galilee.",
+  "plain": "This was the first miracle of Jesus, in Cana of Galilee.",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.q1",
+  "lesson": "L1-jan4",
+  "text": "Where were Jesus and His mother invited?",
+  "plain": "Where were Jesus and His mother invited?",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.q2",
+  "lesson": "L1-jan4",
+  "text": "What problem did the family have?",
+  "plain": "What problem did the family have?",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.q3",
+  "lesson": "L1-jan4",
+  "text": "Who told Jesus about the problem?",
+  "plain": "Who told Jesus about the problem?",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.q4",
+  "lesson": "L1-jan4",
+  "text": "What did Jesus change the water into?",
+  "plain": "What did Jesus change the water into?",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.song-intro",
+  "lesson": "L1-jan4",
+  "text": "Here is our song! It means: Jesus went From Galilee to John (to the Jordan River for Baptism) Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Jesus went From Galilee to John (to the Jordan River for Baptism) Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.song-done",
+  "lesson": "L1-jan4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-jan4.finish",
+  "lesson": "L1-jan4",
+  "text": "You did it! You finished The Wedding at Cana and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished The Wedding at Cana and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.cover",
+  "lesson": "L1-nov1",
+  "text": "[[selam]]! Long after the great flood, there lived a holy man named Abraham. Let's hear about a promise God made to him. Tap *Let's play*!",
+  "plain": "Selam! Long after the great flood, there lived a holy man named Abraham. Let's hear about a promise God made to him. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-nov1.a1",
+  "lesson": "L1-nov1",
+  "text": "Abraham and his wife Sarah loved God. They helped the poor. Tap Abraham to share his food!",
+  "plain": "Abraham and his wife Sarah loved God. They helped the poor. Tap Abraham to share his food!",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.a2",
+  "lesson": "L1-nov1",
+  "text": "Thank you, Abraham! But Abraham and Sarah had no children, and they grew very old.",
+  "plain": "Thank you, Abraham! But Abraham and Sarah had no children, and they grew very old.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.a3",
+  "lesson": "L1-nov1",
+  "text": "One day God said to Abraham: I will give you a child. Sarah your wife will have a son! Tap Sarah.",
+  "plain": "One day God said to Abraham: I will give you a child. Sarah your wife will have a son! Tap Sarah.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.a4",
+  "lesson": "L1-nov1",
+  "text": "Sarah laughed in her heart, because she was too old to have a baby. But God knows even what we think!",
+  "plain": "Sarah laughed in her heart, because she was too old to have a baby. But God knows even what we think!",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.a5",
+  "lesson": "L1-nov1",
+  "text": "God said: Why did Sarah laugh? Is anything too hard for the Lord? No! Nothing is too hard for God.",
+  "plain": "God said: Why did Sarah laugh? Is anything too hard for the Lord? No! Nothing is too hard for God.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.stars",
+  "lesson": "L1-nov1",
+  "text": "God also promised Abraham many, many grandchildren, more than the stars! Tap the sky to count ten stars.",
+  "plain": "God also promised Abraham many, many grandchildren, more than the stars! Tap the sky to count ten stars.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.stars-done",
+  "lesson": "L1-nov1",
+  "text": "Ten stars! Abraham's family would be bigger than all the stars he could count.",
+  "plain": "Ten stars! Abraham's family would be bigger than all the stars he could count.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.b1",
+  "lesson": "L1-nov1",
+  "text": "Within a year, just as God promised, Sarah had a baby boy! Tap the baby!",
+  "plain": "Within a year, just as God promised, Sarah had a baby boy! Tap the baby!",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.b2",
+  "lesson": "L1-nov1",
+  "text": "They named him Isaac, [[yishak]]. Abraham was one hundred years old, and Sarah was ninety!",
+  "plain": "They named him Isaac, Yishak. Abraham was one hundred years old, and Sarah was ninety!",
+  "words": [
+   "yishak"
+  ]
+ },
+ {
+  "id": "L1-nov1.b3",
+  "lesson": "L1-nov1",
+  "text": "God always keeps His promises.",
+  "plain": "God always keeps His promises.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.q1",
+  "lesson": "L1-nov1",
+  "text": "What did God promise Abraham and Sarah? A son, or a big house?",
+  "plain": "What did God promise Abraham and Sarah? A son, or a big house?",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.q2",
+  "lesson": "L1-nov1",
+  "text": "Did God keep His promise?",
+  "plain": "Did God keep His promise?",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.q3",
+  "lesson": "L1-nov1",
+  "text": "What was the name of the promised child?",
+  "plain": "What was the name of the promised child?",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.song-intro",
+  "lesson": "L1-nov1",
+  "text": "Here is our song! It means: What can I repay God for all that He has done for me? What else can I say except praising Him? Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: What can I repay God for all that He has done for me? What else can I say except praising Him? Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.song-done",
+  "lesson": "L1-nov1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-nov1.finish",
+  "lesson": "L1-nov1",
+  "text": "You did it! You finished Abraham, Sarah and God's Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Abraham, Sarah and God's Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.cover",
+  "lesson": "L1-nov2",
+  "text": "[[selam]]! Do you remember Isaac, the baby God promised to Abraham and Sarah? Now Isaac is grown up. Today we learn about a special blessing. Tap *Let's play*!",
+  "plain": "Selam! Do you remember Isaac, the baby God promised to Abraham and Sarah? Now Isaac is grown up. Today we learn about a special blessing. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-nov2.t1",
+  "lesson": "L1-nov2",
+  "text": "Isaac married a woman named Rebecca. Tap Rebecca!",
+  "plain": "Isaac married a woman named Rebecca. Tap Rebecca!",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.t2",
+  "lesson": "L1-nov2",
+  "text": "They had twin boys: Esau and Jacob! Esau was born first.",
+  "plain": "They had twin boys: Esau and Jacob! Esau was born first.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.t3",
+  "lesson": "L1-nov2",
+  "text": "The first-born son gets a special blessing from his father, called the blessing of the first-born.",
+  "plain": "The first-born son gets a special blessing from his father, called the blessing of the first-born.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.cook",
+  "lesson": "L1-nov2",
+  "text": "One day Jacob was cooking. Help him! Drag the lentils, the onion and the pepper into the pot.",
+  "plain": "One day Jacob was cooking. Help him! Drag the lentils, the onion and the pepper into the pot.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.cook-done",
+  "lesson": "L1-nov2",
+  "text": "Mmm, that smells good!",
+  "plain": "Mmm, that smells good!",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.b1",
+  "lesson": "L1-nov2",
+  "text": "Esau came home from hunting, very hungry. He said: please give me some food!",
+  "plain": "Esau came home from hunting, very hungry. He said: please give me some food!",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.b2",
+  "lesson": "L1-nov2",
+  "text": "Jacob said: I will, if you give me your blessing of the first-born. Esau said: you can have it! Tap the bowl to give Esau his food.",
+  "plain": "Jacob said: I will, if you give me your blessing of the first-born. Esau said: you can have it! Tap the bowl to give Esau his food.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.b3",
+  "lesson": "L1-nov2",
+  "text": "Esau ate the food. He gave away his blessing for one bowl of food.",
+  "plain": "Esau ate the food. He gave away his blessing for one bowl of food.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.j1",
+  "lesson": "L1-nov2",
+  "text": "When Isaac was old, he gave Jacob the blessing of the first-born. Tap Isaac's hand to bless Jacob!",
+  "plain": "When Isaac was old, he gave Jacob the blessing of the first-born. Tap Isaac's hand to bless Jacob!",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.j2",
+  "lesson": "L1-nov2",
+  "text": "God blessed Jacob, because of his father's blessing.",
+  "plain": "God blessed Jacob, because of his father's blessing.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.j3",
+  "lesson": "L1-nov2",
+  "text": "Our mothers and fathers bless us too. Tonight, ask your parents for a blessing!",
+  "plain": "Our mothers and fathers bless us too. Tonight, ask your parents for a blessing!",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.q1",
+  "lesson": "L1-nov2",
+  "text": "Who is the father of Isaac?",
+  "plain": "Who is the father of Isaac?",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.q2",
+  "lesson": "L1-nov2",
+  "text": "Who was born first, Jacob or Esau?",
+  "plain": "Who was born first, Jacob or Esau?",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.q3",
+  "lesson": "L1-nov2",
+  "text": "What special thing does the first-born get?",
+  "plain": "What special thing does the first-born get?",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.q4",
+  "lesson": "L1-nov2",
+  "text": "Who received the blessing of the first-born?",
+  "plain": "Who received the blessing of the first-born?",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.song-intro",
+  "lesson": "L1-nov2",
+  "text": "Here is our song! It means: What can I repay God for all that He has done for me? What else can I say except praising Him? Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: What can I repay God for all that He has done for me? What else can I say except praising Him? Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.song-done",
+  "lesson": "L1-nov2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-nov2.finish",
+  "lesson": "L1-nov2",
+  "text": "You did it! You finished Isaac Blesses Jacob and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Isaac Blesses Jacob and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.cover",
+  "lesson": "L1-nov3",
+  "text": "[[selam]]! Jacob received the blessing from his father, because he was a good son. Today we hear about a very strange dream he had. Tap *Let's play*!",
+  "plain": "Selam! Jacob received the blessing from his father, because he was a good son. Today we hear about a very strange dream he had. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-nov3.d1",
+  "lesson": "L1-nov3",
+  "text": "Jacob was going to his uncle's house. It got dark on the way. Tap Jacob to help him rest.",
+  "plain": "Jacob was going to his uncle's house. It got dark on the way. Tap Jacob to help him rest.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.d2",
+  "lesson": "L1-nov3",
+  "text": "Jacob lay down to sleep, with a stone for a pillow. Tap the stone.",
+  "plain": "Jacob lay down to sleep, with a stone for a pillow. Tap the stone.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.d3",
+  "lesson": "L1-nov3",
+  "text": "Jacob had a dream! He saw a ladder that went from the earth all the way up to heaven, and God was at the top.",
+  "plain": "Jacob had a dream! He saw a ladder that went from the earth all the way up to heaven, and God was at the top.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.angels",
+  "lesson": "L1-nov3",
+  "text": "In the dream, angels were going up and down the ladder! Tap the bottom of the ladder to send five angels up.",
+  "plain": "In the dream, angels were going up and down the ladder! Tap the bottom of the ladder to send five angels up.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.angels-done",
+  "lesson": "L1-nov3",
+  "text": "Up and down went the angels! Then Jacob heard God speak.",
+  "plain": "Up and down went the angels! Then Jacob heard God speak.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.h1",
+  "lesson": "L1-nov3",
+  "text": "God said: I am the God of Abraham and the God of Isaac. I will give this land to you and your children.",
+  "plain": "God said: I am the God of Abraham and the God of Isaac. I will give this land to you and your children.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.h2",
+  "lesson": "L1-nov3",
+  "text": "Jacob woke up and said: How awesome is this place! This is the house of God! Tap the stone.",
+  "plain": "Jacob woke up and said: How awesome is this place! This is the house of God! Tap the stone.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.h3",
+  "lesson": "L1-nov3",
+  "text": "Jacob named the place Bethel, [[betel]], which means the house of God.",
+  "plain": "Jacob named the place Bethel, Betel, which means the house of God.",
+  "words": [
+   "betel"
+  ]
+ },
+ {
+  "id": "L1-nov3.h4",
+  "lesson": "L1-nov3",
+  "text": "Our church is the house of God too. When we go to church, God is there with us!",
+  "plain": "Our church is the house of God too. When we go to church, God is there with us!",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.q1",
+  "lesson": "L1-nov3",
+  "text": "Who did Jacob go to after he got the blessing? His mother, his uncle, or his nephew?",
+  "plain": "Who did Jacob go to after he got the blessing? His mother, his uncle, or his nephew?",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.q2",
+  "lesson": "L1-nov3",
+  "text": "What did Jacob see in his dream?",
+  "plain": "What did Jacob see in his dream?",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.q3",
+  "lesson": "L1-nov3",
+  "text": "What did Jacob call the place? Jordan, Jerusalem, or Bethel?",
+  "plain": "What did Jacob call the place? Jordan, Jerusalem, or Bethel?",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.song-intro",
+  "lesson": "L1-nov3",
+  "text": "Here is our song! It means: What can I repay God for all that He has done for me? What else can I say except praising Him? Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: What can I repay God for all that He has done for me? What else can I say except praising Him? Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.song-done",
+  "lesson": "L1-nov3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-nov3.finish",
+  "lesson": "L1-nov3",
+  "text": "You did it! You finished Jacob's Dream and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Jacob's Dream and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.cover",
+  "lesson": "L1-nov4",
+  "text": "[[selam]]! Jacob loved blessings. Today we see how much he wanted a blessing from God! Tap *Let's play*!",
+  "plain": "Selam! Jacob loved blessings. Today we see how much he wanted a blessing from God! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-nov4.sons",
+  "lesson": "L1-nov4",
+  "text": "Jacob lived at his uncle's place for twenty years. He had a big family, with twelve sons! Tap the grass twelve times to count them.",
+  "plain": "Jacob lived at his uncle's place for twenty years. He had a big family, with twelve sons! Tap the grass twelve times to count them.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.sons-done",
+  "lesson": "L1-nov4",
+  "text": "Twelve sons! What a big family God gave Jacob.",
+  "plain": "Twelve sons! What a big family God gave Jacob.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.pack",
+  "lesson": "L1-nov4",
+  "text": "After twenty years, Jacob decided to go back to his father's home. Bring all his animals to Jacob for the trip!",
+  "plain": "After twenty years, Jacob decided to go back to his father's home. Bring all his animals to Jacob for the trip!",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.pack-done",
+  "lesson": "L1-nov4",
+  "text": "Everything is ready. Off they go!",
+  "plain": "Everything is ready. Off they go!",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.n1",
+  "lesson": "L1-nov4",
+  "text": "One night, a man came, and Jacob struggled with him all night long, until morning.",
+  "plain": "One night, a man came, and Jacob struggled with him all night long, until morning.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.n2",
+  "lesson": "L1-nov4",
+  "text": "The man said: let me go! But Jacob said: I will not let you go, unless you bless me! Tap Jacob.",
+  "plain": "The man said: let me go! But Jacob said: I will not let you go, unless you bless me! Tap Jacob.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.n3",
+  "lesson": "L1-nov4",
+  "text": "The man said: your name will not be Jacob any more. Your name is Israel, [[israel]]! And He blessed him.",
+  "plain": "The man said: your name will not be Jacob any more. Your name is Israel, Israel! And He blessed him.",
+  "words": [
+   "israel"
+  ]
+ },
+ {
+  "id": "L1-nov4.n4",
+  "lesson": "L1-nov4",
+  "text": "Jacob knew that it was God. God blessed Jacob and all his children, and he lived to see many grandchildren.",
+  "plain": "Jacob knew that it was God. God blessed Jacob and all his children, and he lived to see many grandchildren.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.q1",
+  "lesson": "L1-nov4",
+  "text": "How many years did Jacob stay at his uncle's place? 7, 14, or 20?",
+  "plain": "How many years did Jacob stay at his uncle's place? 7, 14, or 20?",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.q2",
+  "lesson": "L1-nov4",
+  "text": "How many sons did Jacob have? 5, 7, or 12?",
+  "plain": "How many sons did Jacob have? 5, 7, or 12?",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.q3",
+  "lesson": "L1-nov4",
+  "text": "Why did Jacob hold on all night? For fun, to get a blessing, or to win a fight?",
+  "plain": "Why did Jacob hold on all night? For fun, to get a blessing, or to win a fight?",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.q4",
+  "lesson": "L1-nov4",
+  "text": "What was Jacob's new name? Adam, Israel, or John?",
+  "plain": "What was Jacob's new name? Adam, Israel, or John?",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.song-intro",
+  "lesson": "L1-nov4",
+  "text": "Here is our song! It means: Bless us, bless us, your children; bless us Through the Holy Spirit, make us of one accord. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Bless us, bless us, your children; bless us Through the Holy Spirit, make us of one accord. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.song-done",
+  "lesson": "L1-nov4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-nov4.finish",
+  "lesson": "L1-nov4",
+  "text": "You did it! You finished Jacob Asks for a Blessing and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Jacob Asks for a Blessing and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.cover",
+  "lesson": "L1-oct1",
+  "text": "[[selam]]! Do you pray to God? How do you start your prayer? Today we learn the sign of the cross. Tap *Let's play*!",
+  "plain": "Selam! Do you pray to God? How do you start your prayer? Today we learn the sign of the cross. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-oct1.c1",
+  "lesson": "L1-oct1",
+  "text": "This is the cross. The priest blesses us with the cross. Tap the cross!",
+  "plain": "This is the cross. The priest blesses us with the cross. Tap the cross!",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.c2",
+  "lesson": "L1-oct1",
+  "text": "The cross is a sign of love: the love of our Lord and Savior, Jesus Christ. Jesus Christ saved us by His cross.",
+  "plain": "The cross is a sign of love: the love of our Lord and Savior, Jesus Christ. Jesus Christ saved us by His cross.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.c3",
+  "lesson": "L1-oct1",
+  "text": "That is why we always start our prayers with the sign of the cross.",
+  "plain": "That is why we always start our prayers with the sign of the cross.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.flowers",
+  "lesson": "L1-oct1",
+  "text": "At the feast of [[meskel]], yellow flowers called [[adey-abeba]] bloom all over Ethiopia. Tap the grass to grow six flowers!",
+  "plain": "At the feast of Meskel, yellow flowers called Adey abeba bloom all over Ethiopia. Tap the grass to grow six flowers!",
+  "words": [
+   "meskel",
+   "adey-abeba"
+  ]
+ },
+ {
+  "id": "L1-oct1.flowers-done",
+  "lesson": "L1-oct1",
+  "text": "So beautiful! The yellow flowers make us happy, just like the cross.",
+  "plain": "So beautiful! The yellow flowers make us happy, just like the cross.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.cross-intro",
+  "lesson": "L1-oct1",
+  "text": "Now let's learn the sign of the cross. Cross your middle finger over your pointer finger, like a little cross. Then touch the glowing dots one by one, and say the prayer with your teacher.",
+  "plain": "Now let's learn the sign of the cross. Cross your middle finger over your pointer finger, like a little cross. Then touch the glowing dots one by one, and say the prayer with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.q1",
+  "lesson": "L1-oct1",
+  "text": "How do we start our prayers? With the sign of the cross, with a drum, or with a candle?",
+  "plain": "How do we start our prayers? With the sign of the cross, with a drum, or with a candle?",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.q2",
+  "lesson": "L1-oct1",
+  "text": "The cross is a sign of what?",
+  "plain": "The cross is a sign of what?",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.q3",
+  "lesson": "L1-oct1",
+  "text": "Which flower blooms at the feast of Meskel?",
+  "plain": "Which flower blooms at the feast of Meskel?",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.song-intro",
+  "lesson": "L1-oct1",
+  "text": "Here is our song! It means: You who believe in the cross, welcome to the light of the cross. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: You who believe in the cross, welcome to the light of the cross. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.song-done",
+  "lesson": "L1-oct1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-oct1.finish",
+  "lesson": "L1-oct1",
+  "text": "You did it! You finished The Holy Cross and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished The Holy Cross and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.cover",
+  "lesson": "L1-oct2",
+  "text": "[[selam]]! Do you remember how to make the sign of the cross? Today we learn how powerful it is! Tap *Let's play*!",
+  "plain": "Selam! Do you remember how to make the sign of the cross? Today we learn how powerful it is! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-oct2.g1",
+  "lesson": "L1-oct2",
+  "text": "Long ago, there was a young man named Saint George. He loved God very much. Tap George!",
+  "plain": "Long ago, there was a young man named Saint George. He loved God very much. Tap George!",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.g2",
+  "lesson": "L1-oct2",
+  "text": "He came to a city where the people were afraid of a big dragon. The dragon came to fight George!",
+  "plain": "He came to a city where the people were afraid of a big dragon. The dragon came to fight George!",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.g3",
+  "lesson": "L1-oct2",
+  "text": "But George was not afraid. He had a secret weapon! Tap George again.",
+  "plain": "But George was not afraid. He had a secret weapon! Tap George again.",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.g4",
+  "lesson": "L1-oct2",
+  "text": "He made the sign of the cross! Tap the cross!",
+  "plain": "He made the sign of the cross! Tap the cross!",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.g5",
+  "lesson": "L1-oct2",
+  "text": "Right away, the dragon became weak and fell down!",
+  "plain": "Right away, the dragon became weak and fell down!",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.g6",
+  "lesson": "L1-oct2",
+  "text": "The people were so happy. George taught them about Jesus Christ, and many people believed.",
+  "plain": "The people were so happy. George taught them about Jesus Christ, and many people believed.",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.afraid",
+  "lesson": "L1-oct2",
+  "text": "When we are afraid, we make the sign of the cross, and our fear goes away. Tap the dark sky to make five shining crosses!",
+  "plain": "When we are afraid, we make the sign of the cross, and our fear goes away. Tap the dark sky to make five shining crosses!",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.afraid-done",
+  "lesson": "L1-oct2",
+  "text": "No dragon or bad spirit can come near us, because they are afraid of the cross. God keeps us safe!",
+  "plain": "No dragon or bad spirit can come near us, because they are afraid of the cross. God keeps us safe!",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.cross-intro",
+  "lesson": "L1-oct2",
+  "text": "Let's make the sign of the cross together, just like Saint George. Touch the glowing dots one by one.",
+  "plain": "Let's make the sign of the cross together, just like Saint George. Touch the glowing dots one by one.",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.q1",
+  "lesson": "L1-oct2",
+  "text": "What was Saint George's secret weapon?",
+  "plain": "What was Saint George's secret weapon?",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.q2",
+  "lesson": "L1-oct2",
+  "text": "What happened to the dragon?",
+  "plain": "What happened to the dragon?",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.q3",
+  "lesson": "L1-oct2",
+  "text": "What do we do when we are afraid?",
+  "plain": "What do we do when we are afraid?",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.song-intro",
+  "lesson": "L1-oct2",
+  "text": "Let's sing last week's song again. It means: You who believe in the cross, welcome to the light of the cross. Tap the kebero drum to play along with your teacher.",
+  "plain": "Let's sing last week's song again. It means: You who believe in the cross, welcome to the light of the cross. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.song-done",
+  "lesson": "L1-oct2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-oct2.finish",
+  "lesson": "L1-oct2",
+  "text": "You did it! You finished The Power of the Cross and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished The Power of the Cross and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.cover",
+  "lesson": "L1-oct3",
+  "text": "[[selam]]! Do you know the story of Christmas? Jesus Christ was born of the Virgin [[mariam]]. Then He had to go on a long trip. Let's find out why! Tap *Let's play*!",
+  "plain": "Selam! Do you know the story of Christmas? Jesus Christ was born of the Virgin Mariam. Then He had to go on a long trip. Let's find out why! Tap Let's play!",
+  "words": [
+   "selam",
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-oct3.e1",
+  "lesson": "L1-oct3",
+  "text": "When baby Jesus was born, He lived with His mother, the Virgin [[mariam]], and Joseph. Tap baby Jesus!",
+  "plain": "When baby Jesus was born, He lived with His mother, the Virgin Mariam, and Joseph. Tap baby Jesus!",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-oct3.e2",
+  "lesson": "L1-oct3",
+  "text": "But there was a bad king named Herod. He heard that Jesus was a king, and he wanted to hurt Him.",
+  "plain": "But there was a bad king named Herod. He heard that Jesus was a king, and he wanted to hurt Him.",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.e3",
+  "lesson": "L1-oct3",
+  "text": "Then an angel came to Joseph. Tap the angel!",
+  "plain": "Then an angel came to Joseph. Tap the angel!",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.e4",
+  "lesson": "L1-oct3",
+  "text": "The angel said: take [[mariam]] and baby Jesus to Egypt, so that Herod cannot find them! And Joseph did what the angel said.",
+  "plain": "The angel said: take Mariam and baby Jesus to Egypt, so that Herod cannot find them! And Joseph did what the angel said.",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-oct3.pack",
+  "lesson": "L1-oct3",
+  "text": "Joseph got a donkey ready for Mary and the baby. Help pack for the trip! Drag the water, the food and the blanket onto the donkey.",
+  "plain": "Joseph got a donkey ready for Mary and the baby. Help pack for the trip! Drag the water, the food and the blanket onto the donkey.",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.pack-done",
+  "lesson": "L1-oct3",
+  "text": "All packed! Mary sat on the donkey with baby Jesus, and Joseph walked beside them.",
+  "plain": "All packed! Mary sat on the donkey with baby Jesus, and Joseph walked beside them.",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.walk",
+  "lesson": "L1-oct3",
+  "text": "Egypt was very far away. Tap to help the family walk all the way to Egypt!",
+  "plain": "Egypt was very far away. Tap to help the family walk all the way to Egypt!",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.walk-done",
+  "lesson": "L1-oct3",
+  "text": "Herod's soldiers followed them, but God protected them, and the soldiers could not find them. The angel Gabriel helped them on the way, and they arrived in Egypt safely!",
+  "plain": "Herod's soldiers followed them, but God protected them, and the soldiers could not find them. The angel Gabriel helped them on the way, and they arrived in Egypt safely!",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.q1",
+  "lesson": "L1-oct3",
+  "text": "Who wanted to hurt baby Jesus?",
+  "plain": "Who wanted to hurt baby Jesus?",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.q2",
+  "lesson": "L1-oct3",
+  "text": "Where did the family go?",
+  "plain": "Where did the family go?",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.q3",
+  "lesson": "L1-oct3",
+  "text": "What did the Virgin Mary ride on?",
+  "plain": "What did the Virgin Mary ride on?",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.song-intro",
+  "lesson": "L1-oct3",
+  "text": "Here is our song! It means: Virgin Mary fled from Herod, to show the miracle of her injustice. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Virgin Mary fled from Herod, to show the miracle of her injustice. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.song-done",
+  "lesson": "L1-oct3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-oct3.finish",
+  "lesson": "L1-oct3",
+  "text": "You did it! You finished Baby Jesus Goes to Egypt and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Baby Jesus Goes to Egypt and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.cover",
+  "lesson": "L1-oct4",
+  "text": "[[selam]]! What is a flood? It is when a lot of rain falls. Today we hear how God kept a good man named Noah safe. Tap *Let's play*!",
+  "plain": "Selam! What is a flood? It is when a lot of rain falls. Today we hear how God kept a good man named Noah safe. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-oct4.s1",
+  "lesson": "L1-oct4",
+  "text": "There was a man named Noah. Noah loved God and did what God said. Tap Noah!",
+  "plain": "There was a man named Noah. Noah loved God and did what God said. Tap Noah!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.s2",
+  "lesson": "L1-oct4",
+  "text": "But the other people did not listen to God. They did many bad things.",
+  "plain": "But the other people did not listen to God. They did many bad things.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.s3",
+  "lesson": "L1-oct4",
+  "text": "God said to Noah: build a big ship, an *ark*! I will keep you and your family safe. Tap the light!",
+  "plain": "God said to Noah: build a big ship, an ark! I will keep you and your family safe. Tap the light!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.build",
+  "lesson": "L1-oct4",
+  "text": "Let's help Noah build the ark! Tap, tap, tap, six times, like a hammer.",
+  "plain": "Let's help Noah build the ark! Tap, tap, tap, six times, like a hammer.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.build-done",
+  "lesson": "L1-oct4",
+  "text": "The ark is finished! The people laughed at Noah, but Noah kept working for God.",
+  "plain": "The ark is finished! The people laughed at Noah, but Noah kept working for God.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.animals",
+  "lesson": "L1-oct4",
+  "text": "God told Noah to bring the animals into the ark. Drag each animal into the ark!",
+  "plain": "God told Noah to bring the animals into the ark. Drag each animal into the ark!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.animals-done",
+  "lesson": "L1-oct4",
+  "text": "Everyone is inside: Noah, his family, and all the animals. Then the door closed.",
+  "plain": "Everyone is inside: Noah, his family, and all the animals. Then the door closed.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.rain",
+  "lesson": "L1-oct4",
+  "text": "It started to rain. Tap the dark clouds to make it rain!",
+  "plain": "It started to rain. Tap the dark clouds to make it rain!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.rain-done",
+  "lesson": "L1-oct4",
+  "text": "It rained for forty days and forty nights! But the ark floated, and everyone inside was safe, because God was with them.",
+  "plain": "It rained for forty days and forty nights! But the ark floated, and everyone inside was safe, because God was with them.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.p1",
+  "lesson": "L1-oct4",
+  "text": "The rain stopped, and the earth was dry again. Tap the sun!",
+  "plain": "The rain stopped, and the earth was dry again. Tap the sun!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.p2",
+  "lesson": "L1-oct4",
+  "text": "Noah and his family came out of the ark with all the animals.",
+  "plain": "Noah and his family came out of the ark with all the animals.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.p3",
+  "lesson": "L1-oct4",
+  "text": "God made a promise to Noah: I will never again destroy the whole earth with a flood. God put a rainbow in the sky. Tap the rainbow!",
+  "plain": "God made a promise to Noah: I will never again destroy the whole earth with a flood. God put a rainbow in the sky. Tap the rainbow!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.p4",
+  "lesson": "L1-oct4",
+  "text": "God always keeps His promises. When you see a rainbow, remember God's promise!",
+  "plain": "God always keeps His promises. When you see a rainbow, remember God's promise!",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.q1",
+  "lesson": "L1-oct4",
+  "text": "Who did God tell to build a big ship?",
+  "plain": "Who did God tell to build a big ship?",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.q2",
+  "lesson": "L1-oct4",
+  "text": "Who went into the ark with Noah?",
+  "plain": "Who went into the ark with Noah?",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.q3",
+  "lesson": "L1-oct4",
+  "text": "How long did it rain? Was it 3 days, 40 days, or 100 days?",
+  "plain": "How long did it rain? Was it 3 days, 40 days, or 100 days?",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.q4",
+  "lesson": "L1-oct4",
+  "text": "What did God put in the sky to remember His promise?",
+  "plain": "What did God put in the sky to remember His promise?",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.song-intro",
+  "lesson": "L1-oct4",
+  "text": "Here is our song! It means: Virgin Mary fled from Herod, to show the miracle of her injustice. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Virgin Mary fled from Herod, to show the miracle of her injustice. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.song-done",
+  "lesson": "L1-oct4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-oct4.finish",
+  "lesson": "L1-oct4",
+  "text": "You did it! You finished God Keeps Noah Safe and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished God Keeps Noah Safe and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ }
+]
