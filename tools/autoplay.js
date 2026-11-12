@@ -18,6 +18,7 @@ const {chromium}=require('playwright');
         if(st.ready||st.page!==i){ ok=true; break; }
         const box=await p.locator('#scene').boundingBox();
         const acted=await p.evaluate(()=>{
+          if(window.__solveStep){ window.__solveStep(); return 'solved'; } // reading-level pages expose a test move
           const svg=document.querySelector('#scene svg'); if(!svg) return 'none';
           const r=document.querySelector('.ring circle'); if(r){ const b=r.getBoundingClientRect(); return ['click',b.left+b.width/2,b.top+b.height/2]; }
           const card=[...document.querySelectorAll('.card:not(.right):not(.wrong):not([disabled])')][0]; if(card){ card.classList.add('tried'); const b=card.getBoundingClientRect(); return ['click',b.left+b.width/2,b.top+b.height/2]; }

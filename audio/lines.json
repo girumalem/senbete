@@ -2866,5 +2866,655 @@
   "text": "You did it! You finished God Keeps Noah Safe and earned a sticker! Tap Play again, or go back to pick another lesson.",
   "plain": "You did it! You finished God Keeps Noah Safe and earned a sticker! Tap Play again, or go back to pick another lesson.",
   "words": []
+ },
+ {
+  "id": "L2-oct3.cover",
+  "lesson": "L2-oct3",
+  "text": "[[selam]]! Today we read a true story about a promise. God made a promise to Abraham and Sarah. Tap *Let's play*!",
+  "plain": "Selam! Today we read a true story about a promise. God made a promise to Abraham and Sarah. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-oct3.r1",
+  "lesson": "L2-oct3",
+  "text": "Long after the great flood, there lived a holy man called Abraham. His wife was called Sarah.",
+  "plain": "Long after the great flood, there lived a holy man called Abraham. His wife was called Sarah.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.r2",
+  "lesson": "L2-oct3",
+  "text": "Abraham and Sarah loved God. They helped the poor and welcomed guests into their tent.",
+  "plain": "Abraham and Sarah loved God. They helped the poor and welcomed guests into their tent.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.r3",
+  "lesson": "L2-oct3",
+  "text": "But they had no children. God promised them: I will give you a son!",
+  "plain": "But they had no children. God promised them: I will give you a son!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.r4",
+  "lesson": "L2-oct3",
+  "text": "They waited a long, long time. They grew very old, and still they had no child.",
+  "plain": "They waited a long, long time. They grew very old, and still they had no child.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.s1",
+  "lesson": "L2-oct3",
+  "text": "One day God came to Abraham and said: Sarah your wife will have a son. Tap Sarah in the tent.",
+  "plain": "One day God came to Abraham and said: Sarah your wife will have a son. Tap Sarah in the tent.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.s2",
+  "lesson": "L2-oct3",
+  "text": "Sarah heard it, and she laughed in her heart. I am too old to have a baby, she thought.",
+  "plain": "Sarah heard it, and she laughed in her heart. I am too old to have a baby, she thought.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.s3",
+  "lesson": "L2-oct3",
+  "text": "But God knew she laughed. God knows even what we think! He said: Is anything too hard for the Lord?",
+  "plain": "But God knew she laughed. God knows even what we think! He said: Is anything too hard for the Lord?",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.b1",
+  "lesson": "L2-oct3",
+  "text": "God kept His promise. Tap Sarah to see!",
+  "plain": "God kept His promise. Tap Sarah to see!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.b2",
+  "lesson": "L2-oct3",
+  "text": "Sarah had a baby boy! They called him Isaac, [[yishak]].",
+  "plain": "Sarah had a baby boy! They called him Isaac, Yishak.",
+  "words": [
+   "yishak"
+  ]
+ },
+ {
+  "id": "L2-oct3.b3",
+  "lesson": "L2-oct3",
+  "text": "Abraham was one hundred years old, and Sarah was ninety! God can do anything.",
+  "plain": "Abraham was one hundred years old, and Sarah was ninety! God can do anything.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.puzzle-intro",
+  "lesson": "L2-oct3",
+  "text": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.puzzle-done",
+  "lesson": "L2-oct3",
+  "text": "You spelled them all! Great reading.",
+  "plain": "You spelled them all! Great reading.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w1",
+  "lesson": "L2-oct3",
+  "text": "Abraham's wife was called …",
+  "plain": "Abraham's wife was called …",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w1-a",
+  "lesson": "L2-oct3",
+  "text": "Sarah!",
+  "plain": "Sarah!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w2",
+  "lesson": "L2-oct3",
+  "text": "The baby God promised was called …",
+  "plain": "The baby God promised was called …",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w2-a",
+  "lesson": "L2-oct3",
+  "text": "Isaac!",
+  "plain": "Isaac!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w3",
+  "lesson": "L2-oct3",
+  "text": "Abraham and Sarah lived in a …",
+  "plain": "Abraham and Sarah lived in a …",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w3-a",
+  "lesson": "L2-oct3",
+  "text": "tent!",
+  "plain": "tent!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w4",
+  "lesson": "L2-oct3",
+  "text": "God always keeps His …",
+  "plain": "God always keeps His …",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.w4-a",
+  "lesson": "L2-oct3",
+  "text": "promise!",
+  "plain": "promise!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.order",
+  "lesson": "L2-oct3",
+  "text": "Tap the pictures in the order they happened.",
+  "plain": "Tap the pictures in the order they happened.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.order-done",
+  "lesson": "L2-oct3",
+  "text": "That is the whole story!",
+  "plain": "That is the whole story!",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.order-again",
+  "lesson": "L2-oct3",
+  "text": "Hmm, what happened before that?",
+  "plain": "Hmm, what happened before that?",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.q1",
+  "lesson": "L2-oct3",
+  "text": "What did God promise Abraham and Sarah?",
+  "plain": "What did God promise Abraham and Sarah?",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.q2",
+  "lesson": "L2-oct3",
+  "text": "Why did Sarah laugh?",
+  "plain": "Why did Sarah laugh?",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.q3",
+  "lesson": "L2-oct3",
+  "text": "Did God keep His promise?",
+  "plain": "Did God keep His promise?",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.q4",
+  "lesson": "L2-oct3",
+  "text": "How old was Abraham when Isaac was born?",
+  "plain": "How old was Abraham when Isaac was born?",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.song-intro",
+  "lesson": "L2-oct3",
+  "text": "Here is our song! It means: It is true, It is true The kingdom of the Trinity is forever. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: It is true, It is true The kingdom of the Trinity is forever. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.song-done",
+  "lesson": "L2-oct3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-oct3.finish",
+  "lesson": "L2-oct3",
+  "text": "You did it! You finished Abraham, Sarah, and the Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Abraham, Sarah, and the Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.cover",
+  "lesson": "L3-oct3",
+  "text": "[[selam]]! Today's story is about Lot, the nephew of Abraham, and how God saved him and his family. Read with me, then test yourself!",
+  "plain": "Selam! Today's story is about Lot, the nephew of Abraham, and how God saved him and his family. Read with me, then test yourself!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L3-oct3.r1",
+  "lesson": "L3-oct3",
+  "text": "Lot was the son of Abraham's brother. When God called Abraham to leave his father's house, Lot went with him.",
+  "plain": "Lot was the son of Abraham's brother. When God called Abraham to leave his father's house, Lot went with him.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.r2",
+  "lesson": "L3-oct3",
+  "text": "Lot chose to live near Sodom and Gomorrah, because the land was green and good for his cattle.",
+  "plain": "Lot chose to live near Sodom and Gomorrah, because the land was green and good for his cattle.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.r3",
+  "lesson": "L3-oct3",
+  "text": "But the people of Sodom and Gomorrah were very sinful, and they rebelled against God. God decided to destroy the two cities.",
+  "plain": "But the people of Sodom and Gomorrah were very sinful, and they rebelled against God. God decided to destroy the two cities.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.r4",
+  "lesson": "L3-oct3",
+  "text": "Abraham prayed for the city. Lot was the only holy man there. God remembered Abraham, and sent two angels to save Lot first.",
+  "plain": "Abraham prayed for the city. Lot was the only holy man there. God remembered Abraham, and sent two angels to save Lot first.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.r5",
+  "lesson": "L3-oct3",
+  "text": "The angels came to Lot's house looking like travelers. Lot welcomed them to stay the night, just as Abraham always welcomed guests.",
+  "plain": "The angels came to Lot's house looking like travelers. Lot welcomed them to stay the night, just as Abraham always welcomed guests.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.r6",
+  "lesson": "L3-oct3",
+  "text": "The angels took Lot, his wife and his two daughters by the hand and led them out of the city. Run, they said, and do not look back!",
+  "plain": "The angels took Lot, his wife and his two daughters by the hand and led them out of the city. Run, they said, and do not look back!",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.r7",
+  "lesson": "L3-oct3",
+  "text": "God sent fire from heaven on Sodom and Gomorrah. But Lot's wife looked back, and she became a pillar of salt. Lot and his daughters reached the town of Zoar safely.",
+  "plain": "God sent fire from heaven on Sodom and Gomorrah. But Lot's wife looked back, and she became a pillar of salt. Lot and his daughters reached the town of Zoar safely.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.tf-intro",
+  "lesson": "L3-oct3",
+  "text": "True or false? Read each sentence and decide.",
+  "plain": "True or false? Read each sentence and decide.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.tf-done",
+  "lesson": "L3-oct3",
+  "text": "Well done!",
+  "plain": "Well done!",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t1",
+  "lesson": "L3-oct3",
+  "text": "Lot was Abraham's nephew. True, or false?",
+  "plain": "Lot was Abraham's nephew. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t1-why",
+  "lesson": "L3-oct3",
+  "text": "True! Lot was the son of Abraham's brother.",
+  "plain": "True! Lot was the son of Abraham's brother.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t2",
+  "lesson": "L3-oct3",
+  "text": "The people of Sodom loved God and obeyed Him. True, or false?",
+  "plain": "The people of Sodom loved God and obeyed Him. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t2-why",
+  "lesson": "L3-oct3",
+  "text": "False! They were sinful and rebelled against God.",
+  "plain": "False! They were sinful and rebelled against God.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t3",
+  "lesson": "L3-oct3",
+  "text": "God sent two angels to save Lot. True, or false?",
+  "plain": "God sent two angels to save Lot. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t3-why",
+  "lesson": "L3-oct3",
+  "text": "True! The angels led Lot and his family out by the hand.",
+  "plain": "True! The angels led Lot and his family out by the hand.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t4",
+  "lesson": "L3-oct3",
+  "text": "Lot's wife obeyed the angels and never looked back. True, or false?",
+  "plain": "Lot's wife obeyed the angels and never looked back. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.t4-why",
+  "lesson": "L3-oct3",
+  "text": "False! She looked back and became a pillar of salt.",
+  "plain": "False! She looked back and became a pillar of salt.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.bl-intro",
+  "lesson": "L3-oct3",
+  "text": "Fill in the missing word.",
+  "plain": "Fill in the missing word.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.bl-done",
+  "lesson": "L3-oct3",
+  "text": "All filled in!",
+  "plain": "All filled in!",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f1",
+  "lesson": "L3-oct3",
+  "text": "Lot chose to live near what? because the land was good for his cattle.",
+  "plain": "Lot chose to live near what? because the land was good for his cattle.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f1-a",
+  "lesson": "L3-oct3",
+  "text": "Lot chose to live near Sodom because the land was good for his cattle.",
+  "plain": "Lot chose to live near Sodom because the land was good for his cattle.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f2",
+  "lesson": "L3-oct3",
+  "text": "God sent two what? to take Lot out of the city.",
+  "plain": "God sent two what? to take Lot out of the city.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f2-a",
+  "lesson": "L3-oct3",
+  "text": "God sent two angels to take Lot out of the city.",
+  "plain": "God sent two angels to take Lot out of the city.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f3",
+  "lesson": "L3-oct3",
+  "text": "The angels said: Run, and do not look what?!",
+  "plain": "The angels said: Run, and do not look what?!",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f3-a",
+  "lesson": "L3-oct3",
+  "text": "The angels said: Run, and do not look back!",
+  "plain": "The angels said: Run, and do not look back!",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f4",
+  "lesson": "L3-oct3",
+  "text": "Lot and his daughters escaped to a small town called what?.",
+  "plain": "Lot and his daughters escaped to a small town called what?.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.f4-a",
+  "lesson": "L3-oct3",
+  "text": "Lot and his daughters escaped to a small town called Zoar.",
+  "plain": "Lot and his daughters escaped to a small town called Zoar.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.verse-intro",
+  "lesson": "L3-oct3",
+  "text": "This month's memory verse is from Hebrews, chapter eleven. Listen: By faith Noah, being divinely warned of things not yet seen, moved with godly fear, prepared an ark for the saving of his household. Now build it in order!",
+  "plain": "This month's memory verse is from Hebrews, chapter eleven. Listen: By faith Noah, being divinely warned of things not yet seen, moved with godly fear, prepared an ark for the saving of his household. Now build it in order!",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.verse-done",
+  "lesson": "L3-oct3",
+  "text": "Say it again tomorrow, and you will know it by heart.",
+  "plain": "Say it again tomorrow, and you will know it by heart.",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.verse",
+  "lesson": "L3-oct3",
+  "text": "By faith Noah, being divinely warned of things not yet seen, moved with godly fear, prepared an ark for the saving of his household. Hebrews 11:7",
+  "plain": "By faith Noah, being divinely warned of things not yet seen, moved with godly fear, prepared an ark for the saving of his household. Hebrews 11:7",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.q1",
+  "lesson": "L3-oct3",
+  "text": "Why was Lot saved from the fire?",
+  "plain": "Why was Lot saved from the fire?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.q2",
+  "lesson": "L3-oct3",
+  "text": "Who told Lot to leave the city?",
+  "plain": "Who told Lot to leave the city?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.q3",
+  "lesson": "L3-oct3",
+  "text": "What happened to Lot's wife?",
+  "plain": "What happened to Lot's wife?",
+  "words": []
+ },
+ {
+  "id": "L3-oct3.finish",
+  "lesson": "L3-oct3",
+  "text": "You did it! You finished Lot Is Saved and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Lot Is Saved and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.cover",
+  "lesson": "L4-oct3",
+  "text": "Today we read a conversation between God and Abraham, about the cities of Sodom and Gomorrah. It shows how much God loves the holy, and how He listens to their prayers.",
+  "plain": "Today we read a conversation between God and Abraham, about the cities of Sodom and Gomorrah. It shows how much God loves the holy, and how He listens to their prayers.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.read-intro",
+  "lesson": "L4-oct3",
+  "text": "Read the story. Tap any paragraph if you would like me to read it to you.",
+  "plain": "Read the story. Tap any paragraph if you would like me to read it to you.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.r1",
+  "lesson": "L4-oct3",
+  "text": "Abraham was faithful and obedient to God. He was kind to the needy and welcomed strangers into his home, and God blessed him and was close to him.",
+  "plain": "Abraham was faithful and obedient to God. He was kind to the needy and welcomed strangers into his home, and God blessed him and was close to him.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.r2",
+  "lesson": "L4-oct3",
+  "text": "God came to Abraham and said: Shall I hide from Abraham that thing which I do? The sins of Sodom and Gomorrah are very grievous, and I will destroy them.",
+  "plain": "God came to Abraham and said: Shall I hide from Abraham that thing which I do? The sins of Sodom and Gomorrah are very grievous, and I will destroy them.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.r3",
+  "lesson": "L4-oct3",
+  "text": "Abraham stood before the Lord and asked: Will You destroy the righteous with the wicked? If there are fifty righteous people in the city, will You not spare it for their sake? The Lord said: If I find fifty righteous, I will spare the whole place.",
+  "plain": "Abraham stood before the Lord and asked: Will You destroy the righteous with the wicked? If there are fifty righteous people in the city, will You not spare it for their sake? The Lord said: If I find fifty righteous, I will spare the whole place.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.r4",
+  "lesson": "L4-oct3",
+  "text": "Abraham kept asking, humbly, saying: I am but dust and ashes. What if there are forty-five? Forty? Thirty? Twenty? Each time the Lord said: I will not destroy it.",
+  "plain": "Abraham kept asking, humbly, saying: I am but dust and ashes. What if there are forty-five? Forty? Thirty? Twenty? Each time the Lord said: I will not destroy it.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.r5",
+  "lesson": "L4-oct3",
+  "text": "At last Abraham said: Let not the Lord be angry, I will speak only once more. What if ten are found there? The Lord said: I will not destroy it for the sake of ten.",
+  "plain": "At last Abraham said: Let not the Lord be angry, I will speak only once more. What if ten are found there? The Lord said: I will not destroy it for the sake of ten.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.r6",
+  "lesson": "L4-oct3",
+  "text": "But not even ten holy people lived in Sodom and Gomorrah, and the people never repented. The cities were destroyed by fire, and only Lot and his daughters were saved.",
+  "plain": "But not even ten holy people lived in Sodom and Gomorrah, and the people never repented. The cities were destroyed by fire, and only Lot and his daughters were saved.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.teach-intro",
+  "lesson": "L4-oct3",
+  "text": "Here are three lessons from the story.",
+  "plain": "Here are three lessons from the story.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.c1",
+  "lesson": "L4-oct3",
+  "text": "*God loves the holy.* Because Abraham walked in His ways, God did not hide His plan from Abraham, and He listened to his request.",
+  "plain": "God loves the holy. Because Abraham walked in His ways, God did not hide His plan from Abraham, and He listened to his request.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.c2",
+  "lesson": "L4-oct3",
+  "text": "*God saves the righteous from among the sinful.* The angels first went to Lot's house and waited until he was safely out before the city was destroyed.",
+  "plain": "God saves the righteous from among the sinful. The angels first went to Lot's house and waited until he was safely out before the city was destroyed.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.c3",
+  "lesson": "L4-oct3",
+  "text": "*God sends His angels* for mercy to the righteous, and for judgment on the wicked.",
+  "plain": "God sends His angels for mercy to the righteous, and for judgment on the wicked.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.match-intro",
+  "lesson": "L4-oct3",
+  "text": "Match each word to its meaning. Tap a word, then tap its meaning.",
+  "plain": "Match each word to its meaning. Tap a word, then tap its meaning.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.match-done",
+  "lesson": "L4-oct3",
+  "text": "All matched. The Church still asks the saints to intercede for us, as Abraham interceded for Sodom.",
+  "plain": "All matched. The Church still asks the saints to intercede for us, as Abraham interceded for Sodom.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.verse-intro",
+  "lesson": "L4-oct3",
+  "text": "Memory verse, Genesis eighteen, seventeen: Shall I hide from Abraham that thing which I do? Build it in order.",
+  "plain": "Memory verse, Genesis eighteen, seventeen: Shall I hide from Abraham that thing which I do? Build it in order.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.verse-done",
+  "lesson": "L4-oct3",
+  "text": "God shares His plans with His friends.",
+  "plain": "God shares His plans with His friends.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.verse",
+  "lesson": "L4-oct3",
+  "text": "Shall I hide from Abraham that thing which I do? Genesis 18:17",
+  "plain": "Shall I hide from Abraham that thing which I do? Genesis 18:17",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.q1",
+  "lesson": "L4-oct3",
+  "text": "For how many righteous people did Abraham first ask God to spare the city?",
+  "plain": "For how many righteous people did Abraham first ask God to spare the city?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.q2",
+  "lesson": "L4-oct3",
+  "text": "How far did Abraham go with his request?",
+  "plain": "How far did Abraham go with his request?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.q3",
+  "lesson": "L4-oct3",
+  "text": "Who was saved from the destruction of Sodom?",
+  "plain": "Who was saved from the destruction of Sodom?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.q4",
+  "lesson": "L4-oct3",
+  "text": "Why did God tell Abraham His plan?",
+  "plain": "Why did God tell Abraham His plan?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.think",
+  "lesson": "L4-oct3",
+  "text": "Talk about these questions with your family or your class. Tap a question to hear it.",
+  "plain": "Talk about these questions with your family or your class. Tap a question to hear it.",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.k1",
+  "lesson": "L4-oct3",
+  "text": "Abraham called himself dust and ashes, yet he spoke boldly to God. What does that teach us about how to pray?",
+  "plain": "Abraham called himself dust and ashes, yet he spoke boldly to God. What does that teach us about how to pray?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.k2",
+  "lesson": "L4-oct3",
+  "text": "Abraham prayed for people who were not his family and who were sinful. Who could you pray for this week?",
+  "plain": "Abraham prayed for people who were not his family and who were sinful. Who could you pray for this week?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.k3",
+  "lesson": "L4-oct3",
+  "text": "The Church asks the saints and the Virgin Mary to intercede for us. How is that like Abraham's prayer for Sodom?",
+  "plain": "The Church asks the saints and the Virgin Mary to intercede for us. How is that like Abraham's prayer for Sodom?",
+  "words": []
+ },
+ {
+  "id": "L4-oct3.finish",
+  "lesson": "L4-oct3",
+  "text": "You did it! You finished Abraham Intercedes for Sodom and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Abraham Intercedes for Sodom and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
  }
 ]

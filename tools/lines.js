@@ -61,6 +61,13 @@ for(const f of files){ let L; vm.runInNewContext(fs.readFileSync(path.join(root,
     if(pg.game==='quiz') pg.questions.forEach(q=>add(q.id,q.q,L.id));
     if(pg.game==='song'){ const s=SONGS[pg.song]||{meaning:''}; if(!pg.intro) add('song-intro',`Here is our song! It means: ${s.meaning} Tap the kebero drum to play along with your teacher.`,L.id);
       if(!pg.done) add('song-done','Beautiful! Keep singing this song with your family this week.',L.id); }
+    (pg.paras||[]).forEach(A); (pg.pairs||[]).forEach(pr=>A(pr[4]));
+    if(pg.game==='blanks') pg.items.forEach(it=>{ add(it.id,it.say||it.s.replace('___','what?'),L.id); add(it.id+'-a',it.s.replace('___',it.a),L.id); });
+    if(pg.game==='puzzle') pg.items.forEach(it=>{ add(it.id,it.say||it.clue,L.id); add(it.id+'-a',it.after||`${it.word}!`,L.id); });
+    if(pg.game==='truefalse') pg.items.forEach(it=>{ add(it.id,it.s+' True, or false?',L.id); add(it.id+'-why',`${it.t?'True!':'False!'} ${it.why}`,L.id); });
+    if(pg.game==='verse'){ if(!pg.intro) add('verse-intro',`Our memory verse: ${pg.verse} ${pg.ref||''}. Now build it! Tap the words in order.`,L.id); add(pg.id||'verse',`${pg.verse} ${pg.ref||''}`,L.id); }
+    if(pg.game==='think'){ if(!pg.intro) add('think','Talk about these questions with your family or your class. Tap a question to hear it.',L.id); pg.qs.forEach(q=>add(q[0],q[1],L.id)); }
+    if(['blanks','truefalse'].includes(pg.game)) add('tryagain','Hmm, try again!',null,true);
     if(pg.game==='cross'&&!pg.intro) add('cross-intro','Let\'s pray with the sign of the cross. Cross your fingers like this, and touch the glowing dots one by one.',L.id);
   }
   if(!L.pages.some(p=>p.game==='finish')) add('finish',`You did it! You finished ${plain(L.title)} and earned a sticker! Tap Play again, or go back to pick another lesson.`,L.id);

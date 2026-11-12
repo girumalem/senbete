@@ -10,6 +10,7 @@
      song     the lesson's mezmur with the kebero drum
      cross    the sign of the cross prayer
      finish   celebration, sticker, next lesson
+   Reading-level pages for Levels II to IV (read, match, blanks, verse, puzzle, truefalse, think) are described further down.
    Spoken lines are written ['lineId','text'] and get the global id <lessonId>.<lineId> (audio/lines/<that>.mp3). */
 (function(){
 const {ART,BG,draw,icon,selam,cross,rnd}=window.BKArt;
@@ -210,6 +211,125 @@ G.finish=(sc,pg,api)=>{
   api.say(...(pg.say||['finish',`You did it! You finished ${VO.plain(api.lesson.title)} and earned a sticker! Tap Play again, or go back to pick another lesson.`]));
 };
 
+/* ---------- reading-level games (Levels II to IV) ----------
+   These pages use a taller "doc" scene with HTML content over a soft background:
+     read       story paragraphs; Selam reads each one aloud and it lights up; tap a paragraph to hear it again
+     match      tap a word, then its partner (picture, meaning, person and deed)
+     blanks     a sentence with a gap; pick the word that fits
+     verse      build the memory verse by tapping the words in order
+     puzzle     spell the answer to a clue from letter tiles (Level II word puzzles)
+     truefalse  true or false, with a short reason read after each answer
+     think      questions to talk about with parents and teachers (no scoring)
+   window.__solveStep() makes one correct move; tools/autoplay.js uses it to test these pages. */
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const shuffle=a=>{ const b=a.slice(); for(let i=b.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [b[i],b[j]]=[b[j],b[i]]; } return b; };
+function docScene(sc,pg,html){
+  sc.classList.add('doc');
+  const bg=(BG[pg.bg||'paper']||BG.day)();
+  sc.innerHTML=`${svgWrap(bg)}<div class="panel">${html}</div>`;
+  return sc.querySelector('.panel');
+}
+function picHTML(art){ return art?`<svg class="pic" viewBox="${BKArt.box(art)}" aria-hidden="true">${draw(art)}</svg>`:''; }
+const solver=fn=>{ window.__solveStep=fn; };
+
+G.read=(sc,pg,api)=>{
+  const el=docScene(sc,pg,`${pg.heading?`<h3>${VO.render(pg.heading)}</h3>`:''}${picHTML(pg.pic)}${pg.paras.map(([id,t],i)=>`<p class="para" data-i="${i}" tabindex="0" role="button">${VO.render(t)}</p>`).join('')}
+    <div class="row"><button type="button" class="next ready doneRead">I read it ✓</button></div>`);
+  const ps=[...el.querySelectorAll('.para')]; const heard=new Set();
+  const finish=()=>{ if(api.alive()&&!api.isDone()) api.done(true); };
+  const readOne=async i=>{ ps.forEach(p=>p.classList.toggle('on',+p.dataset.i===i)); ps[i].scrollIntoView({block:'nearest',behavior:'smooth'}); heard.add(i);
+    await api.say(...pg.paras[i],' '); if(api.alive()) ps[i].classList.remove('on'); };
+  ps.forEach(p=>p.addEventListener('click',()=>readOne(+p.dataset.i)));
+  el.querySelector('.doneRead').onclick=finish;
+  (async()=>{ if(pg.intro) await api.say(...pg.intro);
+    if(pg.auto!==false) for(let i=0;i<ps.length;i++){ if(!api.alive()) return; await readOne(i); }
+    if(api.alive()&&heard.size===ps.length) finish(); })();
+  solver(()=>finish());
+};
+
+G.match=(sc,pg,api)=>{
+  const L=pg.pairs.map((p,i)=>({i,t:p[0],art:p[2]})), R=shuffle(pg.pairs.map((p,i)=>({i,t:p[1],art:p[3]})));
+  const btn=(o,side)=>`<button type="button" class="tile ${o.art?'hasart':''}" data-side="${side}" data-i="${o.i}">${picHTML(o.art)}<span>${VO.render(o.t)}</span></button>`;
+  const el=docScene(sc,pg,`${pg.heading?`<h3>${VO.render(pg.heading)}</h3>`:''}<div class="match"><div class="col">${L.map(o=>btn(o,'L')).join('')}</div><div class="col">${R.map(o=>btn(o,'R')).join('')}</div></div>`);
+  let pick=null, n=0; const COLS=['#2F7A4E','#B3322A','#24418F','#D4930F','#6A3A8A','#1C7A8A','#8A5A30','#C2272D'];
+  if(pg.intro) api.say(...pg.intro);
+  const tap=async b=>{ if(b.classList.contains('got')) return;
+    if(!pick||pick.dataset.side===b.dataset.side){ if(pick) pick.classList.remove('sel'); pick=b; b.classList.add('sel'); VO.sfx('pop',1); return; }
+    if(pick.dataset.i===b.dataset.i){ const c=COLS[n%COLS.length]; [pick,b].forEach(x=>{ x.classList.remove('sel'); x.classList.add('got'); x.style.setProperty('--m',c); }); pick=null; n++; VO.sfx('note',n);
+      const pr=pg.pairs[+b.dataset.i]; if(pr[4]) await api.say(...pr[4]);
+      if(n===pg.pairs.length&&api.alive()&&!api.isDone()){ if(pg.done) await api.say(...pg.done); api.done(); } }
+    else { rewiggle(b,'wrong'); VO.sfx('no'); pick.classList.remove('sel'); pick=null; } };
+  el.querySelectorAll('.tile').forEach(b=>b.onclick=()=>tap(b));
+  solver(()=>{ const l=el.querySelector('.tile[data-side="L"]:not(.got)'); if(!l) return; tap(l); tap(el.querySelector(`.tile[data-side="R"][data-i="${l.dataset.i}"]`)); });
+};
+
+G.blanks=(sc,pg,api)=>{
+  let k=0;
+  const show=()=>{ const it=pg.items[k]; const opts=shuffle(it.opts.includes(it.a)?it.opts:[it.a,...it.opts]);
+    const el=docScene(sc,pg,`<div class="qcount">${k+1} / ${pg.items.length}</div>${picHTML(it.pic)}<p class="sent">${VO.render(it.s).replace('___','<span class="gap">?</span>')}</p><div class="opts">${opts.map(o=>`<button type="button" class="tile opt" data-o="${esc(o)}">${VO.render(o)}</button>`).join('')}</div>`);
+    api.say(it.id,it.say||it.s.replace('___','what?'),it.s.replace('___','_____'));
+    const choose=async b=>{ if(b.disabled) return;
+      if(b.dataset.o===it.a){ el.querySelectorAll('.opt').forEach(x=>x.disabled=true); b.classList.add('got'); el.querySelector('.gap').textContent=it.a; el.querySelector('.gap').classList.add('filled'); VO.sfx('win');
+        await api.say(it.id+'-a',it.s.replace('___',it.a),null);
+        if(!api.alive()) return; k++; if(k<pg.items.length) show(); else { if(pg.done) await api.say(...pg.done); api.done(); } }
+      else { rewiggle(b,'wrong'); b.disabled=true; VO.sfx('no'); api.say('tryagain','Hmm, try again!',null,true); } };
+    el.querySelectorAll('.opt').forEach(b=>b.onclick=()=>choose(b));
+    solver(()=>{ const b=[...el.querySelectorAll('.opt')].find(x=>x.dataset.o===it.a&&!x.disabled); if(b) choose(b); }); };
+  if(pg.intro) api.say(...pg.intro).then(()=>{}); show();
+};
+
+G.verse=(sc,pg,api)=>{
+  const words=pg.chunks||pg.verse.split(/\s+/); const order=shuffle(words.map((w,i)=>i));
+  const el=docScene(sc,pg,`${pg.chip?'':'<h3>Memory verse</h3>'}<div class="built" aria-live="polite"></div><div class="opts words">${order.map(i=>`<button type="button" class="tile w" data-i="${i}">${esc(words[i])}</button>`).join('')}</div><p class="ref">${esc(pg.ref||'')}</p>`);
+  let next=0; const built=el.querySelector('.built');
+  const tap=async b=>{ const i=+b.dataset.i; if(b.disabled) return;
+    if(i===next||words[i]===words[next]){ b.disabled=true; b.classList.add('got'); built.insertAdjacentHTML('beforeend',`<span>${esc(words[next])}</span> `); next++; VO.sfx('note',next%7);
+      if(next===words.length&&api.alive()&&!api.isDone()){ built.classList.add('whole'); await api.say(pg.id||'verse',`${pg.verse} ${pg.ref||''}`,null); if(pg.done) await api.say(...pg.done); api.done(); } }
+    else { rewiggle(b,'wrong'); VO.sfx('no'); } };
+  el.querySelectorAll('.w').forEach(b=>b.onclick=()=>tap(b));
+  api.say(...(pg.intro||['verse-intro',`Our memory verse: ${pg.verse} ${pg.ref||''}. Now build it! Tap the words in order.`]));
+  solver(()=>{ const b=[...el.querySelectorAll('.w:not(:disabled)')].find(x=>words[+x.dataset.i]===words[next]); if(b) tap(b); });
+};
+
+G.puzzle=(sc,pg,api)=>{
+  let k=0;
+  const show=()=>{ const it=pg.items[k]; const W=it.word.toUpperCase(); const letters=shuffle([...W].map((c,i)=>({c,i})));
+    const el=docScene(sc,pg,`<div class="qcount">${k+1} / ${pg.items.length}</div>${picHTML(it.pic)}<p class="sent">${VO.render(it.clue)}</p><div class="slots">${[...W].map(()=>'<span></span>').join('')}</div><div class="opts letters">${letters.map(o=>`<button type="button" class="tile l" data-c="${o.c}">${o.c}</button>`).join('')}</div>`);
+    api.say(it.id,it.say||it.clue); let n=0; const slots=[...el.querySelectorAll('.slots span')];
+    const tap=async b=>{ if(b.disabled) return;
+      if(b.dataset.c===W[n]){ b.disabled=true; b.classList.add('got'); slots[n].textContent=W[n]; n++; VO.sfx('note',n%7);
+        if(n===W.length){ el.querySelector('.slots').classList.add('whole'); VO.sfx('win'); await api.say(it.id+'-a',it.after||`${it.word}!`,null); if(!api.alive()) return; k++; if(k<pg.items.length) show(); else { if(pg.done) await api.say(...pg.done); api.done(); } } }
+      else { rewiggle(b,'wrong'); VO.sfx('no'); } };
+    el.querySelectorAll('.l').forEach(b=>b.onclick=()=>tap(b));
+    solver(()=>{ const b=[...el.querySelectorAll('.l:not(:disabled)')].find(x=>x.dataset.c===W[n]); if(b) tap(b); }); };
+  if(pg.intro) api.say(...pg.intro); show();
+};
+
+G.truefalse=(sc,pg,api)=>{
+  let k=0;
+  const show=()=>{ const it=pg.items[k];
+    const el=docScene(sc,pg,`<div class="qcount">${k+1} / ${pg.items.length}</div>${picHTML(it.pic)}<p class="sent">${VO.render(it.s)}</p><div class="opts tf"><button type="button" class="tile opt" data-v="1">True ✓</button><button type="button" class="tile opt" data-v="0">False ✗</button></div><p class="why" hidden></p>`);
+    api.say(it.id,it.s+' True, or false?',it.s);
+    const choose=async b=>{ if(b.disabled) return;
+      if(!!+b.dataset.v===it.t){ el.querySelectorAll('.opt').forEach(x=>x.disabled=true); b.classList.add('got'); VO.sfx('win'); const w=el.querySelector('.why'); w.hidden=false; w.innerHTML=VO.render(it.why);
+        await api.say(it.id+'-why',`${it.t?'True!':'False!'} ${it.why}`,null);
+        if(!api.alive()) return; k++; if(k<pg.items.length) show(); else { if(pg.done) await api.say(...pg.done); api.done(); } }
+      else { rewiggle(b,'wrong'); b.disabled=true; VO.sfx('no'); api.say('tryagain','Hmm, try again!',null,true); } };
+    el.querySelectorAll('.opt').forEach(b=>b.onclick=()=>choose(b));
+    solver(()=>{ const b=el.querySelector(`.opt[data-v="${it.t?1:0}"]`); if(b) choose(b); }); };
+  if(pg.intro) api.say(...pg.intro); show();
+};
+
+G.think=(sc,pg,api)=>{
+  const el=docScene(sc,pg,`<h3>${VO.render(pg.heading||'Think and talk')}</h3>${pg.qs.map(([id,q,hint],i)=>`<div class="think" data-i="${i}"><p class="para" tabindex="0" role="button">${VO.render(q)}</p>${hint?`<details><summary>A thought to start</summary><p>${VO.render(hint)}</p></details>`:''}</div>`).join('')}
+    <div class="row"><button type="button" class="next ready doneRead">We talked about it ✓</button></div>`);
+  el.querySelectorAll('.think .para').forEach((p,i)=>p.addEventListener('click',()=>api.say(...pg.qs[i].slice(0,2))));
+  const finish=()=>{ if(api.alive()&&!api.isDone()) api.done(true); };
+  el.querySelector('.doneRead').onclick=finish;
+  api.say(...(pg.intro||['think','Talk about these questions with your family or your class. Tap a question to hear it.']));
+  solver(finish);
+};
+
 /* ---------- shell ---------- */
 const S={page:0,done:new Set(),stickers:new Set(),score:0};
 let L=null, pageToken=0;
@@ -235,7 +355,7 @@ function showEndButtons(){ if($('#againBtn')) return; const c=$('.controls');
   const h=document.createElement('a'); h.id='homeBtn2'; h.className='next ready'; h.href='index.html#'+L.level; h.textContent='More lessons'; c.append(a,h); }
 function go(i){
   S.page=Math.max(0,Math.min(L.pages.length-1,i)); const my=++pageToken; const p=L.pages[S.page];
-  VO.stop(); const sc=$('#scene'); sc.innerHTML=''; ['againBtn','homeBtn2'].forEach(id=>{ const e=$('#'+id); if(e) e.remove(); });
+  VO.stop(); const sc=$('#scene'); sc.innerHTML=''; sc.classList.remove('doc'); window.__solveStep=null; ['againBtn','homeBtn2'].forEach(id=>{ const e=$('#'+id); if(e) e.remove(); });
   const nb=$('#nextBtn'), pb=$('#prevBtn'); nb.classList.remove('ready'); pb.disabled=S.page===0;
   nb.hidden=['cover','quiz','finish'].includes(p.game);
   const api={ lesson:L, state:S,

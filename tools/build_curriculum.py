@@ -25,6 +25,9 @@ BUILT={
  'L1-feb1':{'icon':'net'},
  'L1-feb2':{'icon':'pool'},
  'L1-feb3':{'icon':'boat'},
+ 'L2-oct3':{'icon':'tent'},
+ 'L3-oct3':{'icon':'pillar'},
+ 'L4-oct3':{'icon':'bible'},
 }
 d=json.load(open(sys.argv[1],encoding='utf-8'))
 songs={}

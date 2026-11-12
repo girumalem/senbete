@@ -1126,7 +1126,10 @@ window.BK_CURR=[
 "3. Did God keep His promise?",
 "4. What was the name of the promise child?",
 "5. How old were Abraham and Sara when they had a son?"
-]
+],
+"built": {
+"icon": "tent"
+}
 },
 {
 "id": "L2-oct4",
@@ -2418,7 +2421,10 @@ window.BK_CURR=[
 "Who told Lot to get out of the city?",
 "What did the angels told Lot not to do when they got of the city?",
 "What happened to Lot's wife & why?"
-]
+],
+"built": {
+"icon": "pillar"
+}
 },
 {
 "id": "L3-oct4",
@@ -3603,7 +3609,10 @@ window.BK_CURR=[
 "4. What was God's response to Abraham's question?",
 "5. Who was saved from the destruction of Sodom? Why and how were they saved?",
 "6. Do You remember what happened to Lot's wife when the city was destroyed?"
-]
+],
+"built": {
+"icon": "bible"
+}
 },
 {
 "id": "L4-oct4",
