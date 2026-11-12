@@ -696,5 +696,13 @@ window.BK_LEX = {
   "lang": "am",
   "say": "BEH-teh kris-tee-YAHN",
   "check": true
+ },
+ "demera": {
+  "fidel": "ደመራ",
+  "latin": "Demera",
+  "en": "Meskel bonfire",
+  "lang": "am",
+  "say": "deh-meh-RAH",
+  "check": true
  }
 };

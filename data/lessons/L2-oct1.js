@@ -4,7 +4,7 @@ BKLesson({
  pages:[
   {game:'cover', bg:'night', title:'Queen Helena Finds the Cross', am:'መስቀል',
    props:[{art:['demera',{lit:true}],x:400,y:440,s:.95},{art:'boy',x:180,y:440,s:.7},{art:'girl',x:620,y:440,s:.7},{art:'adeyAbeba',x:90,y:420,s:.5},{art:'adeyAbeba',x:720,y:420,s:.5}],
-   say:['cover','[[selam]]! Every year in Meskerem we light a big bonfire called Demera, and celebrate [[meskel]]. Today we read why! Tap *Let\'s play*!'],
+   say:['cover','[[selam]]! Every year in [[meskerem]] we light a big bonfire called [[demera]], and celebrate [[meskel]]. Today we read why! Tap *Let\'s play*!'],
    parent:'<p>This lesson follows Level II, October week 1: <b>The Holy Cross</b> (Synaxarium). Aim: learn how the Cross of Jesus Christ was found, and when our Church celebrates it.</p><p>Talk about it: Have you seen a cross on top of our church? Where else do you see a cross?</p>'},
 
   {game:'read', chip:'Read along', heading:'The Cross is hidden', pic:'handCross',

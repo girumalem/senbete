@@ -1393,7 +1393,10 @@ window.BK_CURR=[
 "2 5 6",
 "4 8 7",
 "Moses is found at the river bank in a basket."
-]
+],
+"built": {
+"icon": "babyBasket"
+}
 },
 {
 "id": "L2-dec2",
@@ -1422,7 +1425,10 @@ window.BK_CURR=[
 "7. Israel passed through dry  after the Moses split the Red Sea water with his rod.",
 "1 7",
 "Crossing the Red Sea"
-]
+],
+"built": {
+"icon": "burningBush"
+}
 },
 {
 "id": "L2-dec3",
@@ -1455,7 +1461,10 @@ window.BK_CURR=[
 "1 4",
 "5 6",
 "Canaan - The Promise Land"
-]
+],
+"built": {
+"icon": "grapes"
+}
 },
 {
 "id": "L2-dec4",
@@ -1489,7 +1498,10 @@ window.BK_CURR=[
 "7. The Baby in Elizabeth's womb  when she heard the sound of the Virgin Mary",
 "1 7",
 "The Annunciation"
-]
+],
+"built": {
+"icon": "gabriel"
+}
 },
 {
 "id": "L2-jan1",
@@ -1518,7 +1530,10 @@ window.BK_CURR=[
 "4. A  guided the three wise men to Bethlehem.",
 "5. The three wise men brought Jesus Christ gifts of 5, frankincense, & 6 .",
 "An angel brought the good news of the birth of Jesus Christ, in a manger in Bethlehem to shepherds on the same night of His birth."
-]
+],
+"built": {
+"icon": "manger"
+}
 },
 {
 "id": "L2-jan2",
@@ -1548,7 +1563,10 @@ window.BK_CURR=[
 "1 6",
 "5 3",
 "The three wise men followed a the star to Bethlehem and presented fold, frankincense and myrrh to the new born king, Jesus Christ."
-]
+],
+"built": {
+"icon": "wiseKing1"
+}
 },
 {
 "id": "L2-jan3",
@@ -1581,7 +1599,10 @@ window.BK_CURR=[
 "6. Jesus Christ  for 40 days and 40 nights right after His baptism.",
 "3 1",
 "The angel told Joseph to take the Virgin Mary and the Child, Jesus Christ to Egypt. So, they went to Egypt and stayed there for three and half years until the death of Herod."
-]
+],
+"built": {
+"icon": "dove"
+}
 },
 {
 "id": "L2-jan4",
@@ -1610,7 +1631,10 @@ window.BK_CURR=[
 "5. Jesus said it is written that man shall not live by bread alone but by the  word of God.",
 "6. It is written that you shall  only Your God.",
 "5 1"
-]
+],
+"built": {
+"icon": "bible"
+}
 },
 {
 "id": "L2-feb1",
@@ -1639,7 +1663,10 @@ window.BK_CURR=[
 "7. The royal official and his household  in Jesus Christ.",
 "2 3",
 "The First Miracle Jesus turned water into wine at a wedding in Cana of Galilee. (John 2:1-12)"
-]
+],
+"built": {
+"icon": "jar"
+}
 },
 {
 "id": "L2-feb2",
@@ -1666,7 +1693,10 @@ window.BK_CURR=[
 "5. Out of the ten, only one returned to  Jesus Christ.",
 "6. Jesus said to the thankful leper, \"Your  has made you well.",
 "6 4"
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L2-feb3",
@@ -1692,7 +1722,10 @@ window.BK_CURR=[
 "4. The  said to Jesus that many people were pressing against Him.",
 "5. The woman fell in  at the feet of Jesus Christ.",
 "6. Jesus Christ said to the woman, \"Daughter, your  has healed you.\""
-]
+],
+"built": {
+"icon": "crowd"
+}
 },
 {
 "id": "L2-len1",
