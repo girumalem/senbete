@@ -315,7 +315,10 @@ window.BK_CURR=[
 "4. How did the Israelites cross the Red sea?",
 "a) By swimming b) With an airplane c) On the dry land through the parted sea",
 "When the army of Pharaoh, Egypt's king came after the Israelites, Moses hit the Red Sea River with his rod as God told him to do, and the water parted into two. The Israelites then crossed the Red Sea through the dry land, and praised God for saving them with his miracles."
-]
+],
+"built": {
+"icon": "waterWall"
+}
 },
 {
 "id": "L1-dec3",
@@ -340,7 +343,10 @@ window.BK_CURR=[
 "a) 40 days b) 40 years c) 25 years",
 "4. What did the wafer taste like?",
 "a) Vanilla ice-cream b) Ethiopian bread c) Wafer with honey"
-]
+],
+"built": {
+"icon": "basket"
+}
 },
 {
 "id": "L1-dec4",
@@ -363,7 +369,10 @@ window.BK_CURR=[
 "3. What other miracle did Moses do with his rod?",
 "a) He parted the Red Sea River b) He bit horses with it. c) He dug a well.",
 "The Israelites cried against Moses for lack of water. But, Moses prayed to God, and He gave them water from a rock to drink."
-]
+],
+"built": {
+"icon": "rockWater"
+}
 },
 {
 "id": "L1-jan1",
@@ -385,7 +394,10 @@ window.BK_CURR=[
 "4. Repeat the angel's song with the teacher at least three times: \"Glory to God in the highest, and peace to His people on earth.\"",
 "5. Learn the following song",
 "\"There is born to you this day in the city of David a Savior, who is Christ the Lord. And this will be the sign to you. You will find a Baby wrapped in cloths, lying in a manger.\""
-]
+],
+"built": {
+"icon": "manger"
+}
 },
 {
 "id": "L1-jan2",
@@ -407,7 +419,10 @@ window.BK_CURR=[
 "4. Did you get gifts for Christmas? Did you give gifts to anybody? What about gifts to Jesus Christ?",
 "5. Learn the following song",
 "\"When Jesus was born in Bethlehem ... there came three wise men (kings) from the east to Jerusalem\" Matthew 1:25"
-]
+],
+"built": {
+"icon": "gift"
+}
 },
 {
 "id": "L1-jan3",
@@ -433,7 +448,10 @@ window.BK_CURR=[
 "4. What are the two miracles that were seen when Jesus Christ came out of the water?",
 "5. Learn the following song",
 "When Jesus came out of the water, after being baptized by John, the heavens were opened, and the Spirit of God descended upon Him like a dove. And a voice from heaven said, \"This is my beloved Son, in whom I am well pleased.\" Matthew 3:16-17"
-]
+],
+"built": {
+"icon": "dove"
+}
 },
 {
 "id": "L1-jan4",
@@ -455,7 +473,10 @@ window.BK_CURR=[
 "4. What did Jesus Christ do to solve their problem?",
 "5. Learn the following song",
 "Jesus' First Miracle He turned water into wine. John 2:1-9"
-]
+],
+"built": {
+"icon": "jar"
+}
 },
 {
 "id": "L1-feb1",
@@ -478,7 +499,10 @@ window.BK_CURR=[
 "5. What did the fishermen do after the saw the miracle of Jesus Christ?",
 "6. What are the names of the fishermen that followed Jesus Christ?",
 "\"From now on you, will catch men.\" Luke 5:10"
-]
+],
+"built": {
+"icon": "net"
+}
 },
 {
 "id": "L1-feb2",
@@ -498,7 +522,10 @@ window.BK_CURR=[
 "2. How did Jesus heal the blind man?",
 "3. What did the people say after the blind man was healed and could see?",
 "4. What did the blind man tell everyone?"
-]
+],
+"built": {
+"icon": "pool"
+}
 },
 {
 "id": "L1-feb3",
@@ -518,7 +545,10 @@ window.BK_CURR=[
 "2. What did Peter say when he heard Jesus Christ?",
 "3. Why did Peter sink after he started walking on the water?",
 "4. What did the disciples do after Jesus got in the boat with them?"
-]
+],
+"built": {
+"icon": "boat"
+}
 },
 {
 "id": "L1-len1",

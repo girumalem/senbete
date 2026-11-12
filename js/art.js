@@ -53,7 +53,7 @@ function figure(o={}){
   s+=`<circle cy="${hy}" r="27" fill="${skin}"/>`;
   s+=`<path d="M-27 ${hy-2} C-28 ${hy-36} 28 ${hy-36} 27 ${hy-2} C20 ${hy-18} -20 ${hy-18} -27 ${hy-2}Z" fill="${hair}"/>`;
   if(o.afro) s+=`<path d="M-30 ${hy-6} C-36 ${hy-46} 36 ${hy-46} 30 ${hy-6} C24 ${hy-26} -24 ${hy-26} -30 ${hy-6}Z" fill="${hair}"/>`;
-  s+=eyes(hy+2,10);
+  s+=o.closedEyes?`<path d="M-18 ${hy+2} Q-10 ${hy+7} -2 ${hy+2} M2 ${hy+2} Q10 ${hy+7} 18 ${hy+2}" stroke="#24160F" stroke-width="2.4" fill="none" stroke-linecap="round"/>`:eyes(hy+2,10);
   s+=`<path d="M0 ${hy+5} L-2 ${hy+13} L3 ${hy+13}" stroke="${C.skinD}" stroke-width="1.6" fill="none"/>`;
   if(o.beard){ const bc={dark:'#24160F',grey:'#8C8C8C',white:'#E9E6DF',brown:'#4A2E1C'}[o.beard]||o.beard;
     s+=`<path d="M-26 ${hy+2} Q-26 ${hy+38} 0 ${hy+48} Q26 ${hy+38} 26 ${hy+2} Q20 ${hy+22} 0 ${hy+22} Q-20 ${hy+22} -26 ${hy+2}Z" fill="${bc}"/><path d="M-8 ${hy+18} Q0 ${hy+15} 8 ${hy+18}" stroke="${bc==='#E9E6DF'?'#9A9A9A':'#0006'}" stroke-width="2" fill="none"/>`;
@@ -61,6 +61,7 @@ function figure(o={}){
   } else s+=`<path d="M-6 ${hy+17} Q0 ${hy+21} 6 ${hy+17}" stroke="#6B2A1A" stroke-width="2.2" fill="none" stroke-linecap="round"/>`;
   if(o.mantle) s+=`<path d="M-34 ${hy+10} C-40 ${hy-44} 40 ${hy-44} 34 ${hy+10} L44 -120 Q30 -112 26 -128 Q30 ${hy+20} 0 ${hy-28} Q-30 ${hy+20} -26 -128 Q-30 -112 -44 -120Z" fill="${o.mantle}"/><path d="M-34 ${hy+10} C-40 ${hy-44} 40 ${hy-44} 34 ${hy+10}" stroke="${C.gold}" stroke-width="3" fill="none"/>${o.stars?`<g fill="${C.gold}"><circle cx="0" cy="${hy-30}" r="3"/><circle cx="-26" cy="${hy+30}" r="3"/><circle cx="26" cy="${hy+30}" r="3"/></g>`:''}`;
   if(o.netela) s+=`<path d="M-31 ${hy+2} C-34 ${hy-40} 34 ${hy-40} 31 ${hy+2} C24 ${hy-22} -24 ${hy-22} -31 ${hy+2}Z" fill="#FFFFFF"/><path d="M-31 ${hy+2} C-34 ${hy-40} 34 ${hy-40} 31 ${hy+2}" stroke="${o.netela}" stroke-width="3" fill="none"/>`;
+  if(o.nemes) s+=`<path d="M-30 ${hy+20} L-34 ${hy-6} C-34 ${hy-44} 34 ${hy-44} 34 ${hy-6} L30 ${hy+20} L22 ${hy+4} C22 ${hy-22} -22 ${hy-22} -22 ${hy+4}Z" fill="${C.gold}"/>${[-26,-18,18,26].map(x=>`<path d="M${x} ${hy-6} V${hy+16}" stroke="${C.blue}" stroke-width="3"/>`).join('')}`;
   if(o.crown) s+=`<path d="M-22 ${hy-22} L-24 ${hy-46} L-12 ${hy-34} L0 ${hy-52} L12 ${hy-34} L24 ${hy-46} L22 ${hy-22}Z" fill="${C.gold}" stroke="${C.goldD}" stroke-width="2"/><circle cx="0" cy="${hy-36}" r="3.4" fill="${C.red}"/>`;
   if(o.helmet) s+=`<path d="M-28 ${hy-4} C-30 ${hy-40} 30 ${hy-40} 28 ${hy-4} Z" fill="#8A93A6"/><path d="M0 ${hy-34} L0 ${hy-50}" stroke="${C.red}" stroke-width="8" stroke-linecap="round"/>`;
   if(o.cap) s+=`<path d="M-26 ${hy-10} C-28 ${hy-38} 28 ${hy-38} 26 ${hy-10}Z" fill="${o.cap}"/>`;
@@ -197,6 +198,18 @@ const bed=()=>`<rect x="-100" y="-30" width="200" height="30" rx="6" fill="#8A5A
 const pathDots=()=>[...Array(7)].map((_,i)=>`<circle cx="${i*40}" cy="${-Math.sin(i/2)*10}" r="5" fill="#C9A26A" opacity=".8"/>`).join('');
 const sparkles=()=>[[-40,-30],[30,-50],[50,10],[-20,30],[0,-70]].map(([x,y],i)=>`<g transform="translate(${x} ${y})"><g class="twinkle" style="animation-delay:${i*.2}s">${star({r:8,c:'#FFF3C4'})}</g></g>`).join('');
 
+
+const manger=(o={})=>`<path d="M-70 -50 L70 -50 L56 0 L-56 0Z" fill="#8A5A30"/><path d="M-60 -30 L60 -30" stroke="#6B4423" stroke-width="4"/>${[-60,-30,0,30,60].map(x=>`<path d="M${x} -50 L${x*1.1} -70" stroke="#E3C45A" stroke-width="5" stroke-linecap="round"/>`).join('')}<path d="M-66 -52 Q0 -66 66 -52" stroke="#E3C45A" stroke-width="10" fill="none"/>${o.baby?`<g transform="translate(0 -56) scale(1.2)">${baby({crossHalo:true})}</g>`:''}`;
+const stable=()=>`<path d="M-200 0 L-200 -180 L0 -260 L200 -180 L200 0Z" fill="#6E4A2E"/><path d="M-160 0 L-160 -160 L160 -160 L160 0Z" fill="#2A1A10"/><path d="M-220 -176 L0 -270 L220 -176" stroke="#8A6038" stroke-width="16" fill="none" stroke-linecap="round"/>`;
+const jar=(o={})=>`<path d="M-30 0 Q-44 -50 -26 -86 L-20 -96 L20 -96 L26 -86 Q44 -50 30 0Z" fill="#A9A49A" stroke="#7E796E" stroke-width="3"/><path d="M-24 -96 H24" stroke="#7E796E" stroke-width="6"/>${o.fill?`<ellipse cy="-92" rx="18" ry="5" fill="${o.fill}"/>`:''}`;
+const net=(o={})=>`<path d="M-90 -60 Q0 30 90 -60" stroke="#C9A26A" stroke-width="4" fill="#C9A26A33"/>${[-60,-30,0,30,60].map(x=>`<path d="M${x} -58 L${x*.6} ${-20+Math.abs(x)*-.3}" stroke="#C9A26A" stroke-width="2"/>`).join('')}${o.full?[[-40,-30],[0,-14],[40,-30],[-20,-40],[22,-44],[0,-50]].map(([a,b],i)=>`<g transform="translate(${a} ${b}) scale(.6)">${fish({c:['#3C8DD8','#E2A62B','#C2272D'][i%3]})}</g>`).join(''):''}`;
+const rockWater=(o={})=>`<path d="M-80 0 Q-96 -80 -40 -110 Q20 -130 70 -90 Q100 -50 86 0Z" fill="#9A8A74"/><path d="M-40 -80 Q0 -96 40 -76" stroke="#B9AC98" stroke-width="5" fill="none"/>${o.water?`<path d="M0 -70 Q-10 -30 -30 0 Q-60 20 -140 26 L-140 40 Q-40 36 10 0 Q14 -40 14 -70Z" fill="#7CC4F0" class="flow"/><path d="M-6 -60 Q-12 -20 -40 6" stroke="#fff" stroke-width="3" fill="none" opacity=".8"/>`:''}`;
+const manna=()=>[[-14,-4],[6,-10],[16,2],[-4,8],[-20,10],[12,12]].map(([a,b])=>`<ellipse cx="${a}" cy="${b}" rx="6" ry="4" fill="#FFFDF4" stroke="#E7DFC6" stroke-width="1.5"/>`).join('');
+const basket=()=>`<path d="M-50 -40 L50 -40 L40 0 L-40 0Z" fill="#C9A26A"/>${[-34,-14,6,26].map(x=>`<path d="M${x} -40 L${x+6} 0" stroke="#A8824E" stroke-width="3"/>`).join('')}<path d="M-50 -40 Q0 -100 50 -40" stroke="#A8824E" stroke-width="6" fill="none"/>`;
+const waterWall=(o={})=>`<rect x="-210" y="-330" width="420" height="330" fill="#2B78B8"/><rect x="-210" y="-330" width="420" height="30" fill="#5AA0D8"/>${[...Array(9)].map((_,i)=>`<path d="M-200 ${-290+i*34} q25 -10 50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0" stroke="#ffffff40" stroke-width="3" fill="none"/>`).join('')}`;
+const pool=()=>`<ellipse rx="150" ry="36" fill="#9A8A74"/><ellipse rx="130" ry="26" fill="#5AA0D8"/><path d="M-80 -4 q20 -8 40 0 t40 0 t40 0" stroke="#fff" stroke-width="3" fill="none" opacity=".7"/>`;
+const crowd=()=>[[-60,'#2F7A4E'],[0,'#B3322A'],[60,'#24418F']].map(([x,c],i)=>`<g transform="translate(${x} ${i%2?6:0}) scale(.45)">${figure({robe:c,arms:i===1?'up':'down',netela:i===1?C.gold:null})}</g>`).join('');
+
 /* ---------- registry ---------- */
 const P=(o)=>({draw:(x={})=>figure({...o,...x}),box:'-120 -260 240 270'});
 const ART={
@@ -209,9 +222,26 @@ const ART={
   raindrop:{draw:()=>`<path d="M0 -24 Q14 -4 10 6 Q6 14 0 14 Q-6 14 -10 6 Q-14 -4 0 -24Z" fill="#9FD0F5" stroke="#fff" stroke-width="2"/>`,box:'-20 -30 40 50'},
   darkCloud:{draw:(o={})=>cloud({s:o.s||1,c:'#3A465E'}),box:'-70 -50 140 100'},
   shade:{draw:(o={})=>`<rect x="-10" y="-10" width="820" height="470" fill="${o.c||'#070A20'}" opacity="${o.o??.75}"/>`,box:'0 0 800 450'},
+  shore:{draw:()=>`<path d="M0 268 Q150 262 230 290 Q290 330 300 450 H0Z" fill="#E2C68C"/><path d="M0 268 Q150 262 230 290" stroke="#fff" stroke-opacity=".5" stroke-width="4" fill="none"/>`,box:'0 0 800 450'},
   dawn:{draw:()=>`<defs><linearGradient id="dawnG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C85F"/><stop offset="1" stop-color="#F2B868" stop-opacity="0"/></linearGradient></defs><rect width="800" height="300" fill="url(#dawnG)" opacity=".85"/>`,box:'0 0 800 450'},
   family:{draw:()=>`<g transform="translate(-70 0) scale(.62)">${figure({robe:'#8A5A30',beard:'white',halo:true,staff:true})}</g><g transform="translate(40 0) scale(-1 1)">${donkey({saddle:true})}</g><g transform="translate(46 -70) scale(.5)">${figure({mantle:'#24418F',robe:'#B3322A',halo:true,stars:true,arms:'hold',holdBaby:true})}</g>`,box:'-130 -230 250 240'},
   selam:{draw:(o={})=>selam(o.mouth),box:'-60 -66 120 134'},
+  jesus:P({robe:'#B3322A',sash:'#24418F',crossHalo:true,beard:'dark',longHair:true,arms:'bless'}),
+  jesusWalk:P({robe:'#B3322A',sash:'#24418F',crossHalo:true,beard:'dark',longHair:true,arms:'out'}),
+  peter:P({robe:'#E2A62B',sash:C.green,beard:'grey',halo:true}),
+  disciple:P({robe:'#2F7A4E',beard:'dark',halo:true}),
+  johnBaptist:P({robe:'#8A6038',sash:'#C99A5E',beard:'dark',afro:true,halo:true,staff:true}),
+  shepherd:P({robe:'#6E8F3A',beard:'dark',staff:true,cap:'#F4EEDF'}),
+  pharaoh:P({robe:'#F4EEDF',sleeve:'#F4EEDF',nemes:true,sash:C.gold,band:C.gold,bandBg:'#24418F'}),
+  wiseKing1:P({robe:'#6A3A8A',crown:true,beard:'white'}),
+  wiseKing2:P({robe:'#24418F',crown:true,beard:'dark'}),
+  wiseKing3:P({robe:'#2F7A4E',crown:true}),
+  blindMan:P({robe:'#8C8478',closedEyes:true,beard:'dark',staff:true}),
+  seeingMan:P({robe:'#8C8478',beard:'dark',arms:'up'}),
+  manger:{draw:manger,box:'-80 -110 160 120'}, stable:{draw:stable,box:'-230 -280 460 290'},
+  jar:{draw:jar,box:'-50 -110 100 120'}, net:{draw:net,box:'-100 -70 200 90'}, rockWater:{draw:rockWater,box:'-150 -140 250 190'},
+  manna:{draw:manna,box:'-30 -20 60 40'}, basket:{draw:basket,box:'-60 -80 120 90'}, waterWall:{draw:waterWall,box:'-210 -340 420 340'},
+  pool:{draw:pool,box:'-160 -45 320 90'}, crowd:{draw:crowd,box:'-110 -120 220 130'},
   angel:P({wings:true,halo:true,robe:'#FFFFFF',sleeve:'#FFFFFF',band:C.gold,bandBg:C.green,arms:'down'}),
   gabriel:P({wings:true,halo:true,robe:'#FFFFFF',sleeve:'#FFFFFF',band:C.gold,bandBg:C.green,arms:'out'}),
   michael:P({wings:true,halo:true,robe:C.red,sleeve:C.red,arms:'down',spear:true}),
@@ -287,6 +317,9 @@ const BG={
   church:()=>`<defs>${grad('bgc','#F4E7CB','#E9D3A6')}</defs><rect width="800" height="450" fill="url(#bgc)"/>${[0,1,2,3].map(i=>`<rect x="${70+i*180}" y="60" width="120" height="200" rx="60" fill="#24418F" opacity=".14"/>`).join('')}<rect y="330" width="800" height="120" fill="#B3322A"/><path d="M0 330 H800" stroke="#E2A62B" stroke-width="8"/>${[...Array(20)].map((_,i)=>`<path d="M${i*42} 360 l21 20 l21 -20" stroke="#E2A62B" stroke-width="3" fill="none"/>`).join('')}`,
   gold:()=>`<defs><radialGradient id="bggo" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#FFF1BF"/><stop offset=".55" stop-color="#F0B53A"/><stop offset="1" stop-color="#B3322A"/></radialGradient></defs><rect width="800" height="450" fill="url(#bggo)"/><g transform="translate(400 225)"><g class="spin">${rays(0,0,16,700,.18)}</g></g>`,
   quiz:()=>`<defs>${grad('bgq','#FFE7A8','#F6C85F')}</defs><rect width="800" height="450" fill="url(#bgq)"/>${[...Array(12)].map((_,i)=>`<g transform="translate(${(i*137)%800} ${(i*89)%450})" opacity=".3">${star({r:10,c:'#fff'})}</g>`).join('')}`,
+  river:()=>`<defs>${grad('bgr','#8CC8F0','#EAF4D8')}</defs><rect width="800" height="450" fill="url(#bgr)"/>${amba('#7DA44A','#94B85A')}<path d="M0 360 Q200 330 400 356 T800 340 V420 Q600 410 400 430 T0 420Z" fill="#3C8DD8"/><path d="M40 380 q20 -8 40 0 t40 0 M300 400 q20 -8 40 0 t40 0 M560 380 q20 -8 40 0 t40 0" stroke="#fff" stroke-width="3" fill="none" opacity=".6"/>`,
+  lake:()=>`<defs>${grad('bgl','#9FD0F5','#EAF4FB')}${grad('bglw','#3C8DD8','#1C5A96')}</defs><rect width="800" height="450" fill="url(#bgl)"/><path d="M0 230 L140 190 L300 220 L460 180 L620 210 L800 190 V250 H0Z" fill="#8FA8B8" opacity=".6"/><rect y="250" width="800" height="200" fill="url(#bglw)"/>${waveLines(266,7,'#ffffff30')}`,
+  wedding:()=>`<defs>${grad('bgw','#F6E3B8','#E9C98A')}</defs><rect width="800" height="450" fill="url(#bgw)"/>${[...Array(9)].map((_,i)=>`<path d="M${i*100} 0 Q${i*100+50} 60 ${i*100+100} 0" stroke="${[C.red,C.green,C.gold][i%3]}" stroke-width="6" fill="none"/>`).join('')}<rect y="340" width="800" height="110" fill="#C9A26A"/><path d="M0 340 H800" stroke="#8A6038" stroke-width="6"/>`,
   dark:()=>`<rect width="800" height="450" fill="#070A20"/>`,
 };
 

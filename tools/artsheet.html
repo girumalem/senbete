@@ -1,0 +1,4 @@
+<!doctype html><meta charset="utf-8"><title>Art sheet</title>
+<style>body{font:12px sans-serif;background:#EAF0FA;display:grid;grid-template-columns:repeat(auto-fill,120px);gap:8px;padding:8px}div{background:#fff;border-radius:10px;text-align:center}svg{width:110px;height:100px}</style>
+<script src="../js/art.js"></script>
+<script>document.addEventListener('DOMContentLoaded',()=>{const A=BKArt;const keys=(location.hash.slice(1)||Object.keys(A.ART).join(',')).split(',');document.body.innerHTML=keys.map(k=>`<div>${A.icon(k)}<br>${k}</div>`).join('')})</script>

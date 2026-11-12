@@ -15,6 +15,16 @@ BUILT={
  'L1-nov3':{'icon':'ladder'},
  'L1-nov4':{'icon':'camel'},
  'L1-dec1':{'icon':'burningBush'},
+ 'L1-dec2':{'icon':'waterWall'},
+ 'L1-dec3':{'icon':'basket'},
+ 'L1-dec4':{'icon':'rockWater'},
+ 'L1-jan1':{'icon':'manger'},
+ 'L1-jan2':{'icon':'gift'},
+ 'L1-jan3':{'icon':'dove'},
+ 'L1-jan4':{'icon':'jar'},
+ 'L1-feb1':{'icon':'net'},
+ 'L1-feb2':{'icon':'pool'},
+ 'L1-feb3':{'icon':'boat'},
 }
 d=json.load(open(sys.argv[1],encoding='utf-8'))
 songs={}

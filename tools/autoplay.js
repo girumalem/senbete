@@ -23,7 +23,7 @@ const {chromium}=require('playwright');
           const pt=[...document.querySelectorAll('.pt.show')].find(x=>x.querySelector('.glow').style.display!=='none'); if(pt){ const b=pt.getBoundingClientRect(); return ['click',b.left+b.width/2,b.top+b.height/2]; } if(document.querySelector('.pt')) return 'wait';
           const item=[...document.querySelectorAll('.items .prop')].find(e=>e.style.pointerEvents!=='none'); const zone=document.querySelector('.zone');
           if(item&&zone){ const a=item.getBoundingClientRect(), z=zone.getBoundingClientRect(); return ['drag',a.left+a.width/2,a.top+a.height/2,z.left+z.width/2,z.top+z.height/2]; }
-          const spot=[...document.querySelectorAll('.spot')].find(s=>!s.querySelector('.hid.show')); if(spot){ const b=spot.getBoundingClientRect(); return ['click',b.left+b.width/2,b.top+b.height*.8]; }
+          const spot=[...document.querySelectorAll('.spot')].find(s=>!s.querySelector('.hid.show')); if(spot){ const b=spot.querySelector('.cov').getBoundingClientRect(); return ['click',b.left+b.width/2,b.top+b.height*.6]; }
           const drum=document.querySelector('.prop[data-id="drum"]'); if(drum){ const b=drum.getBoundingClientRect(); return ['click',b.left+b.width/2,b.top+b.height/2]; }
           return 'area'; });
         if(acted[0]==='click') await p.mouse.click(acted[1],acted[2]);

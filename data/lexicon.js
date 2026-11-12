@@ -640,5 +640,29 @@ window.BK_LEX = {
   "lang": "am",
   "say": null,
   "check": true
+ },
+ "petros": {
+  "fidel": "ጴጥሮስ",
+  "latin": "Petros",
+  "en": "Peter",
+  "lang": "am",
+  "say": "PEH-tros",
+  "check": true
+ },
+ "ayzoh": {
+  "fidel": "አይዞህ",
+  "latin": "Ayzoh",
+  "en": "be brave, don't be afraid",
+  "lang": "am",
+  "say": "eye-ZOH",
+  "check": true
+ },
+ "siloam": {
+  "fidel": "ሰሊሆም",
+  "latin": "Siloham",
+  "en": "the pool of Siloam",
+  "lang": "am",
+  "say": "seh-lee-HOME",
+  "check": true
  }
 };

@@ -86,7 +86,7 @@ details.parents p{max-width:64ch;margin:.6em 0 0}
 /* quiz */
 .quizgrid{position:absolute;inset:0;display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(8px,2vw,18px);padding:clamp(44px,9%,64px) clamp(10px,3%,28px) clamp(14px,4%,30px);align-items:stretch}
 .card{border-radius:22px;background:#FFFFFF;color:#18234F;box-shadow:0 6px 0 #C9CFE0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;padding:8px;font-family:var(--display);font-size:clamp(.8rem,2.2vw,1.2rem);text-align:center;line-height:1.2;min-width:0}
-.card svg{width:min(78%,160px);height:auto;max-height:70%;aspect-ratio:1}
+.card svg{width:min(78%,160px);height:auto;max-height:70%;aspect-ratio:1;filter:drop-shadow(0 0 1px rgba(40,30,10,.55)) drop-shadow(0 2px 3px rgba(40,30,10,.2))}
 .card:hover{box-shadow:0 6px 0 #E2A62B}
 .card.right{background:#DFF3E6;box-shadow:0 6px 0 #2F7A4E;animation:yay .5s}
 .card.wrong{animation:shake .4s;opacity:.55}
@@ -192,3 +192,4 @@ details.parents .src p{font-size:.92rem;color:var(--muted)}
 @keyframes fallin{to{transform:translateY(240px);opacity:.1}}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .scene .fade:not(.show){pointer-events:none}
+.flow{animation:flow 1.2s linear infinite}@keyframes flow{50%{opacity:.8}}
