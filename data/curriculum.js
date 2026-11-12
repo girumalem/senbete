@@ -727,7 +727,10 @@ window.BK_CURR=[
 "After Jesus came into Jerusalem, the Jews leaders were jealous of Him, and they accused Him falsely. So, they turned the people against Him, and they crucified Him on a cross on a Friday night. But, Jesus Christ prayed for them when they put Him on the Cross. He said, \"Father, forgive them for they do not know what they are doing.\" After Jesus Christ died on the Cross, He was buried. But he rose on the third day from the dead, on a Sunday. On the same day some women went to His tomb to put perfume on His body. But when they arrived, they saw the big stone moved from the tomb, and an angel in white sitting on it. They were afraid when they saw the angel, but he said to them, \"Fear not, for I know you seek Jesus ... He is not here, for He is risen.\" So they departed from the tomb with joy, and ran to tell the great news to others.",
 "Exercise 1) Why did the Jews leaders accuse Jesus falsely? 2) When did Jesus rise from the dead? 3) Who told the women who came to the tomb that Jesus was risen?",
 "An angel told the women who came to the tomb of Jesus Christ that He is not here, He is risen."
-]
+],
+"built": {
+"icon": "tomb"
+}
 },
 {
 "id": "L1-eas2",
@@ -744,7 +747,10 @@ window.BK_CURR=[
 "Jesus' disciples were gathered in a closed room three days after the death of Jesus Christ. Disciples are followers of Jesus Christ whom He chose to teach the people in His name. While they were gathered, without opening the door, Jesus appeared in the middle of them and said, \"Peace be unto you.\" The disciples were happy to see Jesus Christ because this was the first time they saw Him after His resurrection. One of the disciples, Thomas, was not in the room at the time. So, the disciples told Him that they have seen the Lord. But Thomas said he would not believe unless He saw Him himself, and put his fingers in Jesus hands. After 8 days, Jesus appeared to the disciples again while they were gathered in a closed room. This time Thomas was also there. Jesus said to him, \"Reach your fingers and touch My hands; put it also on My side, and be not faithless but believing.\" And Thomas said, \"My Lord and My God\" and he believed that Jesus was really risen from the dead, because He saw the wounds on His hands and feet.",
 "Exercise 1) Who did Jesus appear to in a closed room? 2) Who was not present when He appeared to the disciples for the first time? 3) What did Jesus say to Thomas when He appeared to the disciples the 2nd time?",
 "An angel told the women who came to the tomb of Jesus Christ that He is not here, He is risen."
-]
+],
+"built": {
+"icon": "door"
+}
 },
 {
 "id": "L1-eas3",
@@ -760,7 +766,10 @@ window.BK_CURR=[
 "The Virgin Mary is the mother of Jesus Christ. God chose her to be His mother because she was pure, and holy. Today we are going to learn about the birth of the Virgin Mary.",
 "There were kind husband and wife, called Joachim and Anna who lived together for a long time without a child. But, they remained faithful to God, keeping His commandments and praying, so that He would give them a child. They promised that if He gave them a child, they would give the child to serve him all his/her life. Joachim and Anna grew too old to have a child. But nothing is impossible with God. He saw their faith, and gave them a beautiful baby girl. They named her Mary. She was born on the first day of the Ethiopian month, Ginbot (May 9). We call this day Lideta. It means the Birth (of the Virgin Mary). God gave Joachim and Anna a beautiful daughter at an old age, because they were faithful, thankful for what they had, and always prayed for a child without losing hope.",
 "Exercise 1) What are the names of the father and mother of the Virgin Mary? 2) What did Joachim & Anna promise God? 3) Who is the mother of Jesus Christ?"
-]
+],
+"built": {
+"icon": "adeyAbeba"
+}
 },
 {
 "id": "L1-eas4",
@@ -779,7 +788,10 @@ window.BK_CURR=[
 "3. Do you remember what angels did in the story of Easter? Angels also announced the resurrection of Jesus Christ to women who came to the tomb of Jesus Christ on the day of His crucifixion. An angel said to them, \"Fear not, for I know you seek Jesus ... He is not here, for He is risen.\"",
 "They also rejoice with us when they bring good news to us. On Christmas, they sang, \"Glory to God in the Highest, and on earth peace, good will toward men.\"",
 "Exercise 1) What kind of messages do angels bring to us? 2) What did Angels sing on Christmas night? 3) Who brought the news of the birth and the resurrection of Jesus Christ?"
-]
+],
+"built": {
+"icon": "angel"
+}
 },
 {
 "id": "L1-eas5",
@@ -795,7 +807,10 @@ window.BK_CURR=[
 "When Jesus rose from the dead, angels told the women who came to Jesus' tomb, \"He is risen ... tell His disciples that He goes before you into Galilee; there you will see Him.\" Jesus Himself also appeared to them and told them the same thing. Today, we are going to learn about what Jesus told the disciples after His Resurrection.",
 "After the women heard what the angels, and also Jesus Christ Himself told them what to do, they ran to the disciples, and told them what they had seen and heard. When the disciples heard this, they immediately ran to Jesus' tomb, and found it empty as the women had said. So they went to Galilee to meet Jesus according to the message the women brought for them. When they arrived in Galilee, they saw Jesus Christ and worshipped Him. They were very happy again, because they had been very sad because of His death. Then Jesus said to them, \"Go and teach all people, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit, teaching them to observe all things that I have commanded you.\" Jesus sent His disciples to teach and baptize all nations, and they obeyed and went throughout the world to do what He had commanded them.",
 "Exercise 1) What did the angels tell the women who came to the tomb of Jesus Christ? 2) What did the disciples do when the women told them the news of Jesus' Resurrection? 3) What did Jesus tell the disciples? Did they obey?"
-]
+],
+"built": {
+"icon": "church"
+}
 },
 {
 "id": "L1-eas6",
@@ -811,7 +826,10 @@ window.BK_CURR=[
 "Do you remember what we talked about angels in previous lessons? We said that they are messengers of God, and they bring good news to us. We have seen two examples of good news from angels before. Today, we are going to see another news by angels, and learn the events of the Ascension of our Lord and Savior Jesus Christ, into heaven.",
 "Jesus Christ appeared to His disciples many times after His resurrection, and taught them and also commanded them to go teach and baptize all nations. After 40 days, He told them that it was time for Him to go. But He promised to send them the Holy Spirit. Then He blessed them, and as He spoke, He was taken up, and disappeared into a cloud out of their sight. They were sad to see Him disappear from them. As the disciples looked up into heaven when Jesus was taken up, two angels in white dress stood by them, and said to them, \"Why do you stand looking up into heaven? This same Jesus, who is taken up from you into heaven shall so come the same way as you have seen Him go into heaven.\" The disciples were happy to hear these words from the angels, and they went back together rejoicing.",
 "Exercise 1) What did Jesus Christ command the disciples to do after His Resurrection? 2) How many days did Jesus stay on earth teaching the disciples after His Resurrection? 3) What did the angels tell the disciples, as they stood looking up as Jesus Christ ascended into heaven?"
-]
+],
+"built": {
+"icon": "cloud"
+}
 },
 {
 "id": "L1-eas7",
@@ -827,7 +845,10 @@ window.BK_CURR=[
 "Last week we learned about the ascension of Jesus Christ into heaven. Today we are going to learn about what Jesus Christ told His disciples before he went up to heaven, and the things that happened according to what He told them",
 "Forty days after Jesus Christ was risen from the dead, He gathered the disciples at a place called Mount of Olive. He told His disciples to stay in Jerusalem until they have received the Holy Spirit. He told them that they would have power and courage. He commanded them to teach about Him to all nations after they receive the Holy Spirit. Then He blessed them and disappeared in the cloud. The disciples stayed in Jerusalem together as Jesus has commanded them. Ten days after Jesus went up to heaven, the Holy Spirit came down like fire while they were all gathered together. And they received power and the gift to speak many languages. There were many people that gathered from different countries who spoke different languages. But they could all hear the disciples speak in their languages. Peter, standing with the other disciples taught the people about Jesus Christ, and 3000 people believed in Jesus Christ on this day because of His teaching. The day, on which the Holy Spirit descended and the disciples received the gift of the Holy Spirit, is called Pentecost, which means the 50th day, because it is the 50th day after the Resurrection of Jesus Christ.",
 "Exercise 1) What is the Resurrection? What is the Ascension? 2) How did the disciples receive power on the day of Pentecost? 3) How many people believed in Jesus Christ on the day of Pentecost?"
-]
+],
+"built": {
+"icon": "flame"
+}
 },
 {
 "id": "L1-eas8",
@@ -843,7 +864,10 @@ window.BK_CURR=[
 "Ten days after the Ascension of Jesus Christ into heaven, the Holy Spirit came into the house where the disciples were gathered, and filled the room. They received the Holy Spirit and they also could speak many languages. They went and preached about Jesus Christ as commanded them, performing many miracles in His name. Today we are going to learn the first miracle of St. Peter, after receiving the Holy Spirit.",
 "Once upon a time, Peter and John were going to a temple for prayer. (what is a temple?) The entry of the temple was called the Beautiful Gate. There was a man at this gate, who could not walk ever since he was born. He always stayed at the Beautiful Gate to beg for money, food, silver, gold, clothing, and other material things. When Peter and John came to the temple, he called to them hoping to get something from them. Peter and John stopped at the entry and Peter said to him, \"I do not have silver and gold, but I will give you what I have, in the name of Jesus of Nazareth, rise and walk.\" Then he took his right arm and lifted him up. Immediately, the man stood up, and could walk. The man was very happy to be able to walk. He went inside wit Peter and John, and praised God for healing him. The people saw him walking and praising God, and were amazed at the miracle. Jesus Christ told the disciples that great signs and miracles would follow those who believe in Him. As He said, the disciples were performing great miracles, casting out demons and healing the sick as we have seen in the story.",
 "Exercise 1) How many days after the Ascension of Jesus Christ did the disciples receive the Holy Spirit? 2) What was the entry to the temple called? 3) What did Peter do to the Person who was begging for money at the beautiful gate?"
-]
+],
+"built": {
+"icon": "gate"
+}
 },
 {
 "id": "L1-jul1",
