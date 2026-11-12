@@ -2252,7 +2252,10 @@ window.BK_CURR=[
 "5. God is our Father, and we are His .",
 "6. As children of God, we need to  one another.",
 "4 3"
-]
+],
+"built": {
+"icon": "church"
+}
 },
 {
 "id": "L2-jul2",
@@ -2281,7 +2284,10 @@ window.BK_CURR=[
 "4. We should thank our  who provide for us all that we need at home.",
 "5. We should thank our  who teach us at school.",
 "\"Thank you Lord for giving me loving parents, a house to live in, nice cloth to wear, for the air we breath, and for all the beauty of life and nature.\""
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L2-jul3",
@@ -2308,7 +2314,10 @@ window.BK_CURR=[
 "6. On the 14th day, when they gathered to eat, St. Paul took bread and gave  to God in front of everybody.",
 "7. The  did not believe in Jesus Christ.",
 "7 1 3"
-]
+],
+"built": {
+"icon": "boat"
+}
 },
 {
 "id": "L2-jul4",
@@ -2338,7 +2347,10 @@ window.BK_CURR=[
 "8. Many people  in Jesus Christ when they saw miracles done to Qirkos and Iyalota.",
 "5 7",
 "3 6"
-]
+],
+"built": {
+"icon": "gabriel"
+}
 },
 {
 "id": "L2-aug1",
@@ -2369,7 +2381,10 @@ window.BK_CURR=[
 "5. The second son did not  his father's wish because he didn't go and work in the vineyard as he promised.",
 "6. If we make , we should say sorry and correct our mistakes.",
 "7. Obedience is an act of ."
-]
+],
+"built": {
+"icon": "grapes"
+}
 },
 {
 "id": "L2-aug2",
@@ -2396,7 +2411,10 @@ window.BK_CURR=[
 "5. Jesus ordered peter to  the money he found from the fish for the temple.",
 "6. Peter was  to find the money in the fish's mouth, as Jesus Christ told him.",
 "1 5"
-]
+],
+"built": {
+"icon": "fish"
+}
 },
 {
 "id": "L2-aug3",
@@ -2426,7 +2444,10 @@ window.BK_CURR=[
 "8. A voice from the cloud said, ”This is My beloved Son with whom I am well pleased,  to Him”.",
 "6 1",
 "5 4"
-]
+],
+"built": {
+"icon": "sun"
+}
 },
 {
 "id": "L2-aug4",
@@ -2453,7 +2474,10 @@ window.BK_CURR=[
 "5. Jesus Christ gave His disciples the body and blood of the new .",
 "6. In the church,  pray over bread and wine during Liturgy, and it changes into the body and blood of Jesus Christ.",
 "2 3"
-]
+],
+"built": {
+"icon": "cup"
+}
 },
 {
 "id": "L2-sep1",
@@ -2488,7 +2512,10 @@ window.BK_CURR=[
 "1. Do you remember when God fed the Israelites with manna?",
 "2. What did the people ask Jesus Christ, when He told them that they should believe in Him?",
 "3. What is the bread of life that Jesus Christ told the people He would?"
-]
+],
+"built": {
+"icon": "church"
+}
 },
 {
 "id": "L3-sep2",
