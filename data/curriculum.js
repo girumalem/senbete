@@ -3298,7 +3298,10 @@ window.BK_CURR=[
 "• Children sang 6 in the highest, when Jesus came to Jerusalem.",
 "• The angel said to the women who came to the tomb, \"Fear not, I know you seek Jesus of 7; He is not here, for He is 10.\"",
 "3 4 5"
-]
+],
+"built": {
+"icon": "tomb"
+}
 },
 {
 "id": "L3-eas2",
@@ -3321,7 +3324,10 @@ window.BK_CURR=[
 "5. What did Jesus do, so that the disciples understand the Scripture?",
 "6. Why did the Jews kept guards at the tomb of Jesus Christ?",
 "Who came in the early hours of the third day of Jesus' crucifixion to the tomb?"
-]
+],
+"built": {
+"icon": "basket"
+}
 },
 {
 "id": "L3-eas3",
@@ -3342,7 +3348,10 @@ window.BK_CURR=[
 "3. Where was the Virgin Mary born? Why were did her parents go there?",
 "4. Who told Joachim that he would have a child at an old age?",
 "5. Who were the moon and the sun in the dream mentioned in the story?"
-]
+],
+"built": {
+"icon": "moon"
+}
 },
 {
 "id": "L3-eas4",
@@ -3366,7 +3375,10 @@ window.BK_CURR=[
 "4. What is the Passover meal?",
 "5. What is the Last Supper?",
 "6. Write some acts of obedience and kindness that you could show to your friends, teachers, brothers and sisters, parents, or other."
-]
+],
+"built": {
+"icon": "bowl"
+}
 },
 {
 "id": "L3-eas5",
@@ -3390,7 +3402,10 @@ window.BK_CURR=[
 "4. What is a martyr? What was the cause Peter died for?",
 "5. Do you love God? How do you show your love to God?",
 "6. Why is it important to help the poor and the needy?"
-]
+],
+"built": {
+"icon": "sheep"
+}
 },
 {
 "id": "L3-eas6",
@@ -3417,7 +3432,10 @@ window.BK_CURR=[
 "3. What did angels tell the disciples as they stood, looking up when Jesus Christ ascended into heaven?",
 "4. How did we receive the teaching of Jesus Christ, and the story of His life?",
 "5. How many days after His Resurrection did Jesus Christ ascend into heaven?"
-]
+],
+"built": {
+"icon": "cloud"
+}
 },
 {
 "id": "L3-eas7",
@@ -3446,7 +3464,10 @@ window.BK_CURR=[
 "5. What were the gifts the disciples received on the day of Pentecost?",
 "6. Why did the people say, when they heard the disciples in different languages?",
 "7. How many people believed in Jesus Christ after the preaching of Peter on the day of Pentecost?"
-]
+],
+"built": {
+"icon": "flame"
+}
 },
 {
 "id": "L3-eas8",
@@ -3475,7 +3496,10 @@ window.BK_CURR=[
 "5. What was the message in the letter the rich man told Bahran to deliver?",
 "6. What happened to Bahran when he delivered the rich man's letter?",
 "7. Do you have a favorite angel or saint? Do you do anything special in the name of saints?"
-]
+],
+"built": {
+"icon": "michael"
+}
 },
 {
 "id": "L3-jul1",
