@@ -6440,30 +6440,38 @@
  {
   "id": "L2-dec4.r4",
   "lesson": "L2-dec4",
-  "text": "Mary said: Behold the servant of the Lord. Let it be to me as you have said.",
-  "plain": "Mary said: Behold the servant of the Lord. Let it be to me as you have said.",
-  "words": []
+  "text": "[[mariam]] said: Behold the servant of the Lord. Let it be to me as you have said.",
+  "plain": "Mariam said: Behold the servant of the Lord. Let it be to me as you have said.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.v1",
   "lesson": "L2-dec4",
-  "text": "Gabriel also told Mary: Your cousin Elizabeth, who is old, will have a baby too. Nothing is impossible with God.",
-  "plain": "Gabriel also told Mary: Your cousin Elizabeth, who is old, will have a baby too. Nothing is impossible with God.",
-  "words": []
+  "text": "Gabriel also told [[mariam]]: Your cousin Elizabeth, who is old, will have a baby too. Nothing is impossible with God.",
+  "plain": "Gabriel also told Mariam: Your cousin Elizabeth, who is old, will have a baby too. Nothing is impossible with God.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.v2",
   "lesson": "L2-dec4",
-  "text": "Mary hurried to visit Elizabeth. Tap Elizabeth.",
-  "plain": "Mary hurried to visit Elizabeth. Tap Elizabeth.",
-  "words": []
+  "text": "[[mariam]] hurried to visit Elizabeth. Tap Elizabeth.",
+  "plain": "Mariam hurried to visit Elizabeth. Tap Elizabeth.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.v3",
   "lesson": "L2-dec4",
-  "text": "When Elizabeth heard Mary's greeting, her baby leaped for joy inside her!",
-  "plain": "When Elizabeth heard Mary's greeting, her baby leaped for joy inside her!",
-  "words": []
+  "text": "When Elizabeth heard [[mariam]]'s greeting, her baby leaped for joy inside her!",
+  "plain": "When Elizabeth heard Mariam's greeting, her baby leaped for joy inside her!",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.v4",
@@ -6489,23 +6497,29 @@
  {
   "id": "L2-dec4.q1",
   "lesson": "L2-dec4",
-  "text": "Who brought the good news to Mary?",
-  "plain": "Who brought the good news to Mary?",
-  "words": []
+  "text": "Who brought the good news to [[mariam]]?",
+  "plain": "Who brought the good news to Mariam?",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.q2",
   "lesson": "L2-dec4",
-  "text": "What would Mary call her Son?",
-  "plain": "What would Mary call her Son?",
-  "words": []
+  "text": "What would [[mariam]] call her Son?",
+  "plain": "What would Mariam call her Son?",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.q3",
   "lesson": "L2-dec4",
-  "text": "Who leaped for joy when Mary came?",
-  "plain": "Who leaped for joy when Mary came?",
-  "words": []
+  "text": "Who leaped for joy when [[mariam]] came?",
+  "plain": "Who leaped for joy when Mariam came?",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-dec4.finish",
@@ -6526,9 +6540,11 @@
  {
   "id": "L2-feb1.r1",
   "lesson": "L2-feb1",
-  "text": "Jesus did His first miracle at a wedding in Cana. He changed water into wine, after the Virgin Mary told Him they had no wine.",
-  "plain": "Jesus did His first miracle at a wedding in Cana. He changed water into wine, after the Virgin Mary told Him they had no wine.",
-  "words": []
+  "text": "Jesus did His first miracle at a wedding in Cana. He changed water into wine, after the Virgin [[mariam]] told Him they had no wine.",
+  "plain": "Jesus did His first miracle at a wedding in Cana. He changed water into wine, after the Virgin Mariam told Him they had no wine.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-feb1.r2",
@@ -7068,23 +7084,29 @@
  {
   "id": "L2-jan1.r1",
   "lesson": "L2-jan1",
-  "text": "About two thousand years ago, on the night of Tahsas 29, January 7, the Virgin Mary gave birth to Jesus Christ.",
-  "plain": "About two thousand years ago, on the night of Tahsas 29, January 7, the Virgin Mary gave birth to Jesus Christ.",
-  "words": []
+  "text": "About two thousand years ago, on the night of Tahsas 29, January 7, the Virgin [[mariam]] gave birth to Jesus Christ.",
+  "plain": "About two thousand years ago, on the night of Tahsas 29, January 7, the Virgin Mariam gave birth to Jesus Christ.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-jan1.r2",
   "lesson": "L2-jan1",
-  "text": "Mary and Joseph were strangers in Bethlehem. There was no place for them to stay.",
-  "plain": "Mary and Joseph were strangers in Bethlehem. There was no place for them to stay.",
-  "words": []
+  "text": "[[mariam]] and Joseph were strangers in Bethlehem. There was no place for them to stay.",
+  "plain": "Mariam and Joseph were strangers in Bethlehem. There was no place for them to stay.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-jan1.r3",
   "lesson": "L2-jan1",
-  "text": "So Jesus was born where the animals were kept. Mary wrapped Him in cloth and laid Him in a manger.",
-  "plain": "So Jesus was born where the animals were kept. Mary wrapped Him in cloth and laid Him in a manger.",
-  "words": []
+  "text": "So Jesus was born where the animals were kept. [[mariam]] wrapped Him in cloth and laid Him in a manger.",
+  "plain": "So Jesus was born where the animals were kept. Mariam wrapped Him in cloth and laid Him in a manger.",
+  "words": [
+   "mariam"
+  ]
  },
  {
   "id": "L2-jan1.r4",
@@ -7702,6 +7724,1225 @@
   "lesson": "L2-jan4",
   "text": "You did it! You finished Jesus Says No to Temptation and earned a sticker! Tap Play again, or go back to pick another lesson.",
   "plain": "You did it! You finished Jesus Says No to Temptation and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.cover",
+  "lesson": "L2-len1",
+  "text": "[[selam]]! We have seen Jesus heal many sick people. Today Jesus does something even greater, in a town called Nain. Tap *Let's play*!",
+  "plain": "Selam! We have seen Jesus heal many sick people. Today Jesus does something even greater, in a town called Nain. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-len1.r1",
+  "lesson": "L2-len1",
+  "text": "In the town of Nain there lived a widow. A widow is a woman whose husband has died.",
+  "plain": "In the town of Nain there lived a widow. A widow is a woman whose husband has died.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.r2",
+  "lesson": "L2-len1",
+  "text": "She had only one son. One day her son died, and she was very, very sad.",
+  "plain": "She had only one son. One day her son died, and she was very, very sad.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.r3",
+  "lesson": "L2-len1",
+  "text": "People were carrying him out of the town, and many people walked with her.",
+  "plain": "People were carrying him out of the town, and many people walked with her.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.r4",
+  "lesson": "L2-len1",
+  "text": "Just then, Jesus came to the town gate with His disciples and a big crowd.",
+  "plain": "Just then, Jesus came to the town gate with His disciples and a big crowd.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.c1",
+  "lesson": "L2-len1",
+  "text": "Jesus saw the mother crying. He felt sorry for her, and said: Do not cry. Tap the mother.",
+  "plain": "Jesus saw the mother crying. He felt sorry for her, and said: Do not cry. Tap the mother.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.c2",
+  "lesson": "L2-len1",
+  "text": "Jesus touched the stretcher, and the people carrying it stood still. Tap Jesus.",
+  "plain": "Jesus touched the stretcher, and the people carrying it stood still. Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.c3",
+  "lesson": "L2-len1",
+  "text": "Jesus said: Young man, I say to you, get up! And the young man sat up and began to talk!",
+  "plain": "Jesus said: Young man, I say to you, get up! And the young man sat up and began to talk!",
+  "words": []
+ },
+ {
+  "id": "L2-len1.c4",
+  "lesson": "L2-len1",
+  "text": "Jesus gave him back to his mother.",
+  "plain": "Jesus gave him back to his mother.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.blanks-intro",
+  "lesson": "L2-len1",
+  "text": "Read the sentence, and tap the missing word.",
+  "plain": "Read the sentence, and tap the missing word.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.blanks-done",
+  "lesson": "L2-len1",
+  "text": "Well read! The people praised God, and the news about Jesus spread everywhere.",
+  "plain": "Well read! The people praised God, and the news about Jesus spread everywhere.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b1",
+  "lesson": "L2-len1",
+  "text": "A what? is a woman whose husband has died.",
+  "plain": "A what? is a woman whose husband has died.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b1-a",
+  "lesson": "L2-len1",
+  "text": "A widow is a woman whose husband has died.",
+  "plain": "A widow is a woman whose husband has died.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b2",
+  "lesson": "L2-len1",
+  "text": "The widow had only one what?.",
+  "plain": "The widow had only one what?.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b2-a",
+  "lesson": "L2-len1",
+  "text": "The widow had only one son.",
+  "plain": "The widow had only one son.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b3",
+  "lesson": "L2-len1",
+  "text": "Jesus said to the mother: Do not what?.",
+  "plain": "Jesus said to the mother: Do not what?.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b3-a",
+  "lesson": "L2-len1",
+  "text": "Jesus said to the mother: Do not cry.",
+  "plain": "Jesus said to the mother: Do not cry.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b4",
+  "lesson": "L2-len1",
+  "text": "The people said: A great what? has come among us!",
+  "plain": "The people said: A great what? has come among us!",
+  "words": []
+ },
+ {
+  "id": "L2-len1.b4-a",
+  "lesson": "L2-len1",
+  "text": "The people said: A great prophet has come among us!",
+  "plain": "The people said: A great prophet has come among us!",
+  "words": []
+ },
+ {
+  "id": "L2-len1.q1",
+  "lesson": "L2-len1",
+  "text": "What is a widow?",
+  "plain": "What is a widow?",
+  "words": []
+ },
+ {
+  "id": "L2-len1.q2",
+  "lesson": "L2-len1",
+  "text": "What did Jesus say to the young man?",
+  "plain": "What did Jesus say to the young man?",
+  "words": []
+ },
+ {
+  "id": "L2-len1.q3",
+  "lesson": "L2-len1",
+  "text": "What did the people do after the miracle?",
+  "plain": "What did the people do after the miracle?",
+  "words": []
+ },
+ {
+  "id": "L2-len1.song-intro",
+  "lesson": "L2-len1",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.song-done",
+  "lesson": "L2-len1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len1.finish",
+  "lesson": "L2-len1",
+  "text": "You did it! You finished Young Man, Get Up! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Young Man, Get Up! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.cover",
+  "lesson": "L2-len2",
+  "text": "[[selam]]! Today we read about a man who was born blind, and what happened when he met Jesus. Tap *Let's play*!",
+  "plain": "Selam! Today we read about a man who was born blind, and what happened when he met Jesus. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-len2.r1",
+  "lesson": "L2-len2",
+  "text": "Jesus and His disciples saw a man who had been blind since he was born.",
+  "plain": "Jesus and His disciples saw a man who had been blind since he was born.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.r2",
+  "lesson": "L2-len2",
+  "text": "The disciples asked: Who sinned, this man or his parents, that he was born blind?",
+  "plain": "The disciples asked: Who sinned, this man or his parents, that he was born blind?",
+  "words": []
+ },
+ {
+  "id": "L2-len2.r3",
+  "lesson": "L2-len2",
+  "text": "Jesus said: Not because of his sin, or his parents. It is so that the work of God can be shown in him.",
+  "plain": "Jesus said: Not because of his sin, or his parents. It is so that the work of God can be shown in him.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.m1",
+  "lesson": "L2-len2",
+  "text": "Jesus made a little mud and put it on the man's eyes. Tap Jesus.",
+  "plain": "Jesus made a little mud and put it on the man's eyes. Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.m2",
+  "lesson": "L2-len2",
+  "text": "He said: Go and wash in the pool of [[siloam]]. Tap the man to help him go.",
+  "plain": "He said: Go and wash in the pool of Siloham. Tap the man to help him go.",
+  "words": [
+   "siloam"
+  ]
+ },
+ {
+  "id": "L2-len2.m3",
+  "lesson": "L2-len2",
+  "text": "The man went and washed his eyes in the pool.",
+  "plain": "The man went and washed his eyes in the pool.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.m4",
+  "lesson": "L2-len2",
+  "text": "He came back seeing! For the first time in his life, he could see!",
+  "plain": "He came back seeing! For the first time in his life, he could see!",
+  "words": []
+ },
+ {
+  "id": "L2-len2.b1",
+  "lesson": "L2-len2",
+  "text": "Some leaders did not like it. They asked: Who healed you? He is a sinner!",
+  "plain": "Some leaders did not like it. They asked: Who healed you? He is a sinner!",
+  "words": []
+ },
+ {
+  "id": "L2-len2.b2",
+  "lesson": "L2-len2",
+  "text": "The man said: I only know one thing. I was blind, and now I see! Tap him.",
+  "plain": "The man said: I only know one thing. I was blind, and now I see! Tap him.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.b3",
+  "lesson": "L2-len2",
+  "text": "Later Jesus found him and asked: Do you believe in the Son of God?",
+  "plain": "Later Jesus found him and asked: Do you believe in the Son of God?",
+  "words": []
+ },
+ {
+  "id": "L2-len2.b4",
+  "lesson": "L2-len2",
+  "text": "The man said: Lord, I believe! And he worshipped Jesus.",
+  "plain": "The man said: Lord, I believe! And he worshipped Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.order",
+  "lesson": "L2-len2",
+  "text": "Tap the pictures in the order they happened.",
+  "plain": "Tap the pictures in the order they happened.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.order-done",
+  "lesson": "L2-len2",
+  "text": "That is the whole story!",
+  "plain": "That is the whole story!",
+  "words": []
+ },
+ {
+  "id": "L2-len2.order-again",
+  "lesson": "L2-len2",
+  "text": "Hmm, what happened before that?",
+  "plain": "Hmm, what happened before that?",
+  "words": []
+ },
+ {
+  "id": "L2-len2.q1",
+  "lesson": "L2-len2",
+  "text": "Why was the man born blind?",
+  "plain": "Why was the man born blind?",
+  "words": []
+ },
+ {
+  "id": "L2-len2.q2",
+  "lesson": "L2-len2",
+  "text": "Where did he wash his eyes?",
+  "plain": "Where did he wash his eyes?",
+  "words": []
+ },
+ {
+  "id": "L2-len2.q3",
+  "lesson": "L2-len2",
+  "text": "Did he believe in Jesus?",
+  "plain": "Did he believe in Jesus?",
+  "words": []
+ },
+ {
+  "id": "L2-len2.song-intro",
+  "lesson": "L2-len2",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.song-done",
+  "lesson": "L2-len2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len2.finish",
+  "lesson": "L2-len2",
+  "text": "You did it! You finished Now I Can See! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Now I Can See! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.cover",
+  "lesson": "L2-len3",
+  "text": "[[selam]]! Today we read what Jesus did when people did not respect God's house. Then we learn how to behave in [[betekrstian]], church. Tap *Let's play*!",
+  "plain": "Selam! Today we read what Jesus did when people did not respect God's house. Then we learn how to behave in Bete Kristiyan, church. Tap Let's play!",
+  "words": [
+   "selam",
+   "betekrstian"
+  ]
+ },
+ {
+  "id": "L2-len3.s1",
+  "lesson": "L2-len3",
+  "text": "Jesus went into the temple in Jerusalem. People were selling oxen, sheep and doves inside, and changing money! Tap the money table.",
+  "plain": "Jesus went into the temple in Jerusalem. People were selling oxen, sheep and doves inside, and changing money! Tap the money table.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.s2",
+  "lesson": "L2-len3",
+  "text": "Jesus was angry, because the temple is a holy place. It is not a market.",
+  "plain": "Jesus was angry, because the temple is a holy place. It is not a market.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.s3",
+  "lesson": "L2-len3",
+  "text": "He turned over the tables and drove them out!",
+  "plain": "He turned over the tables and drove them out!",
+  "words": []
+ },
+ {
+  "id": "L2-len3.s4",
+  "lesson": "L2-len3",
+  "text": "Jesus said: My house shall be called a house of prayer! Tap Jesus.",
+  "plain": "Jesus said: My house shall be called a house of prayer! Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.r1",
+  "lesson": "L2-len3",
+  "text": "Our church is the house of God, just like the temple.",
+  "plain": "Our church is the house of God, just like the temple.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.r2",
+  "lesson": "L2-len3",
+  "text": "We get ready at home: we wash, and we wear clean white clothes.",
+  "plain": "We get ready at home: we wash, and we wear clean white clothes.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.r3",
+  "lesson": "L2-len3",
+  "text": "At the church door we take off our shoes, kiss the door and bow to God.",
+  "plain": "At the church door we take off our shoes, kiss the door and bow to God.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.r4",
+  "lesson": "L2-len3",
+  "text": "Inside we are quiet. We pray, we listen, and we sing to God.",
+  "plain": "Inside we are quiet. We pray, we listen, and we sing to God.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.tf-intro",
+  "lesson": "L2-len3",
+  "text": "Is this good to do in God's house? Tap true for yes, or false for no.",
+  "plain": "Is this good to do in God's house? Tap true for yes, or false for no.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.tf-done",
+  "lesson": "L2-len3",
+  "text": "You know how to behave in God's house!",
+  "plain": "You know how to behave in God's house!",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t1",
+  "lesson": "L2-len3",
+  "text": "We pray quietly. True, or false?",
+  "plain": "We pray quietly. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t1-why",
+  "lesson": "L2-len3",
+  "text": "True! Yes! Church is a house of prayer.",
+  "plain": "True! Yes! Church is a house of prayer.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t2",
+  "lesson": "L2-len3",
+  "text": "We run around and shout. True, or false?",
+  "plain": "We run around and shout. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t2-why",
+  "lesson": "L2-len3",
+  "text": "False! No. We keep God's house calm and holy.",
+  "plain": "False! No. We keep God's house calm and holy.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t3",
+  "lesson": "L2-len3",
+  "text": "We take off our shoes and bow. True, or false?",
+  "plain": "We take off our shoes and bow. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t3-why",
+  "lesson": "L2-len3",
+  "text": "True! Yes! Like Moses at the burning bush, we stand on holy ground.",
+  "plain": "True! Yes! Like Moses at the burning bush, we stand on holy ground.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t4",
+  "lesson": "L2-len3",
+  "text": "We buy and sell things inside the church. True, or false?",
+  "plain": "We buy and sell things inside the church. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.t4-why",
+  "lesson": "L2-len3",
+  "text": "False! No. That is what made Jesus angry in the temple.",
+  "plain": "False! No. That is what made Jesus angry in the temple.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.q1",
+  "lesson": "L2-len3",
+  "text": "What were people doing in the temple?",
+  "plain": "What were people doing in the temple?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.q2",
+  "lesson": "L2-len3",
+  "text": "What did Jesus call the temple?",
+  "plain": "What did Jesus call the temple?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.q3",
+  "lesson": "L2-len3",
+  "text": "What do we wear to church?",
+  "plain": "What do we wear to church?",
+  "words": []
+ },
+ {
+  "id": "L2-len3.song-intro",
+  "lesson": "L2-len3",
+  "text": "Here is our song! It means: My house is my church; It is a house of prayer. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: My house is my church; It is a house of prayer. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.song-done",
+  "lesson": "L2-len3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len3.finish",
+  "lesson": "L2-len3",
+  "text": "You did it! You finished A House of Prayer and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished A House of Prayer and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.cover",
+  "lesson": "L2-len4",
+  "text": "[[selam]]! Today we meet a man who waited a very, very long time to be healed. Count how long! Tap *Let's play*!",
+  "plain": "Selam! Today we meet a man who waited a very, very long time to be healed. Count how long! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-len4.r1",
+  "lesson": "L2-len4",
+  "text": "In Jerusalem there was a pool called Bethesda. Many sick people lay around it: blind, lame and very weak.",
+  "plain": "In Jerusalem there was a pool called Bethesda. Many sick people lay around it: blind, lame and very weak.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.r2",
+  "lesson": "L2-len4",
+  "text": "Sometimes an angel came and stirred the water. The first person to get in after that was healed.",
+  "plain": "Sometimes an angel came and stirred the water. The first person to get in after that was healed.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.r3",
+  "lesson": "L2-len4",
+  "text": "One man had been sick for thirty-eight years! He could not walk.",
+  "plain": "One man had been sick for thirty-eight years! He could not walk.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.h1",
+  "lesson": "L2-len4",
+  "text": "Jesus saw the man lying there and asked: Do you want to be healed? Tap the man.",
+  "plain": "Jesus saw the man lying there and asked: Do you want to be healed? Tap the man.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.h2",
+  "lesson": "L2-len4",
+  "text": "The man said: Sir, I have no one to help me into the water. Someone else always gets there first.",
+  "plain": "The man said: Sir, I have no one to help me into the water. Someone else always gets there first.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.h3",
+  "lesson": "L2-len4",
+  "text": "Jesus said: Get up! Pick up your bed, and walk. Tap Jesus.",
+  "plain": "Jesus said: Get up! Pick up your bed, and walk. Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.h4",
+  "lesson": "L2-len4",
+  "text": "At once the man was healed! He picked up his bed and walked.",
+  "plain": "At once the man was healed! He picked up his bed and walked.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.puzzle-intro",
+  "lesson": "L2-len4",
+  "text": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.puzzle-done",
+  "lesson": "L2-len4",
+  "text": "You spelled them all! Great reading.",
+  "plain": "You spelled them all! Great reading.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.w1",
+  "lesson": "L2-len4",
+  "text": "The man waited thirty … years",
+  "plain": "The man waited thirty … years",
+  "words": []
+ },
+ {
+  "id": "L2-len4.w1-a",
+  "lesson": "L2-len4",
+  "text": "eight!",
+  "plain": "eight!",
+  "words": []
+ },
+ {
+  "id": "L2-len4.w2",
+  "lesson": "L2-len4",
+  "text": "An angel stirred the …",
+  "plain": "An angel stirred the …",
+  "words": []
+ },
+ {
+  "id": "L2-len4.w2-a",
+  "lesson": "L2-len4",
+  "text": "water!",
+  "plain": "water!",
+  "words": []
+ },
+ {
+  "id": "L2-len4.w3",
+  "lesson": "L2-len4",
+  "text": "Jesus said: Pick up your bed and …",
+  "plain": "Jesus said: Pick up your bed and …",
+  "words": []
+ },
+ {
+  "id": "L2-len4.w3-a",
+  "lesson": "L2-len4",
+  "text": "walk!",
+  "plain": "walk!",
+  "words": []
+ },
+ {
+  "id": "L2-len4.q1",
+  "lesson": "L2-len4",
+  "text": "How many years was the man sick?",
+  "plain": "How many years was the man sick?",
+  "words": []
+ },
+ {
+  "id": "L2-len4.q2",
+  "lesson": "L2-len4",
+  "text": "Why couldn't he get into the water?",
+  "plain": "Why couldn't he get into the water?",
+  "words": []
+ },
+ {
+  "id": "L2-len4.q3",
+  "lesson": "L2-len4",
+  "text": "What did Jesus tell him to do?",
+  "plain": "What did Jesus tell him to do?",
+  "words": []
+ },
+ {
+  "id": "L2-len4.song-intro",
+  "lesson": "L2-len4",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.song-done",
+  "lesson": "L2-len4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len4.finish",
+  "lesson": "L2-len4",
+  "text": "You did it! You finished Thirty-Eight Years and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Thirty-Eight Years and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.cover",
+  "lesson": "L2-len5",
+  "text": "[[selam]]! This is a story about friendship and faith. Four friends will do anything to bring their friend to Jesus! Tap *Let's play*!",
+  "plain": "Selam! This is a story about friendship and faith. Four friends will do anything to bring their friend to Jesus! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-len5.r1",
+  "lesson": "L2-len5",
+  "text": "There was a man who was paralyzed. He could not walk at all.",
+  "plain": "There was a man who was paralyzed. He could not walk at all.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.r2",
+  "lesson": "L2-len5",
+  "text": "But he had four good friends. They heard that Jesus was in town.",
+  "plain": "But he had four good friends. They heard that Jesus was in town.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.r3",
+  "lesson": "L2-len5",
+  "text": "They carried their friend on his bed to the house where Jesus was teaching.",
+  "plain": "They carried their friend on his bed to the house where Jesus was teaching.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.r4",
+  "lesson": "L2-len5",
+  "text": "But so many people were there that they could not even get to the door!",
+  "plain": "But so many people were there that they could not even get to the door!",
+  "words": []
+ },
+ {
+  "id": "L2-len5.t1",
+  "lesson": "L2-len5",
+  "text": "The friends had an idea. They climbed up onto the flat roof! Tap the roof.",
+  "plain": "The friends had an idea. They climbed up onto the flat roof! Tap the roof.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.t2",
+  "lesson": "L2-len5",
+  "text": "They made a hole in the roof, right above Jesus.",
+  "plain": "They made a hole in the roof, right above Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.t3",
+  "lesson": "L2-len5",
+  "text": "Then they let their friend down on his bed with ropes, right in front of Jesus!",
+  "plain": "Then they let their friend down on his bed with ropes, right in front of Jesus!",
+  "words": []
+ },
+ {
+  "id": "L2-len5.f1",
+  "lesson": "L2-len5",
+  "text": "Jesus saw the faith of the four friends. Tap Jesus.",
+  "plain": "Jesus saw the faith of the four friends. Tap Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.f2",
+  "lesson": "L2-len5",
+  "text": "He said to the man: Son, your sins are forgiven.",
+  "plain": "He said to the man: Son, your sins are forgiven.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.f3",
+  "lesson": "L2-len5",
+  "text": "Then Jesus said: Get up, pick up your bed, and go home. Tap the man.",
+  "plain": "Then Jesus said: Get up, pick up your bed, and go home. Tap the man.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.f4",
+  "lesson": "L2-len5",
+  "text": "The man got up and walked out in front of everyone! They all praised God: We have never seen anything like this!",
+  "plain": "The man got up and walked out in front of everyone! They all praised God: We have never seen anything like this!",
+  "words": []
+ },
+ {
+  "id": "L2-len5.tf-intro",
+  "lesson": "L2-len5",
+  "text": "Read each sentence. Is it true, or false?",
+  "plain": "Read each sentence. Is it true, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.tf-done",
+  "lesson": "L2-len5",
+  "text": "Great thinking!",
+  "plain": "Great thinking!",
+  "words": []
+ },
+ {
+  "id": "L2-len5.k1",
+  "lesson": "L2-len5",
+  "text": "The man had four friends who helped him. True, or false?",
+  "plain": "The man had four friends who helped him. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.k1-why",
+  "lesson": "L2-len5",
+  "text": "True! True! Good friends bring each other to Jesus.",
+  "plain": "True! True! Good friends bring each other to Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.k2",
+  "lesson": "L2-len5",
+  "text": "The friends gave up because of the crowd. True, or false?",
+  "plain": "The friends gave up because of the crowd. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.k2-why",
+  "lesson": "L2-len5",
+  "text": "False! False. They made a hole in the roof!",
+  "plain": "False! False. They made a hole in the roof!",
+  "words": []
+ },
+ {
+  "id": "L2-len5.k3",
+  "lesson": "L2-len5",
+  "text": "Jesus forgave the man's sins and healed him. True, or false?",
+  "plain": "Jesus forgave the man's sins and healed him. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.k3-why",
+  "lesson": "L2-len5",
+  "text": "True! True! Only God can forgive sins.",
+  "plain": "True! True! Only God can forgive sins.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.q1",
+  "lesson": "L2-len5",
+  "text": "How many friends carried the man?",
+  "plain": "How many friends carried the man?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.q2",
+  "lesson": "L2-len5",
+  "text": "How did they get him to Jesus?",
+  "plain": "How did they get him to Jesus?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.q3",
+  "lesson": "L2-len5",
+  "text": "What did Jesus see in the friends?",
+  "plain": "What did Jesus see in the friends?",
+  "words": []
+ },
+ {
+  "id": "L2-len5.song-intro",
+  "lesson": "L2-len5",
+  "text": "Here is our song! It means: Save us O Lord, save us our God; As You have saved Nineveh, according to your divine mercy. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Save us O Lord, save us our God; As You have saved Nineveh, according to your divine mercy. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.song-done",
+  "lesson": "L2-len5",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len5.finish",
+  "lesson": "L2-len5",
+  "text": "You did it! You finished Four Good Friends and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Four Good Friends and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.cover",
+  "lesson": "L2-len6",
+  "text": "[[selam]]! Today we meet a teacher called Nicodemus. He loved to learn from Jesus, so he came to Him at night. Tap *Let's play*!",
+  "plain": "Selam! Today we meet a teacher called Nicodemus. He loved to learn from Jesus, so he came to Him at night. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-len6.r1",
+  "lesson": "L2-len6",
+  "text": "Nicodemus was a Jewish scholar, a teacher of God's law.",
+  "plain": "Nicodemus was a Jewish scholar, a teacher of God's law.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.r2",
+  "lesson": "L2-len6",
+  "text": "He wanted to learn more about Jesus, so he came to Jesus at night.",
+  "plain": "He wanted to learn more about Jesus, so he came to Jesus at night.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.r3",
+  "lesson": "L2-len6",
+  "text": "One night, Jesus taught Nicodemus about baptism.",
+  "plain": "One night, Jesus taught Nicodemus about baptism.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.r4",
+  "lesson": "L2-len6",
+  "text": "Jesus said: Unless a person is born again of water and the Spirit, he cannot enter the kingdom of God.",
+  "plain": "Jesus said: Unless a person is born again of water and the Spirit, he cannot enter the kingdom of God.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.n1",
+  "lesson": "L2-len6",
+  "text": "Nicodemus was surprised. He asked: How can a grown man be born again? Tap Nicodemus.",
+  "plain": "Nicodemus was surprised. He asked: How can a grown man be born again? Tap Nicodemus.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.n2",
+  "lesson": "L2-len6",
+  "text": "Jesus explained: Not born from a mother again, but born of water and the Holy Spirit. That is baptism! Tap the water.",
+  "plain": "Jesus explained: Not born from a mother again, but born of water and the Holy Spirit. That is baptism! Tap the water.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.n3",
+  "lesson": "L2-len6",
+  "text": "When we are baptized, we become children of God.",
+  "plain": "When we are baptized, we become children of God.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.verse-intro",
+  "lesson": "L2-len6",
+  "text": "Jesus told Nicodemus the most famous verse of all! Tap the pieces in order.",
+  "plain": "Jesus told Nicodemus the most famous verse of all! Tap the pieces in order.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.verse",
+  "lesson": "L2-len6",
+  "text": "For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish, but have everlasting life. John 3:16",
+  "plain": "For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish, but have everlasting life. John 3:16",
+  "words": []
+ },
+ {
+  "id": "L2-len6.q1",
+  "lesson": "L2-len6",
+  "text": "When did Nicodemus come to Jesus?",
+  "plain": "When did Nicodemus come to Jesus?",
+  "words": []
+ },
+ {
+  "id": "L2-len6.q2",
+  "lesson": "L2-len6",
+  "text": "What did Jesus teach Nicodemus about?",
+  "plain": "What did Jesus teach Nicodemus about?",
+  "words": []
+ },
+ {
+  "id": "L2-len6.q3",
+  "lesson": "L2-len6",
+  "text": "Born again of water and the …",
+  "plain": "Born again of water and the …",
+  "words": []
+ },
+ {
+  "id": "L2-len6.song-intro",
+  "lesson": "L2-len6",
+  "text": "Here is our song! It means: God loves us and protects us; He paid (for our sins) with His own blood. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: God loves us and protects us; He paid (for our sins) with His own blood. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.song-done",
+  "lesson": "L2-len6",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len6.finish",
+  "lesson": "L2-len6",
+  "text": "You did it! You finished Nicodemus Comes at Night and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Nicodemus Comes at Night and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.cover",
+  "lesson": "L2-len7",
+  "text": "[[selam]]! Long ago, King David said that the King would come to Jerusalem riding a donkey, and children would praise Him. Today it comes true! Tap *Let's play*!",
+  "plain": "Selam! Long ago, King David said that the King would come to Jerusalem riding a donkey, and children would praise Him. Today it comes true! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-len7.r1",
+  "lesson": "L2-len7",
+  "text": "Just before a holiday, Jesus came to Jerusalem.",
+  "plain": "Just before a holiday, Jesus came to Jerusalem.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.r2",
+  "lesson": "L2-len7",
+  "text": "People had heard how He raised Lazarus from death, so many came out to meet Him.",
+  "plain": "People had heard how He raised Lazarus from death, so many came out to meet Him.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.r3",
+  "lesson": "L2-len7",
+  "text": "Jesus rode into the city on a young donkey, just as the prophets had said.",
+  "plain": "Jesus rode into the city on a young donkey, just as the prophets had said.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.r4",
+  "lesson": "L2-len7",
+  "text": "The people laid palm branches and their clothes on the road for Him.",
+  "plain": "The people laid palm branches and their clothes on the road for Him.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.branches",
+  "lesson": "L2-len7",
+  "text": "Tap to lay eight palm branches on the road for the King!",
+  "plain": "Tap to lay eight palm branches on the road for the King!",
+  "words": []
+ },
+ {
+  "id": "L2-len7.branches-done",
+  "lesson": "L2-len7",
+  "text": "What a welcome!",
+  "plain": "What a welcome!",
+  "words": []
+ },
+ {
+  "id": "L2-len7.verse-intro",
+  "lesson": "L2-len7",
+  "text": "The children sang in the temple. Tap the words in order to sing with them!",
+  "plain": "The children sang in the temple. Tap the words in order to sing with them!",
+  "words": []
+ },
+ {
+  "id": "L2-len7.verse",
+  "lesson": "L2-len7",
+  "text": "Hosanna to the Son of David! Blessed is He who comes in the name of the Lord! Hosanna in the highest! Matthew 21:9",
+  "plain": "Hosanna to the Son of David! Blessed is He who comes in the name of the Lord! Hosanna in the highest! Matthew 21:9",
+  "words": []
+ },
+ {
+  "id": "L2-len7.k1",
+  "lesson": "L2-len7",
+  "text": "Some leaders were angry: Do you hear what these children are saying?",
+  "plain": "Some leaders were angry: Do you hear what these children are saying?",
+  "words": []
+ },
+ {
+  "id": "L2-len7.k2",
+  "lesson": "L2-len7",
+  "text": "Jesus said: Yes! Have you never read: from the mouths of children, God has made perfect praise? Tap the children.",
+  "plain": "Jesus said: Yes! Have you never read: from the mouths of children, God has made perfect praise? Tap the children.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.k3",
+  "lesson": "L2-len7",
+  "text": "Jesus loves to hear children praise Him. We sing [[hosanna]] too!",
+  "plain": "Jesus loves to hear children praise Him. We sing Hosanna too!",
+  "words": [
+   "hosanna"
+  ]
+ },
+ {
+  "id": "L2-len7.q1",
+  "lesson": "L2-len7",
+  "text": "What did Jesus ride into Jerusalem?",
+  "plain": "What did Jesus ride into Jerusalem?",
+  "words": []
+ },
+ {
+  "id": "L2-len7.q2",
+  "lesson": "L2-len7",
+  "text": "What did people put on the road?",
+  "plain": "What did people put on the road?",
+  "words": []
+ },
+ {
+  "id": "L2-len7.q3",
+  "lesson": "L2-len7",
+  "text": "Who sang Hosanna in the temple?",
+  "plain": "Who sang Hosanna in the temple?",
+  "words": []
+ },
+ {
+  "id": "L2-len7.song-intro",
+  "lesson": "L2-len7",
+  "text": "Here is our song! It means: Children in Jerusalem sang, Saying Hosanna in the highest. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Children in Jerusalem sang, Saying Hosanna in the highest. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.song-done",
+  "lesson": "L2-len7",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len7.finish",
+  "lesson": "L2-len7",
+  "text": "You did it! You finished Hosanna in the Highest! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Hosanna in the Highest! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.cover",
+  "lesson": "L2-len8",
+  "text": "[[selam]]! The morning after [[hosanna]], Jesus saw a fig tree. Today we learn a lesson about fruit, and about faith. Tap *Let's play*!",
+  "plain": "Selam! The morning after Hosanna, Jesus saw a fig tree. Today we learn a lesson about fruit, and about faith. Tap Let's play!",
+  "words": [
+   "selam",
+   "hosanna"
+  ]
+ },
+ {
+  "id": "L2-len8.f1",
+  "lesson": "L2-len8",
+  "text": "In the morning, Jesus was hungry. He came to a fig tree to find some fruit.",
+  "plain": "In the morning, Jesus was hungry. He came to a fig tree to find some fruit.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.f2",
+  "lesson": "L2-len8",
+  "text": "But the tree had only leaves. No fruit at all! Tap the tree to look.",
+  "plain": "But the tree had only leaves. No fruit at all! Tap the tree to look.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.f3",
+  "lesson": "L2-len8",
+  "text": "Jesus said: Let no fruit ever grow on you again.",
+  "plain": "Jesus said: Let no fruit ever grow on you again.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.f4",
+  "lesson": "L2-len8",
+  "text": "At once the fig tree dried up!",
+  "plain": "At once the fig tree dried up!",
+  "words": []
+ },
+ {
+  "id": "L2-len8.f5",
+  "lesson": "L2-len8",
+  "text": "The disciples were amazed: How did the fig tree dry up so quickly?",
+  "plain": "The disciples were amazed: How did the fig tree dry up so quickly?",
+  "words": []
+ },
+ {
+  "id": "L2-len8.r1",
+  "lesson": "L2-len8",
+  "text": "Jesus said: If you have faith and do not doubt, you can do this too.",
+  "plain": "Jesus said: If you have faith and do not doubt, you can do this too.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.r2",
+  "lesson": "L2-len8",
+  "text": "Whatever you ask for in prayer, believing, you will receive.",
+  "plain": "Whatever you ask for in prayer, believing, you will receive.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.r3",
+  "lesson": "L2-len8",
+  "text": "A tree with leaves but no fruit is like a person who looks good, but does no good works.",
+  "plain": "A tree with leaves but no fruit is like a person who looks good, but does no good works.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.r4",
+  "lesson": "L2-len8",
+  "text": "God wants our faith to bear fruit: kindness, love, prayer and helping others.",
+  "plain": "God wants our faith to bear fruit: kindness, love, prayer and helping others.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.match-intro",
+  "lesson": "L2-len8",
+  "text": "What does good fruit look like in our lives? Tap one, then tap its match.",
+  "plain": "What does good fruit look like in our lives? Tap one, then tap its match.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.match-done",
+  "lesson": "L2-len8",
+  "text": "That is the fruit God wants to see!",
+  "plain": "That is the fruit God wants to see!",
+  "words": []
+ },
+ {
+  "id": "L2-len8.q1",
+  "lesson": "L2-len8",
+  "text": "What did the fig tree have?",
+  "plain": "What did the fig tree have?",
+  "words": []
+ },
+ {
+  "id": "L2-len8.q2",
+  "lesson": "L2-len8",
+  "text": "What happened to the fig tree?",
+  "plain": "What happened to the fig tree?",
+  "words": []
+ },
+ {
+  "id": "L2-len8.q3",
+  "lesson": "L2-len8",
+  "text": "What fruit does God want from us?",
+  "plain": "What fruit does God want from us?",
+  "words": []
+ },
+ {
+  "id": "L2-len8.song-intro",
+  "lesson": "L2-len8",
+  "text": "Here is our song! It means: Children in Jerusalem sang, Saying Hosanna in the highest. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Children in Jerusalem sang, Saying Hosanna in the highest. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.song-done",
+  "lesson": "L2-len8",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-len8.finish",
+  "lesson": "L2-len8",
+  "text": "You did it! You finished The Fig Tree and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished The Fig Tree and earned a sticker! Tap Play again, or go back to pick another lesson.",
   "words": []
  },
  {

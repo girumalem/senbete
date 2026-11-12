@@ -1754,7 +1754,10 @@ window.BK_CURR=[
 "13. They also said  has come to help His people.",
 "4 2",
 "Jesus loves children."
-]
+],
+"built": {
+"icon": "stretcher"
+}
 },
 {
 "id": "L2-len2",
@@ -1783,7 +1786,10 @@ window.BK_CURR=[
 "1 5",
 "l 6",
 "Healing the Blind"
-]
+],
+"built": {
+"icon": "pool"
+}
 },
 {
 "id": "L2-len3",
@@ -1811,7 +1817,10 @@ window.BK_CURR=[
 "6. We make the sign of the  when we pray.",
 "1 5",
 "Cleansing the Temple"
-]
+],
+"built": {
+"icon": "temple"
+}
 },
 {
 "id": "L2-len4",
@@ -1841,7 +1850,10 @@ window.BK_CURR=[
 "7 5",
 "2 6",
 "A girl, visiting and praying for her friend who is sick."
-]
+],
+"built": {
+"icon": "bed"
+}
 },
 {
 "id": "L2-len5",
@@ -1869,7 +1881,10 @@ window.BK_CURR=[
 "6. Jesus said to the paralyzed, “Son, your  are forgiven.”",
 "5 2",
 "Helping a Friend"
-]
+],
+"built": {
+"icon": "house"
+}
 },
 {
 "id": "L2-len6",
@@ -1895,7 +1910,10 @@ window.BK_CURR=[
 "5. Unless a man is born of water and of the , he cannot enter the kingdom of God.",
 "6. Jesus revealed the  of baptism to Nicodemus because he loved to learn.",
 "Reading Bible Stories"
-]
+],
+"built": {
+"icon": "moon"
+}
 },
 {
 "id": "L2-len7",
@@ -1922,7 +1940,10 @@ window.BK_CURR=[
 "6. King  wrote about the coming of Jesus Christ into Jerusalem, sitting on a donkey, many years before that day.",
 "4 5",
 "The Triumphal Entry of Jesus Christ into Jerusalem"
-]
+],
+"built": {
+"icon": "branch"
+}
 },
 {
 "id": "L2-len8",
@@ -1952,7 +1973,10 @@ window.BK_CURR=[
 "7 1",
 "2 6",
 "A Fig Tree"
-]
+],
+"built": {
+"icon": "figTree"
+}
 },
 {
 "id": "L2-eas1",

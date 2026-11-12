@@ -9,9 +9,9 @@ BKLesson({
 
   {game:'read', chip:'Read along', heading:'Born in a manger', pic:'manger',
    paras:[
-    ['r1','About two thousand years ago, on the night of Tahsas 29, January 7, the Virgin Mary gave birth to Jesus Christ.'],
-    ['r2','Mary and Joseph were strangers in Bethlehem. There was no place for them to stay.'],
-    ['r3','So Jesus was born where the animals were kept. Mary wrapped Him in cloth and laid Him in a manger.'],
+    ['r1','About two thousand years ago, on the night of Tahsas 29, January 7, the Virgin [[mariam]] gave birth to Jesus Christ.'],
+    ['r2','[[mariam]] and Joseph were strangers in Bethlehem. There was no place for them to stay.'],
+    ['r3','So Jesus was born where the animals were kept. [[mariam]] wrapped Him in cloth and laid Him in a manger.'],
     ['r4','The King of kings was born in a humble place!'],
    ]},
 

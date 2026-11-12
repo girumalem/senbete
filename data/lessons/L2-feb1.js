@@ -9,7 +9,7 @@ BKLesson({
 
   {game:'read', chip:'Read along', heading:'Back in Cana', pic:'jar',
    paras:[
-    ['r1','Jesus did His first miracle at a wedding in Cana. He changed water into wine, after the Virgin Mary told Him they had no wine.'],
+    ['r1','Jesus did His first miracle at a wedding in Cana. He changed water into wine, after the Virgin [[mariam]] told Him they had no wine.'],
     ['r2','Later, Jesus came back to Cana.'],
     ['r3','A royal official lived in another town. His son was very sick, close to death.'],
     ['r4','He believed that Jesus could save his son, so he went to find Him.'],
