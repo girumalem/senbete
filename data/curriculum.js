@@ -3528,7 +3528,10 @@ window.BK_CURR=[
 "5. What did Philip ask the Ethiopian Eunuch? What was the Ethiopian Eunuch's reply?",
 "6. What happened to Philip after he baptized the Ethiopian Eunuch?",
 "7. Why is it important to have a guide to understand the Bible?"
-]
+],
+"built": {
+"icon": "chariot"
+}
 },
 {
 "id": "L3-jul2",
@@ -3557,7 +3560,10 @@ window.BK_CURR=[
 "5. Who baptized St. Paul?",
 "6. What did St. Paul do after being baptized?",
 "7. How many days did St. Paul fast and pray before he received his eye sight again?"
-]
+],
+"built": {
+"icon": "sun"
+}
 },
 {
 "id": "L3-jul3",
@@ -3586,7 +3592,10 @@ window.BK_CURR=[
 "5. What did St. Paul tell the people when they tried to offer them sacrifices?",
 "6. What did St. Paul see in the man, who could not walk since he was born?",
 "7. Who is supposed to be glorified in our good deeds?"
-]
+],
+"built": {
+"icon": "lameMan"
+}
 },
 {
 "id": "L3-jul4",
@@ -3614,7 +3623,10 @@ window.BK_CURR=[
 "5. Did St. Paul return to the people who stoned him? Why?",
 "6. What did St. Paul and the disciples do, before they left the city?",
 "7. Who spoke the words, \"Though I walk through the valley of the shadow of death, I will fear no evil\"?"
-]
+],
+"built": {
+"icon": "stone"
+}
 },
 {
 "id": "L3-aug1",
@@ -3644,7 +3656,10 @@ window.BK_CURR=[
 "5. Who save Qirkos and Iyalota from the fire?",
 "6. What did St. Paul and the disciples do before they left the city?",
 "7. Why is it useful to know the stories of saints?"
-]
+],
+"built": {
+"icon": "flame"
+}
 },
 {
 "id": "L3-aug2",
@@ -3672,7 +3687,10 @@ window.BK_CURR=[
 "5. Who took the Virgin's body when she died? Where did they take it?",
 "6. How many days did the disciples fast, after angels took her body?",
 "7. What is this fasting period of the disciples, to see the Virgin Mary again, called?"
-]
+],
+"built": {
+"icon": "mary"
+}
 },
 {
 "id": "L3-aug3",
@@ -3700,7 +3718,10 @@ window.BK_CURR=[
 "5. What happened to the disciples when a cloud covered Mount Tabor, and when they heard a voice?",
 "6. What did the disciples see when Jesus came and said to them, \"Rise, do not be afraid?\"",
 "7. Who do we worship with when we come to church?"
-]
+],
+"built": {
+"icon": "sun"
+}
 },
 {
 "id": "L3-aug4",
@@ -3729,7 +3750,10 @@ window.BK_CURR=[
 "5. What does the linen on the cross of the priests represent?",
 "6. Why is the fast of the Assumption known as children's fast?",
 "7. Do you fast? Which fasts do you fast? If you don't fast, when do you intend to start fasting?"
-]
+],
+"built": {
+"icon": "mary"
+}
 },
 {
 "id": "L3-sep1",
@@ -3767,7 +3791,10 @@ window.BK_CURR=[
 "Today's story is about how God protected one of His prophets from seeing the destruction of Jerusalem. This happened during what is known as \"The 70 Year Captivity of Jerusalem\", during the time of the prophet Jeremiah.",
 "Once upon a time, a king of Babylon - Nabuchedenazer took over Jerusalem, destroyed the city and took many Israelites captive. But before this happened, God revealed to His prophet, Jeremiah that he was not going to protect the Israelites because of their sins. Jeremiah had an Ethiopian friend, named Abimelech. Abimelech once saved Jeremiah from a muddy pit, where he was trapped. When God revealed to Jeremiah the fate of Jerusalem, he was worried for his friend, and asked God about what would happen to Abimelech. God told Jeremiah to send Abimelech to the vineyard of a certain person. God promised Jeremiah that He would shelter Abimelech until He returns the Israelites to Jerusalem again. Jeremiah told Abimelech to go to a certain man's vineyard and bring figs for the sick. Jeremiah went on his way, and got the figs. After he got the figs, he carried them in the heat, and coming upon a tree, he sat under its shade to rest a little. And leaning his head on the basket of figs and he fell asleep, and slept for sixty- six years. When Abimelech woke up from his sleep after sixty-six years, he said, \"I slept pleasantly a little, but my head is weighed down because I didn't get enough sleep.\" Then he hurried to go back to Jeremiah thinking that he had only taken a nap for a few minutes. But, when he looked around, the city was different from what he had known, and he could not recognize anything. He was confused, and asked an old man if the city he was in was Jerusalem, and the where about of his friend Jeremiah. The old man, wondering if Abimelech was new to the country, told him that the city was indeed Jerusalem, and that Jeremiah was in Babylon with the people. But Abimelech did not believe the man. He said that it was only a few minutes since Jeremiah sent him to get figs. He took out the figs from his basket, and showed it to him. The figs were still fresh, but figs were not to be found during this season. When the old man saw that the figs were fresh, he told Abimelech that God had sheltered him so that he would not see the destruction of Jerusalem. He told him that no figs could be found in this season, and that it was now 66 years since the people of Jerusalem had been taken captive to Babylon. Abimelech looked around and knew that God indeed sheltered him from the destruction of Jerusalem. He gave the old man the figs, and the old man blessed Abimelech and they parted.",
 "Lessons from the Story: God protects and shelters those who walk in His way as Abimelech. God accepts the intercession of the holy, as He accepted the intercession of Jeremiah for Abimelech. Do you think of the well being of others during times of hardship? That is what Jeremiah did. He remembered his friend Abimelech and asked God of what would happen to him. By this, he was also relieved of being worried about Abimelech, because God said He would shelter him from the destruction of Jerusalem. God can likewise ease our worries, when we depend on Him."
-]
+],
+"built": {
+"icon": "church"
+}
 },
 {
 "id": "L4-sep2",
