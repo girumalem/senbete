@@ -569,7 +569,10 @@ window.BK_CURR=[
 "3. What did Jesus do when he saw the people trading inside the temple?",
 "4. What are we supposed to do in a church?",
 "\"My house shall be called the house of prayer.\" Mathew 21:13"
-]
+],
+"built": {
+"icon": "temple"
+}
 },
 {
 "id": "L1-len2",
@@ -585,7 +588,10 @@ window.BK_CURR=[
 "David was a king of the Jews. God chose him to be a king because he was faithful, humble. Today we are going to start a lesson on David from his childhood.",
 "The child David was a handsome boy who cared for his father’s sheep. He loved those sheep and sang to them with the flute... and the sheep gathered around him. He had a staff not to strike the sheep but to protect them. He cared for all of them. He cared for them so much that he fought against a lion, and also a bear to save his sheep. But he always thanked God, for he knew that it was God, who gave him the courage and the strength to save his sheep from the mouth of a lion and a bear. David used to always call on the name of God, and pray before going out to keep his father's sheep, and used to pray, singing and playing the flute.",
 "Exercise 1) How did David serve his father? 2) Why did David carry a staff? 3) Who gave him the strength to fight against a lion and a bear? 4) Why did he fight against a lion and a bear?"
-]
+],
+"built": {
+"icon": "washint"
+}
 },
 {
 "id": "L1-len3",
@@ -602,7 +608,10 @@ window.BK_CURR=[
 "There was a prophet called Samuel. Do you know what a prophet is? A prophet is someone God sends to tell His messages to the people. Once, God told Samuel to fill his horn with oil and go to a man called Jesse. He told Samuel that he is going to make one of the sons of Jesse a king. Samuel went to Jesse as God told him. When Jesse and his neighbors saw him, they asked him why he came. They knew that he was a man of God, and thought that he was going to tell them a message from God. Samuel told them that he came to sacrifice and told them to clean themselves and come to the sacrifice. When the first of Jesse's sons came, Samuel thought this was the one God had chosen. But God said to him he wasn't the one. He told him not to look at his height and body, because man looks at outward appearance, but God looks at the heart. Jesse made all his sons pass before Samuel, but God did not choose any of them. So Samuel asked Jesse if there is anyone else left. Jesse said there is the youngest, but he is keeping the sheep. Samuel told Jesse to bring him quickly. When the youngest son, David came in, he was glowing, and had a beautiful, and graceful appearance. God told Samuel to anoint David with oil, for this was the one he chose. So, Samuel took the horn of oil and anointed David, and the Spirit of God came upon Him.",
 "Exercise 1) What is a prophet? 2) Who is the prophet God sent to Jesse? 3) What was David doing, when the prophet Samuel was trying to chose a king from among Jesse's children?",
 "The LORD said, \"Rise and anoint him; he is the one.\" 1 Samuel 16:12"
-]
+],
+"built": {
+"icon": "horn"
+}
 },
 {
 "id": "L1-len4",
@@ -619,7 +628,10 @@ window.BK_CURR=[
 "Saul was disobedient to God, and thus the Spirit of God left him. When the Spirit of God departed from Saul, he was troubled with an evil spirit. Saul called his servants and told them to find him someone who plays the harp. One of his servants said that he had seen David, the son of Jesse play the harp, and that he sings and plays it pretty good. So, Saul sent for Jesse to send his son David to him, and Jesse sent David to Saul and gave him a donkey and bread and wine for the road. When Saul saw David, he loved him greatly and made him his armor bearer. So, David stayed with Saul, and played the harp for him. When David played the harp, Saul was refreshed and the evil spirit that came upon him departed from him as well. David had special gift of playing the harp and praising God by singing. He praised God with a lot of songs that are called Psalms.",
 "Exercise 1) Who made Saul a king over Israel? 2) Why did the Spirit of God depart from Saul? 3) How did David drive away the evil spirit from Saul? 4) Who was the father of David?",
 "The LORD said, \"Rise and anoint him; he is the one.\" 1 Samuel 16:12"
-]
+],
+"built": {
+"icon": "begena"
+}
 },
 {
 "id": "L1-len5",
@@ -635,7 +647,10 @@ window.BK_CURR=[
 "Do you remember what David used to do as a child? ... He used to keep his father's sheep, and protect them from lions and bears. He used to play harp and praise the Lord, while keeping his father's sheep. Today, we are going to learn about how David helped Israel and King Saul defeat their enemy in a battle.",
 "Once upon a time, there was a giant Palestinian whose name was Goliath. He came to the Israelites, and asked if anyone would fight him. He mocked the Israelites, and their faith in God. The Israelites were afraid of him, because he was strong and big. But, even though he was young, David did not fear him. He told Saul that he saved his father's sheep from the lions and bears, and told him that he would go fight this giant also. He said that God would give him victory over Goliath. So, Saul allowed him to go and fight Goliath. When Goliath saw David, he said, “Come here, and I will give your flesh to the birds.” But David replied, “You come against me with sword and spear but I come to you in the name of the Lord.” David reached into his bag, took a stone, and slung it at Goliath. He hit him on the head, and the giant fell down on his face. David believed that God would give him glory, and with God’s help, he killed the giant. The Israelite rejoiced and praised God. They also sang with joy saying, \"Saul has slain his thousands, and David his tens of thousands.\"",
 "Exercise 1) What was the name of the giant who mocked Israel? 2) Why were the Israelites afraid of him? 3) Was David afraid of Goliath? 4) What did David say to Goliath?"
-]
+],
+"built": {
+"icon": "sling"
+}
 },
 {
 "id": "L1-len6",
@@ -652,7 +667,10 @@ window.BK_CURR=[
 "Saul was the king of Israel. He had a son called Jonathan. Jonathan loved David very much, after David killed the giant Goliath. Jonathan gave David his own cloth and his sword. David became famous in Israel, even more famous than King Saul. Saul became very jealous of him because of this and wanted to kill him. One day, when David was playing a harp for Saul, he threw a spear at David to kill him, but David escaped. Jonathan said to his father, Saul, \"Do not sin against your servant David; because he has not sinned against you, and he has been good to you.\" Saul listened to Jonathan and promised not to Kill David. But Saul tried to kill David with a spear again while he was playing the harp for him. Saul said to Jonathan, \"As long as David lives, you will not be king.\" But Jonathan cared more for his friend David than being a king. He told David that his father is determined to kill him, and told him that he has to go away. They met in secret, and cried because they didn't want to part, but David had to go away from Saul. So, Jonathan said to David, \"Go in peace, and the Lord be between you and me.\" So, David departed.",
 "Exercise 1) Why did Saul want to kill David? 2) What was the name of Saul’s son, who was also David’s friend? 3) Was Jonathan a real friend? Why? 4) What is jealousy?",
 "\"A friend loves at all times.\" ( Proverb 17:17)"
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L1-len7",
@@ -669,7 +687,10 @@ window.BK_CURR=[
 "After David fled from King Saul, the Philistines fought against Israel. Saul and his three sons including Jonathan, David's friend, died in the battle. When David heard the death of Saul and Jonathan, he cried a lot. After Saul died, David became the new king of Israel. When he became a king he remembered his promise to his friend Jonathan, to show kindness to his family. So David asked his servants, \"Is there anyone of the house of Saul, that I may show him kindness for Jonathan's sake?\" David's servants brought someone who was Saul's servant. The servant told them that Jonathan had a son. So, King David had Jonathan's son called to him. When Jonathan's son came to David, he fell down on David's feet, as it was the custom to greet kings. David raised Jonathan's son and said to him, \"I will show you kindness for Jonathan's sake, and will give you all the land of Saul.\" Jonathan's son was happy and thanked David. David fulfilled his promise to Jonathan by showing kindness to his son.",
 "Exercise 1) What was the promise between David and Jonathan? 2) Did David keep his promise? How? 3) Was David happy when Saul and Jonathan died?",
 "\"A friend loves at all times.\" ( Proverb 17:17)"
-]
+],
+"built": {
+"icon": "bowl"
+}
 },
 {
 "id": "L1-len8",
@@ -686,7 +707,10 @@ window.BK_CURR=[
 "Jesus used to do a lot of miracles in Israel. Do you remember any miracles of Jesus? He made the lame walk. He made deaf hear. And He made the blind see. Once upon a time, when it was the Jews holiday in Jerusalem, many people gathered for the holiday. Jesus also went to Jerusalem, sitting on a small donkey. When the people who gathered for the holiday heard that Jesus was coming, they went out to see Him, because they heard about the miracles he did. When he came into Jerusalem, sitting on a donkey, people put branches of trees on the ground for Him. Some even put their clothes on the ground for Him. On this day, children, including those carried by their mothers also came out to see Him. They sang \"Hosanna: Blessed is the King of Israel that comes in the name of the Lord.\"",
 "Exercise 1) Who is the mother of Jesus Christ? 2) What kind miracles did Jesus do? 3) Why were the people gathered in Jerusalem? 4) What did they do when they heard that Jesus Christ was coming into Jerusalem?",
 "\"Out of the mouth of babes and sucklings, you have perfected praise.\" Matthew 21:16"
-]
+],
+"built": {
+"icon": "branch"
+}
 },
 {
 "id": "L1-eas1",

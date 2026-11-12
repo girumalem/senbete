@@ -1907,6 +1907,770 @@
   "words": []
  },
  {
+  "id": "L1-len1.cover",
+  "lesson": "L1-len1",
+  "text": "[[selam]]! Do you know what a temple is? It is a house of prayer, like our church. Today we see what Jesus did in the temple. Tap *Let's play*!",
+  "plain": "Selam! Do you know what a temple is? It is a house of prayer, like our church. Today we see what Jesus did in the temple. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-len1.n1",
+  "lesson": "L1-len1",
+  "text": "Jesus came to the temple in Jerusalem with His mother, the Virgin [[mariam]], and His disciples.",
+  "plain": "Jesus came to the temple in Jerusalem with His mother, the Virgin Mariam, and His disciples.",
+  "words": [
+   "mariam"
+  ]
+ },
+ {
+  "id": "L1-len1.n2",
+  "lesson": "L1-len1",
+  "text": "But people were buying and selling inside, like a noisy market! Tap the table.",
+  "plain": "But people were buying and selling inside, like a noisy market! Tap the table.",
+  "words": []
+ },
+ {
+  "id": "L1-len1.n3",
+  "lesson": "L1-len1",
+  "text": "Jesus was upset. They had made the house of prayer into a marketplace.",
+  "plain": "Jesus was upset. They had made the house of prayer into a marketplace.",
+  "words": []
+ },
+ {
+  "id": "L1-len1.clean",
+  "lesson": "L1-len1",
+  "text": "Jesus turned over the tables and sent the selling out. Drag the tables out of the temple!",
+  "plain": "Jesus turned over the tables and sent the selling out. Drag the tables out of the temple!",
+  "words": []
+ },
+ {
+  "id": "L1-len1.clean-done",
+  "lesson": "L1-len1",
+  "text": "Jesus said: My Father's house shall be called a house of prayer!",
+  "plain": "Jesus said: My Father's house shall be called a house of prayer!",
+  "words": []
+ },
+ {
+  "id": "L1-len1.c1",
+  "lesson": "L1-len1",
+  "text": "Our [[betekrstian]] is a house of prayer too. Angels and saints are there with us. Tap the candle.",
+  "plain": "Our Bete Kristiyan is a house of prayer too. Angels and saints are there with us. Tap the candle.",
+  "words": [
+   "betekrstian"
+  ]
+ },
+ {
+  "id": "L1-len1.c2",
+  "lesson": "L1-len1",
+  "text": "So in church we are quiet, we stand nicely, and we pray. Tap the children praying.",
+  "plain": "So in church we are quiet, we stand nicely, and we pray. Tap the children praying.",
+  "words": []
+ },
+ {
+  "id": "L1-len1.q1",
+  "lesson": "L1-len1",
+  "text": "What is a temple?",
+  "plain": "What is a temple?",
+  "words": []
+ },
+ {
+  "id": "L1-len1.q2",
+  "lesson": "L1-len1",
+  "text": "What were people doing in the temple?",
+  "plain": "What were people doing in the temple?",
+  "words": []
+ },
+ {
+  "id": "L1-len1.q3",
+  "lesson": "L1-len1",
+  "text": "What do we do in church?",
+  "plain": "What do we do in church?",
+  "words": []
+ },
+ {
+  "id": "L1-len1.song-intro",
+  "lesson": "L1-len1",
+  "text": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Speak of and witness His marvelous work; Tell His miracles to he world, witness His marvelous work. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len1.song-done",
+  "lesson": "L1-len1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len1.finish",
+  "lesson": "L1-len1",
+  "text": "You did it! You finished A House of Prayer and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished A House of Prayer and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len2.cover",
+  "lesson": "L1-len2",
+  "text": "[[selam]]! Today we meet a shepherd boy called David, [[dawit]]. When he grew up, God made him a king! Tap *Let's play*!",
+  "plain": "Selam! Today we meet a shepherd boy called David, Dawit. When he grew up, God made him a king! Tap Let's play!",
+  "words": [
+   "selam",
+   "dawit"
+  ]
+ },
+ {
+  "id": "L1-len2.flute",
+  "lesson": "L1-len2",
+  "text": "David loved his father's sheep. He played his flute, like our [[washint]], and the sheep came to him. Tap the grass to call five sheep!",
+  "plain": "David loved his father's sheep. He played his flute, like our Washint, and the sheep came to him. Tap the grass to call five sheep!",
+  "words": [
+   "washint"
+  ]
+ },
+ {
+  "id": "L1-len2.flute-done",
+  "lesson": "L1-len2",
+  "text": "All the sheep came to David. He cared for every one of them.",
+  "plain": "All the sheep came to David. He cared for every one of them.",
+  "words": []
+ },
+ {
+  "id": "L1-len2.b1",
+  "lesson": "L1-len2",
+  "text": "Oh no! A lion came to take a sheep! Tap David to help!",
+  "plain": "Oh no! A lion came to take a sheep! Tap David to help!",
+  "words": []
+ },
+ {
+  "id": "L1-len2.b2",
+  "lesson": "L1-len2",
+  "text": "David ran to save his sheep, and the lion ran away!",
+  "plain": "David ran to save his sheep, and the lion ran away!",
+  "words": []
+ },
+ {
+  "id": "L1-len2.b3",
+  "lesson": "L1-len2",
+  "text": "Another day a bear came! Tap David again!",
+  "plain": "Another day a bear came! Tap David again!",
+  "words": []
+ },
+ {
+  "id": "L1-len2.b4",
+  "lesson": "L1-len2",
+  "text": "David saved his sheep from the bear too!",
+  "plain": "David saved his sheep from the bear too!",
+  "words": []
+ },
+ {
+  "id": "L1-len2.b5",
+  "lesson": "L1-len2",
+  "text": "David always thanked God. It was God who gave him courage and strength.",
+  "plain": "David always thanked God. It was God who gave him courage and strength.",
+  "words": []
+ },
+ {
+  "id": "L1-len2.q1",
+  "lesson": "L1-len2",
+  "text": "What did David take care of?",
+  "plain": "What did David take care of?",
+  "words": []
+ },
+ {
+  "id": "L1-len2.q2",
+  "lesson": "L1-len2",
+  "text": "Why did David carry a staff?",
+  "plain": "Why did David carry a staff?",
+  "words": []
+ },
+ {
+  "id": "L1-len2.q3",
+  "lesson": "L1-len2",
+  "text": "Who gave David his strength?",
+  "plain": "Who gave David his strength?",
+  "words": []
+ },
+ {
+  "id": "L1-len2.song-intro",
+  "lesson": "L1-len2",
+  "text": "Here is our song! It means: God is my light and my savior Who shall scare me, or make me afraid; My Lord is my dependence. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: God is my light and my savior Who shall scare me, or make me afraid; My Lord is my dependence. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len2.song-done",
+  "lesson": "L1-len2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len2.finish",
+  "lesson": "L1-len2",
+  "text": "You did it! You finished David the Shepherd Boy and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished David the Shepherd Boy and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.cover",
+  "lesson": "L1-len3",
+  "text": "[[selam]]! Do you remember David, the shepherd boy? Today God chooses him to be king! Tap *Let's play*!",
+  "plain": "Selam! Do you remember David, the shepherd boy? Today God chooses him to be king! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-len3.s1",
+  "lesson": "L1-len3",
+  "text": "God told the prophet Samuel: fill your horn with oil, and go to Jesse. One of his sons will be king. Tap the horn.",
+  "plain": "God told the prophet Samuel: fill your horn with oil, and go to Jesse. One of his sons will be king. Tap the horn.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.s2",
+  "lesson": "L1-len3",
+  "text": "Jesse's tall, strong son came first. Samuel thought: this must be the one! Tap him.",
+  "plain": "Jesse's tall, strong son came first. Samuel thought: this must be the one! Tap him.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.s3",
+  "lesson": "L1-len3",
+  "text": "But God said: No. People look at the outside, but God looks at the heart.",
+  "plain": "But God said: No. People look at the outside, but God looks at the heart.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.s4",
+  "lesson": "L1-len3",
+  "text": "Seven sons came, and God did not choose any of them.",
+  "plain": "Seven sons came, and God did not choose any of them.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.y1",
+  "lesson": "L1-len3",
+  "text": "Samuel asked: Are these all your sons? Jesse said: The youngest is keeping the sheep. Tap David to call him!",
+  "plain": "Samuel asked: Are these all your sons? Jesse said: The youngest is keeping the sheep. Tap David to call him!",
+  "words": []
+ },
+ {
+  "id": "L1-len3.y2",
+  "lesson": "L1-len3",
+  "text": "David came running from the field.",
+  "plain": "David came running from the field.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.y3",
+  "lesson": "L1-len3",
+  "text": "God said: This is the one! Tap the horn of oil.",
+  "plain": "God said: This is the one! Tap the horn of oil.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.y4",
+  "lesson": "L1-len3",
+  "text": "Samuel poured the oil on David's head. God chose David to be king!",
+  "plain": "Samuel poured the oil on David's head. God chose David to be king!",
+  "words": []
+ },
+ {
+  "id": "L1-len3.q1",
+  "lesson": "L1-len3",
+  "text": "Who did God send to Jesse?",
+  "plain": "Who did God send to Jesse?",
+  "words": []
+ },
+ {
+  "id": "L1-len3.q2",
+  "lesson": "L1-len3",
+  "text": "What does God look at?",
+  "plain": "What does God look at?",
+  "words": []
+ },
+ {
+  "id": "L1-len3.q3",
+  "lesson": "L1-len3",
+  "text": "What was David doing when Samuel came?",
+  "plain": "What was David doing when Samuel came?",
+  "words": []
+ },
+ {
+  "id": "L1-len3.song-intro",
+  "lesson": "L1-len3",
+  "text": "Here is our song! It means: Our Shepherd, who never sleep, Protect and maintain our congregation. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Our Shepherd, who never sleep, Protect and maintain our congregation. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.song-done",
+  "lesson": "L1-len3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len3.finish",
+  "lesson": "L1-len3",
+  "text": "You did it! You finished God Chooses David and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished God Chooses David and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len4.cover",
+  "lesson": "L1-len4",
+  "text": "[[selam]]! David played a harp, like our [[begena]]. Today his music helps a sad king. Tap *Let's play*!",
+  "plain": "Selam! David played a harp, like our Begena. Today his music helps a sad king. Tap Let's play!",
+  "words": [
+   "selam",
+   "begena"
+  ]
+ },
+ {
+  "id": "L1-len4.k1",
+  "lesson": "L1-len4",
+  "text": "Saul was the first king of Israel. But he did not obey God, and he became very troubled and sad. Tap King Saul.",
+  "plain": "Saul was the first king of Israel. But he did not obey God, and he became very troubled and sad. Tap King Saul.",
+  "words": []
+ },
+ {
+  "id": "L1-len4.k2",
+  "lesson": "L1-len4",
+  "text": "His servant said: I know a boy who plays the harp beautifully. His name is David!",
+  "plain": "His servant said: I know a boy who plays the harp beautifully. His name is David!",
+  "words": []
+ },
+ {
+  "id": "L1-len4.play",
+  "lesson": "L1-len4",
+  "text": "David came and played for the king. Tap the begena strings to play eight notes!",
+  "plain": "David came and played for the king. Tap the begena strings to play eight notes!",
+  "words": []
+ },
+ {
+  "id": "L1-len4.play-done",
+  "lesson": "L1-len4",
+  "text": "The music was so beautiful! The trouble left King Saul, and he felt peaceful again.",
+  "plain": "The music was so beautiful! The trouble left King Saul, and he felt peaceful again.",
+  "words": []
+ },
+ {
+  "id": "L1-len4.q1",
+  "lesson": "L1-len4",
+  "text": "What did David play?",
+  "plain": "What did David play?",
+  "words": []
+ },
+ {
+  "id": "L1-len4.q2",
+  "lesson": "L1-len4",
+  "text": "How did the king feel after the music?",
+  "plain": "How did the king feel after the music?",
+  "words": []
+ },
+ {
+  "id": "L1-len4.q3",
+  "lesson": "L1-len4",
+  "text": "Who was the first king of Israel?",
+  "plain": "Who was the first king of Israel?",
+  "words": []
+ },
+ {
+  "id": "L1-len4.song-intro",
+  "lesson": "L1-len4",
+  "text": "Here is our song! It means: sing to our God, sing to our King (Psalm 9:11) Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: sing to our God, sing to our King (Psalm 9:11) Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len4.song-done",
+  "lesson": "L1-len4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len4.finish",
+  "lesson": "L1-len4",
+  "text": "You did it! You finished David Plays the Begena and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished David Plays the Begena and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.cover",
+  "lesson": "L1-len5",
+  "text": "[[selam]]! A giant soldier frightened everyone. But a young boy trusted God. Tap *Let's play*!",
+  "plain": "Selam! A giant soldier frightened everyone. But a young boy trusted God. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-len5.g1",
+  "lesson": "L1-len5",
+  "text": "There was a giant called Goliath. He laughed at God's people. Who will fight me? he shouted. Tap the giant.",
+  "plain": "There was a giant called Goliath. He laughed at God's people. Who will fight me? he shouted. Tap the giant.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.g2",
+  "lesson": "L1-len5",
+  "text": "All the soldiers were afraid. He was so big and strong!",
+  "plain": "All the soldiers were afraid. He was so big and strong!",
+  "words": []
+ },
+ {
+  "id": "L1-len5.g3",
+  "lesson": "L1-len5",
+  "text": "But young David said: God saved me from the lion and the bear. God will help me again!",
+  "plain": "But young David said: God saved me from the lion and the bear. God will help me again!",
+  "words": []
+ },
+ {
+  "id": "L1-len5.stones",
+  "lesson": "L1-len5",
+  "text": "David did not wear armour. He took his sling, and five smooth stones from the stream. Tap the water to pick up five stones!",
+  "plain": "David did not wear armour. He took his sling, and five smooth stones from the stream. Tap the water to pick up five stones!",
+  "words": []
+ },
+ {
+  "id": "L1-len5.stones-done",
+  "lesson": "L1-len5",
+  "text": "Five smooth stones. Now David was ready, trusting in God.",
+  "plain": "Five smooth stones. Now David was ready, trusting in God.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.v1",
+  "lesson": "L1-len5",
+  "text": "Goliath laughed at David. But David said: I come to you in the name of the Lord! Tap the sling.",
+  "plain": "Goliath laughed at David. But David said: I come to you in the name of the Lord! Tap the sling.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.v2",
+  "lesson": "L1-len5",
+  "text": "Whoosh! The stone flew straight to the giant's forehead.",
+  "plain": "Whoosh! The stone flew straight to the giant's forehead.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.v3",
+  "lesson": "L1-len5",
+  "text": "Down fell Goliath! God gave David the victory.",
+  "plain": "Down fell Goliath! God gave David the victory.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.v4",
+  "lesson": "L1-len5",
+  "text": "The people sang: Saul has killed his thousands, and David his ten thousands!",
+  "plain": "The people sang: Saul has killed his thousands, and David his ten thousands!",
+  "words": []
+ },
+ {
+  "id": "L1-len5.q1",
+  "lesson": "L1-len5",
+  "text": "Who was Goliath?",
+  "plain": "Who was Goliath?",
+  "words": []
+ },
+ {
+  "id": "L1-len5.q2",
+  "lesson": "L1-len5",
+  "text": "What did David use?",
+  "plain": "What did David use?",
+  "words": []
+ },
+ {
+  "id": "L1-len5.q3",
+  "lesson": "L1-len5",
+  "text": "Who gave David the victory?",
+  "plain": "Who gave David the victory?",
+  "words": []
+ },
+ {
+  "id": "L1-len5.song-intro",
+  "lesson": "L1-len5",
+  "text": "Here is our song! It means: sing to our God, sing to our King (Psalm 9:11) Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: sing to our God, sing to our King (Psalm 9:11) Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.song-done",
+  "lesson": "L1-len5",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len5.finish",
+  "lesson": "L1-len5",
+  "text": "You did it! You finished David and Goliath and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished David and Goliath and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len6.cover",
+  "lesson": "L1-len6",
+  "text": "[[selam]]! Today is a story about two best friends, David and Jonathan. Tap *Let's play*!",
+  "plain": "Selam! Today is a story about two best friends, David and Jonathan. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-len6.gifts",
+  "lesson": "L1-len6",
+  "text": "Jonathan was the son of King Saul. He loved David like a brother, and gave him his own coat and his sword. Drag Jonathan's gifts to David!",
+  "plain": "Jonathan was the son of King Saul. He loved David like a brother, and gave him his own coat and his sword. Drag Jonathan's gifts to David!",
+  "words": []
+ },
+ {
+  "id": "L1-len6.gifts-done",
+  "lesson": "L1-len6",
+  "text": "David and Jonathan promised to be friends forever.",
+  "plain": "David and Jonathan promised to be friends forever.",
+  "words": []
+ },
+ {
+  "id": "L1-len6.j1",
+  "lesson": "L1-len6",
+  "text": "But King Saul became jealous, because the people praised David. He even wanted to hurt David. Tap the king.",
+  "plain": "But King Saul became jealous, because the people praised David. He even wanted to hurt David. Tap the king.",
+  "words": []
+ },
+ {
+  "id": "L1-len6.j2",
+  "lesson": "L1-len6",
+  "text": "Jonathan said: Father, do not sin against David. He has done only good for you!",
+  "plain": "Jonathan said: Father, do not sin against David. He has done only good for you!",
+  "words": []
+ },
+ {
+  "id": "L1-len6.j3",
+  "lesson": "L1-len6",
+  "text": "Jonathan warned his friend, and helped David get away safely.",
+  "plain": "Jonathan warned his friend, and helped David get away safely.",
+  "words": []
+ },
+ {
+  "id": "L1-len6.q1",
+  "lesson": "L1-len6",
+  "text": "Who was David's best friend?",
+  "plain": "Who was David's best friend?",
+  "words": []
+ },
+ {
+  "id": "L1-len6.q2",
+  "lesson": "L1-len6",
+  "text": "Why was King Saul angry with David?",
+  "plain": "Why was King Saul angry with David?",
+  "words": []
+ },
+ {
+  "id": "L1-len6.q3",
+  "lesson": "L1-len6",
+  "text": "What does a good friend do?",
+  "plain": "What does a good friend do?",
+  "words": []
+ },
+ {
+  "id": "L1-len6.song-intro",
+  "lesson": "L1-len6",
+  "text": "Here is our song! It means: God love us and protects us He paid for (our sins) with His blood. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: God love us and protects us He paid for (our sins) with His blood. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len6.song-done",
+  "lesson": "L1-len6",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len6.finish",
+  "lesson": "L1-len6",
+  "text": "You did it! You finished David and Jonathan and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished David and Jonathan and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len7.cover",
+  "lesson": "L1-len7",
+  "text": "[[selam]]! Do you remember David's friend Jonathan? They made a promise. Let's see how David kept it! Tap *Let's play*!",
+  "plain": "Selam! Do you remember David's friend Jonathan? They made a promise. Let's see how David kept it! Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L1-len7.k1",
+  "lesson": "L1-len7",
+  "text": "Jonathan had asked David: always be kind to my family. And David promised.",
+  "plain": "Jonathan had asked David: always be kind to my family. And David promised.",
+  "words": []
+ },
+ {
+  "id": "L1-len7.k2",
+  "lesson": "L1-len7",
+  "text": "Years later, David became king. He remembered his promise. Tap King David.",
+  "plain": "Years later, David became king. He remembered his promise. Tap King David.",
+  "words": []
+ },
+ {
+  "id": "L1-len7.k3",
+  "lesson": "L1-len7",
+  "text": "He asked: Is anyone left from Jonathan's family, so I can be kind to him? A servant said: Jonathan has a son. He cannot walk well.",
+  "plain": "He asked: Is anyone left from Jonathan's family, so I can be kind to him? A servant said: Jonathan has a son. He cannot walk well.",
+  "words": []
+ },
+ {
+  "id": "L1-len7.table",
+  "lesson": "L1-len7",
+  "text": "King David said: Come and eat at my table every day! Drag Jonathan's son and the food to the king's table.",
+  "plain": "King David said: Come and eat at my table every day! Drag Jonathan's son and the food to the king's table.",
+  "words": []
+ },
+ {
+  "id": "L1-len7.table-done",
+  "lesson": "L1-len7",
+  "text": "Jonathan's son ate at the king's table every day. David kept his promise!",
+  "plain": "Jonathan's son ate at the king's table every day. David kept his promise!",
+  "words": []
+ },
+ {
+  "id": "L1-len7.q1",
+  "lesson": "L1-len7",
+  "text": "What did David promise Jonathan?",
+  "plain": "What did David promise Jonathan?",
+  "words": []
+ },
+ {
+  "id": "L1-len7.q2",
+  "lesson": "L1-len7",
+  "text": "Did David keep his promise?",
+  "plain": "Did David keep his promise?",
+  "words": []
+ },
+ {
+  "id": "L1-len7.q3",
+  "lesson": "L1-len7",
+  "text": "Where did Jonathan's son eat?",
+  "plain": "Where did Jonathan's son eat?",
+  "words": []
+ },
+ {
+  "id": "L1-len7.finish",
+  "lesson": "L1-len7",
+  "text": "You did it! You finished David Keeps His Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished David Keeps His Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L1-len8.cover",
+  "lesson": "L1-len8",
+  "text": "[[selam]]! Today Jesus rides into Jerusalem, and the children sing [[hosanna]]! Tap *Let's play*!",
+  "plain": "Selam! Today Jesus rides into Jerusalem, and the children sing Hosanna! Tap Let's play!",
+  "words": [
+   "selam",
+   "hosanna"
+  ]
+ },
+ {
+  "id": "L1-len8.j1",
+  "lesson": "L1-len8",
+  "text": "Many people came to Jerusalem for a feast. They heard about the miracles of Jesus. Tap the people!",
+  "plain": "Many people came to Jerusalem for a feast. They heard about the miracles of Jesus. Tap the people!",
+  "words": []
+ },
+ {
+  "id": "L1-len8.j2",
+  "lesson": "L1-len8",
+  "text": "Jesus came riding on a little donkey!",
+  "plain": "Jesus came riding on a little donkey!",
+  "words": []
+ },
+ {
+  "id": "L1-len8.branches",
+  "lesson": "L1-len8",
+  "text": "The people put branches and clothes on the road for Jesus. Tap to lay down eight branches!",
+  "plain": "The people put branches and clothes on the road for Jesus. Tap to lay down eight branches!",
+  "words": []
+ },
+ {
+  "id": "L1-len8.branches-done",
+  "lesson": "L1-len8",
+  "text": "What a welcome for the King!",
+  "plain": "What a welcome for the King!",
+  "words": []
+ },
+ {
+  "id": "L1-len8.sing",
+  "lesson": "L1-len8",
+  "text": "Even the little children sang: [[hosanna]] to the Son of David! Tap the sky to sing with them!",
+  "plain": "Even the little children sang: Hosanna to the Son of David! Tap the sky to sing with them!",
+  "words": [
+   "hosanna"
+  ]
+ },
+ {
+  "id": "L1-len8.sing-done",
+  "lesson": "L1-len8",
+  "text": "Jesus loves to hear children praise Him. We sing [[hosanna]] too!",
+  "plain": "Jesus loves to hear children praise Him. We sing Hosanna too!",
+  "words": [
+   "hosanna"
+  ]
+ },
+ {
+  "id": "L1-len8.q1",
+  "lesson": "L1-len8",
+  "text": "What did Jesus ride into Jerusalem?",
+  "plain": "What did Jesus ride into Jerusalem?",
+  "words": []
+ },
+ {
+  "id": "L1-len8.q2",
+  "lesson": "L1-len8",
+  "text": "What did people put on the road?",
+  "plain": "What did people put on the road?",
+  "words": []
+ },
+ {
+  "id": "L1-len8.q3",
+  "lesson": "L1-len8",
+  "text": "What did the children sing?",
+  "plain": "What did the children sing?",
+  "words": []
+ },
+ {
+  "id": "L1-len8.song-intro",
+  "lesson": "L1-len8",
+  "text": "Here is our song! It means: (The children in Jerusalem sang, Hosanna in the highest.) Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: (The children in Jerusalem sang, Hosanna in the highest.) Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L1-len8.song-done",
+  "lesson": "L1-len8",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L1-len8.finish",
+  "lesson": "L1-len8",
+  "text": "You did it! You finished Hosanna! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Hosanna! and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
   "id": "L1-nov1.cover",
   "lesson": "L1-nov1",
   "text": "[[selam]]! Long after the great flood, there lived a holy man named Abraham. Let's hear about a promise God made to him. Tap *Let's play*!",

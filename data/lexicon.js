@@ -664,5 +664,37 @@ window.BK_LEX = {
   "lang": "am",
   "say": "seh-lee-HOME",
   "check": true
+ },
+ "dawit": {
+  "fidel": "ዳዊት",
+  "latin": "Dawit",
+  "en": "David",
+  "lang": "am",
+  "say": "DAH-weet",
+  "check": true
+ },
+ "begena": {
+  "fidel": "በገና",
+  "latin": "Begena",
+  "en": "the Ethiopian harp (lyre) of prayer",
+  "lang": "am",
+  "say": "beh-geh-NAH",
+  "check": true
+ },
+ "washint": {
+  "fidel": "ዋሽንት",
+  "latin": "Washint",
+  "en": "Ethiopian shepherd's flute",
+  "lang": "am",
+  "say": "WAH-shint",
+  "check": true
+ },
+ "betekrstian": {
+  "fidel": "ቤተ ክርስቲያን",
+  "latin": "Bete Kristiyan",
+  "en": "church",
+  "lang": "am",
+  "say": "BEH-teh kris-tee-YAHN",
+  "check": true
  }
 };

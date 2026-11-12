@@ -46,7 +46,7 @@
 <script>
 (function(){
   const id=(new URLSearchParams(location.search).get('id')||location.hash.slice(1)||'').trim();
-  if(!/^L[1-4]-[a-z]{3}[1-5]$/.test(id)){ BKPlay(); return; }
+  if(!/^L[1-4]-[a-z]{3}[1-8]$/.test(id)){ BKPlay(); return; }
   const s=document.createElement('script'); s.src='data/lessons/'+id+'.js'; s.onload=()=>BKPlay(); s.onerror=()=>BKPlay(); document.body.appendChild(s);
 })();
 </script>
