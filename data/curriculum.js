@@ -1084,7 +1084,10 @@ window.BK_CURR=[
 "• What can we see when we walk in the street? In the school! In the garden! In the sea!",
 "• Can you draw the things you sea in the street? At school? In the garden? In the sea?",
 "• List all the things God prepared for Adam before He created him."
-]
+],
+"built": {
+"icon": "sun"
+}
 },
 {
 "id": "L2-sep3",
@@ -1104,7 +1107,10 @@ window.BK_CURR=[
 "4. Yes, God cared for Adam and Eve so much that he made them king and queen and allowed them to eat everything that grows on earth except ... what? ... Yes, the \"Tree of Knowledge\". And Adam and Eve lived in the Garden of Eden happily for a long time.",
 "Excercise",
 "• Draw your favorite animal"
-]
+],
+"built": {
+"icon": "fruitTree"
+}
 },
 {
 "id": "L2-sep4",
@@ -1124,7 +1130,10 @@ window.BK_CURR=[
 "2. What did the Lord ask Noah to do?",
 "3. What happened when the rain fell?",
 "4. What did Noah use to make the Ark?"
-]
+],
+"built": {
+"icon": "ark"
+}
 },
 {
 "id": "L2-oct1",
@@ -1156,7 +1165,10 @@ window.BK_CURR=[
 "8. What is the cross in Amharic?",
 "6 4",
 "5 7"
-]
+],
+"built": {
+"icon": "demera"
+}
 },
 {
 "id": "L2-oct2",
@@ -1177,7 +1189,10 @@ window.BK_CURR=[
 "3. What did the dove bring back to Noah?",
 "4. What did God promise for Noah?",
 "5. Draw a rainbow as you have seen it appear in the sky."
-]
+],
+"built": {
+"icon": "rainbow"
+}
 },
 {
 "id": "L2-oct3",
@@ -1226,7 +1241,10 @@ window.BK_CURR=[
 "Application",
 "• Always, be kind to your brothers and sisters.",
 "• Do not try to cover a fault or a mistake, because it leads to more sin."
-]
+],
+"built": {
+"icon": "coat"
+}
 },
 {
 "id": "L2-nov1",
@@ -1248,7 +1266,10 @@ window.BK_CURR=[
 "4. What happened to Joseph in prison?",
 "5. Why was God always with Joseph, wherever he went?",
 "6. Are you always faithful to your parents, to your teachers, and above all to God?"
-]
+],
+"built": {
+"icon": "pyramid"
+}
 },
 {
 "id": "L2-nov2",
@@ -1275,7 +1296,10 @@ window.BK_CURR=[
 "5. Joseph asked Pharaoh's butler to  him when he returned to serve Pharaoh.",
 "6. Pharaoh's butler  about Joseph when he returned to serve Pharaoh.",
 "3 6"
-]
+],
+"built": {
+"icon": "cup"
+}
 },
 {
 "id": "L2-nov3",
@@ -1302,7 +1326,10 @@ window.BK_CURR=[
 "5. Joseph told Pharaoh that the 7 skinny cows represent 7 years of .",
 "6. Pharaoh gave Joseph his .",
 "2 4"
-]
+],
+"built": {
+"icon": "grain"
+}
 },
 {
 "id": "L2-nov4",
@@ -1330,7 +1357,10 @@ window.BK_CURR=[
 "7. Pharaoh told Joseph to give his family the best of the  of Egypt.",
 "6 2",
 "Joseph Reveals Himself to His Brothers"
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L2-dec1",

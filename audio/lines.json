@@ -5826,6 +5826,1157 @@
   "words": []
  },
  {
+  "id": "L2-nov1.cover",
+  "lesson": "L2-nov1",
+  "text": "[[selam]]! Joseph's brothers sold him, and he was taken to Egypt as a slave. But was he alone? No! God was with him. Tap *Let's play*!",
+  "plain": "Selam! Joseph's brothers sold him, and he was taken to Egypt as a slave. But was he alone? No! God was with him. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-nov1.r1",
+  "lesson": "L2-nov1",
+  "text": "In Egypt, an officer of Pharaoh bought Joseph. Pharaoh was the title of the kings of Egypt.",
+  "plain": "In Egypt, an officer of Pharaoh bought Joseph. Pharaoh was the title of the kings of Egypt.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.r2",
+  "lesson": "L2-nov1",
+  "text": "The officer's name was Potiphar. God blessed everything Joseph did.",
+  "plain": "The officer's name was Potiphar. God blessed everything Joseph did.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.r3",
+  "lesson": "L2-nov1",
+  "text": "God even blessed Potiphar's house, because of Joseph.",
+  "plain": "God even blessed Potiphar's house, because of Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.r4",
+  "lesson": "L2-nov1",
+  "text": "Potiphar saw that God was with Joseph, so he put Joseph in charge of his whole house.",
+  "plain": "Potiphar saw that God was with Joseph, so he put Joseph in charge of his whole house.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.n1",
+  "lesson": "L2-nov1",
+  "text": "Potiphar's wife wanted Joseph to do something wrong.",
+  "plain": "Potiphar's wife wanted Joseph to do something wrong.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.n2",
+  "lesson": "L2-nov1",
+  "text": "But Joseph was a man of God. He said no! I will not sin against God. Tap Joseph.",
+  "plain": "But Joseph was a man of God. He said no! I will not sin against God. Tap Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.n3",
+  "lesson": "L2-nov1",
+  "text": "Then she told a lie about Joseph. Potiphar was angry, and he put Joseph in prison.",
+  "plain": "Then she told a lie about Joseph. Potiphar was angry, and he put Joseph in prison.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.g1",
+  "lesson": "L2-nov1",
+  "text": "But God was with Joseph in prison too!",
+  "plain": "But God was with Joseph in prison too!",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.g2",
+  "lesson": "L2-nov1",
+  "text": "The prison guard liked Joseph, and put him in charge of all the prisoners. Tap the guard.",
+  "plain": "The prison guard liked Joseph, and put him in charge of all the prisoners. Tap the guard.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.g3",
+  "lesson": "L2-nov1",
+  "text": "God blessed everything Joseph did, even in prison. Joseph was faithful to his master, and most of all to God.",
+  "plain": "God blessed everything Joseph did, even in prison. Joseph was faithful to his master, and most of all to God.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.blanks-intro",
+  "lesson": "L2-nov1",
+  "text": "Read the sentence, and tap the missing word.",
+  "plain": "Read the sentence, and tap the missing word.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.blanks-done",
+  "lesson": "L2-nov1",
+  "text": "Well read!",
+  "plain": "Well read!",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b1",
+  "lesson": "L2-nov1",
+  "text": "The kings of Egypt were called what?.",
+  "plain": "The kings of Egypt were called what?.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b1-a",
+  "lesson": "L2-nov1",
+  "text": "The kings of Egypt were called Pharaoh.",
+  "plain": "The kings of Egypt were called Pharaoh.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b2",
+  "lesson": "L2-nov1",
+  "text": "Potiphar saw that what? was with Joseph.",
+  "plain": "Potiphar saw that what? was with Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b2-a",
+  "lesson": "L2-nov1",
+  "text": "Potiphar saw that God was with Joseph.",
+  "plain": "Potiphar saw that God was with Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b3",
+  "lesson": "L2-nov1",
+  "text": "Joseph would not what? against God.",
+  "plain": "Joseph would not what? against God.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b3-a",
+  "lesson": "L2-nov1",
+  "text": "Joseph would not sin against God.",
+  "plain": "Joseph would not sin against God.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b4",
+  "lesson": "L2-nov1",
+  "text": "Potiphar put Joseph in what?.",
+  "plain": "Potiphar put Joseph in what?.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.b4-a",
+  "lesson": "L2-nov1",
+  "text": "Potiphar put Joseph in prison.",
+  "plain": "Potiphar put Joseph in prison.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.q1",
+  "lesson": "L2-nov1",
+  "text": "Who bought Joseph in Egypt?",
+  "plain": "Who bought Joseph in Egypt?",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.q2",
+  "lesson": "L2-nov1",
+  "text": "Was Joseph a faithful servant?",
+  "plain": "Was Joseph a faithful servant?",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.q3",
+  "lesson": "L2-nov1",
+  "text": "Who was with Joseph in prison?",
+  "plain": "Who was with Joseph in prison?",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.song-intro",
+  "lesson": "L2-nov1",
+  "text": "Here is our song! It means: May God protect us from painful trials. Today, and tomorrow, may He protect us. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: May God protect us from painful trials. Today, and tomorrow, may He protect us. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.song-done",
+  "lesson": "L2-nov1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-nov1.finish",
+  "lesson": "L2-nov1",
+  "text": "You did it! You finished God Is with Joseph and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished God Is with Joseph and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.cover",
+  "lesson": "L2-nov2",
+  "text": "[[selam]]! Joseph was in prison, but God was with him. Today two men in prison have strange dreams. Tap *Let's play*!",
+  "plain": "Selam! Joseph was in prison, but God was with him. Today two men in prison have strange dreams. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-nov2.r1",
+  "lesson": "L2-nov2",
+  "text": "Pharaoh's chief butler and chief baker made the king angry, so they were sent to the same prison as Joseph.",
+  "plain": "Pharaoh's chief butler and chief baker made the king angry, so they were sent to the same prison as Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.r2",
+  "lesson": "L2-nov2",
+  "text": "A butler serves the king his drinks. A baker bakes the king's bread.",
+  "plain": "A butler serves the king his drinks. A baker bakes the king's bread.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.r3",
+  "lesson": "L2-nov2",
+  "text": "One morning Joseph saw that they looked sad. What is wrong? he asked.",
+  "plain": "One morning Joseph saw that they looked sad. What is wrong? he asked.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.r4",
+  "lesson": "L2-nov2",
+  "text": "We had dreams, they said, and nobody can tell us what they mean. Joseph said: God can. Tell me your dreams.",
+  "plain": "We had dreams, they said, and nobody can tell us what they mean. Joseph said: God can. Tell me your dreams.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.d1",
+  "lesson": "L2-nov2",
+  "text": "The butler said: I saw a vine with three branches and ripe grapes. Tap the grapes!",
+  "plain": "The butler said: I saw a vine with three branches and ripe grapes. Tap the grapes!",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.d2",
+  "lesson": "L2-nov2",
+  "text": "I pressed the grapes into Pharaoh's cup, and gave the cup to Pharaoh.",
+  "plain": "I pressed the grapes into Pharaoh's cup, and gave the cup to Pharaoh.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.d3",
+  "lesson": "L2-nov2",
+  "text": "Joseph said: In three days, Pharaoh will give you your job back! Please remember me, and tell Pharaoh about me.",
+  "plain": "Joseph said: In three days, Pharaoh will give you your job back! Please remember me, and tell Pharaoh about me.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.e1",
+  "lesson": "L2-nov2",
+  "text": "The baker said: I had three baskets of bread on my head. Tap the baskets.",
+  "plain": "The baker said: I had three baskets of bread on my head. Tap the baskets.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.e2",
+  "lesson": "L2-nov2",
+  "text": "And the birds came and ate the bread from the top basket.",
+  "plain": "And the birds came and ate the bread from the top basket.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.e3",
+  "lesson": "L2-nov2",
+  "text": "Joseph told him the sad meaning: in three days, Pharaoh will punish you.",
+  "plain": "Joseph told him the sad meaning: in three days, Pharaoh will punish you.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.e4",
+  "lesson": "L2-nov2",
+  "text": "In three days, everything happened just as Joseph said. But the butler forgot all about Joseph.",
+  "plain": "In three days, everything happened just as Joseph said. But the butler forgot all about Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.puzzle-intro",
+  "lesson": "L2-nov2",
+  "text": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.puzzle-done",
+  "lesson": "L2-nov2",
+  "text": "You spelled them all! Great reading.",
+  "plain": "You spelled them all! Great reading.",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w1",
+  "lesson": "L2-nov2",
+  "text": "Joseph was in …",
+  "plain": "Joseph was in …",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w1-a",
+  "lesson": "L2-nov2",
+  "text": "prison!",
+  "plain": "prison!",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w2",
+  "lesson": "L2-nov2",
+  "text": "He went back to serve Pharaoh",
+  "plain": "He went back to serve Pharaoh",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w2-a",
+  "lesson": "L2-nov2",
+  "text": "butler!",
+  "plain": "butler!",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w3",
+  "lesson": "L2-nov2",
+  "text": "He dreamed of baskets of bread",
+  "plain": "He dreamed of baskets of bread",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w3-a",
+  "lesson": "L2-nov2",
+  "text": "baker!",
+  "plain": "baker!",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w4",
+  "lesson": "L2-nov2",
+  "text": "The butler … about Joseph",
+  "plain": "The butler … about Joseph",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.w4-a",
+  "lesson": "L2-nov2",
+  "text": "forgot!",
+  "plain": "forgot!",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.q1",
+  "lesson": "L2-nov2",
+  "text": "Who told the meaning of the dreams?",
+  "plain": "Who told the meaning of the dreams?",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.q2",
+  "lesson": "L2-nov2",
+  "text": "What did the butler see in his dream?",
+  "plain": "What did the butler see in his dream?",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.q3",
+  "lesson": "L2-nov2",
+  "text": "Did the butler remember Joseph?",
+  "plain": "Did the butler remember Joseph?",
+  "words": []
+ },
+ {
+  "id": "L2-nov2.finish",
+  "lesson": "L2-nov2",
+  "text": "You did it! You finished Two Dreams in Prison and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Two Dreams in Prison and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.cover",
+  "lesson": "L2-nov3",
+  "text": "[[selam]]! The butler forgot Joseph for two whole years. Then Pharaoh had a dream that nobody could explain. Tap *Let's play*!",
+  "plain": "Selam! The butler forgot Joseph for two whole years. Then Pharaoh had a dream that nobody could explain. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-nov3.c1",
+  "lesson": "L2-nov3",
+  "text": "Pharaoh dreamed he was standing by a river. Tap Pharaoh.",
+  "plain": "Pharaoh dreamed he was standing by a river. Tap Pharaoh.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.c2",
+  "lesson": "L2-nov3",
+  "text": "Seven fat, healthy cows came out of the river.",
+  "plain": "Seven fat, healthy cows came out of the river.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.c3",
+  "lesson": "L2-nov3",
+  "text": "Then seven thin, hungry cows came out, and they ate up the fat cows!",
+  "plain": "Then seven thin, hungry cows came out, and they ate up the fat cows!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.c4",
+  "lesson": "L2-nov3",
+  "text": "He dreamed again: seven good ears of corn, then seven thin ears that ate the good ones. Nobody could tell Pharaoh what it meant.",
+  "plain": "He dreamed again: seven good ears of corn, then seven thin ears that ate the good ones. Nobody could tell Pharaoh what it meant.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.r1",
+  "lesson": "L2-nov3",
+  "text": "Then the butler remembered Joseph! Pharaoh sent for him from the prison.",
+  "plain": "Then the butler remembered Joseph! Pharaoh sent for him from the prison.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.r2",
+  "lesson": "L2-nov3",
+  "text": "Joseph said: It is not me. God will tell Pharaoh the meaning.",
+  "plain": "Joseph said: It is not me. God will tell Pharaoh the meaning.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.r3",
+  "lesson": "L2-nov3",
+  "text": "The seven fat cows and good corn are seven years of great harvest, with lots of food.",
+  "plain": "The seven fat cows and good corn are seven years of great harvest, with lots of food.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.r4",
+  "lesson": "L2-nov3",
+  "text": "The seven thin cows and thin corn are seven years of hunger, when no food will grow.",
+  "plain": "The seven thin cows and thin corn are seven years of hunger, when no food will grow.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.r5",
+  "lesson": "L2-nov3",
+  "text": "So find a wise man to save food in the good years, for the hungry years.",
+  "plain": "So find a wise man to save food in the good years, for the hungry years.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.grain",
+  "lesson": "L2-nov3",
+  "text": "Pharaoh said: Nobody is wiser than you! He gave Joseph his ring and a gold chain, and made him ruler over Egypt. Help Joseph store grain for the hungry years!",
+  "plain": "Pharaoh said: Nobody is wiser than you! He gave Joseph his ring and a gold chain, and made him ruler over Egypt. Help Joseph store grain for the hungry years!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.grain-done",
+  "lesson": "L2-nov3",
+  "text": "The storehouses were full!",
+  "plain": "The storehouses were full!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.puzzle-intro",
+  "lesson": "L2-nov3",
+  "text": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.puzzle-done",
+  "lesson": "L2-nov3",
+  "text": "You spelled them all! Great reading.",
+  "plain": "You spelled them all! Great reading.",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w1",
+  "lesson": "L2-nov3",
+  "text": "Pharaoh stood by a …",
+  "plain": "Pharaoh stood by a …",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w1-a",
+  "lesson": "L2-nov3",
+  "text": "river!",
+  "plain": "river!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w2",
+  "lesson": "L2-nov3",
+  "text": "Seven fat … came out of the river",
+  "plain": "Seven fat … came out of the river",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w2-a",
+  "lesson": "L2-nov3",
+  "text": "cows!",
+  "plain": "cows!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w3",
+  "lesson": "L2-nov3",
+  "text": "Lots of food is a great …",
+  "plain": "Lots of food is a great …",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w3-a",
+  "lesson": "L2-nov3",
+  "text": "harvest!",
+  "plain": "harvest!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w4",
+  "lesson": "L2-nov3",
+  "text": "Pharaoh gave Joseph his …",
+  "plain": "Pharaoh gave Joseph his …",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.w4-a",
+  "lesson": "L2-nov3",
+  "text": "ring!",
+  "plain": "ring!",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.q1",
+  "lesson": "L2-nov3",
+  "text": "Who told Pharaoh the meaning of his dream?",
+  "plain": "Who told Pharaoh the meaning of his dream?",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.q2",
+  "lesson": "L2-nov3",
+  "text": "What do the seven thin cows mean?",
+  "plain": "What do the seven thin cows mean?",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.q3",
+  "lesson": "L2-nov3",
+  "text": "What did Pharaoh make Joseph?",
+  "plain": "What did Pharaoh make Joseph?",
+  "words": []
+ },
+ {
+  "id": "L2-nov3.finish",
+  "lesson": "L2-nov3",
+  "text": "You did it! You finished Pharaoh's Dream and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Pharaoh's Dream and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.cover",
+  "lesson": "L2-nov4",
+  "text": "[[selam]]! Joseph became a ruler in Egypt. Today his brothers come to Egypt. Will Joseph forgive them? Tap *Let's play*!",
+  "plain": "Selam! Joseph became a ruler in Egypt. Today his brothers come to Egypt. Will Joseph forgive them? Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-nov4.r1",
+  "lesson": "L2-nov4",
+  "text": "For seven years Joseph stored lots of grain. Then the hungry years came, all over the world.",
+  "plain": "For seven years Joseph stored lots of grain. Then the hungry years came, all over the world.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.r2",
+  "lesson": "L2-nov4",
+  "text": "In the land of Canaan, Jacob and his sons were hungry too. They heard there was food in Egypt.",
+  "plain": "In the land of Canaan, Jacob and his sons were hungry too. They heard there was food in Egypt.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.r3",
+  "lesson": "L2-nov4",
+  "text": "The brothers went to Egypt and bowed down to the ruler. They did not know it was Joseph!",
+  "plain": "The brothers went to Egypt and bowed down to the ruler. They did not know it was Joseph!",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.r4",
+  "lesson": "L2-nov4",
+  "text": "But Joseph knew them. He remembered his dream of the stars bowing down.",
+  "plain": "But Joseph knew them. He remembered his dream of the stars bowing down.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.j1",
+  "lesson": "L2-nov4",
+  "text": "Joseph told them: Next time, bring your youngest brother, Benjamin. Tap Benjamin.",
+  "plain": "Joseph told them: Next time, bring your youngest brother, Benjamin. Tap Benjamin.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.j2",
+  "lesson": "L2-nov4",
+  "text": "When they came back with Benjamin, Joseph could not hold back his tears. He cried: I am Joseph, your brother!",
+  "plain": "When they came back with Benjamin, Joseph could not hold back his tears. He cried: I am Joseph, your brother!",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.j3",
+  "lesson": "L2-nov4",
+  "text": "The brothers were afraid. Would Joseph punish them?",
+  "plain": "The brothers were afraid. Would Joseph punish them?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.j4",
+  "lesson": "L2-nov4",
+  "text": "Joseph said: Do not be afraid. God sent me here to save many lives, and to save you too. Tap Joseph.",
+  "plain": "Joseph said: Do not be afraid. God sent me here to save many lives, and to save you too. Tap Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.j5",
+  "lesson": "L2-nov4",
+  "text": "Joseph forgave his brothers and hugged them!",
+  "plain": "Joseph forgave his brothers and hugged them!",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.family",
+  "lesson": "L2-nov4",
+  "text": "Joseph sent a cart to bring his old father Jacob to Egypt. Drag Jacob and his animals to Joseph!",
+  "plain": "Joseph sent a cart to bring his old father Jacob to Egypt. Drag Jacob and his animals to Joseph!",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.family-done",
+  "lesson": "L2-nov4",
+  "text": "Jacob saw his son Joseph again! The whole family lived together in Egypt.",
+  "plain": "Jacob saw his son Joseph again! The whole family lived together in Egypt.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.tf-intro",
+  "lesson": "L2-nov4",
+  "text": "Read each sentence. Is it true, or false?",
+  "plain": "Read each sentence. Is it true, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.tf-done",
+  "lesson": "L2-nov4",
+  "text": "Great thinking!",
+  "plain": "Great thinking!",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.t1",
+  "lesson": "L2-nov4",
+  "text": "The brothers knew the ruler was Joseph. True, or false?",
+  "plain": "The brothers knew the ruler was Joseph. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.t1-why",
+  "lesson": "L2-nov4",
+  "text": "False! False. They did not know him, but he knew them.",
+  "plain": "False! False. They did not know him, but he knew them.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.t2",
+  "lesson": "L2-nov4",
+  "text": "Joseph forgave his brothers. True, or false?",
+  "plain": "Joseph forgave his brothers. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.t2-why",
+  "lesson": "L2-nov4",
+  "text": "True! True! He said God sent him to Egypt to save lives.",
+  "plain": "True! True! He said God sent him to Egypt to save lives.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.t3",
+  "lesson": "L2-nov4",
+  "text": "Jacob came to live in Egypt. True, or false?",
+  "plain": "Jacob came to live in Egypt. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.t3-why",
+  "lesson": "L2-nov4",
+  "text": "True! True! The whole family was together again.",
+  "plain": "True! True! The whole family was together again.",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.q1",
+  "lesson": "L2-nov4",
+  "text": "Why did the brothers go to Egypt?",
+  "plain": "Why did the brothers go to Egypt?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.q2",
+  "lesson": "L2-nov4",
+  "text": "Who was the youngest brother?",
+  "plain": "Who was the youngest brother?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.q3",
+  "lesson": "L2-nov4",
+  "text": "What did Joseph do to his brothers?",
+  "plain": "What did Joseph do to his brothers?",
+  "words": []
+ },
+ {
+  "id": "L2-nov4.finish",
+  "lesson": "L2-nov4",
+  "text": "You did it! You finished Joseph Forgives His Brothers and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Joseph Forgives His Brothers and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.cover",
+  "lesson": "L2-oct1",
+  "text": "[[selam]]! Every year in Meskerem we light a big bonfire called Demera, and celebrate [[meskel]]. Today we read why! Tap *Let's play*!",
+  "plain": "Selam! Every year in Meskerem we light a big bonfire called Demera, and celebrate Meskel. Today we read why! Tap Let's play!",
+  "words": [
+   "selam",
+   "meskel"
+  ]
+ },
+ {
+  "id": "L2-oct1.r1",
+  "lesson": "L2-oct1",
+  "text": "Jesus Christ saved us and showed us His love by suffering on the Cross.",
+  "plain": "Jesus Christ saved us and showed us His love by suffering on the Cross.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.r2",
+  "lesson": "L2-oct1",
+  "text": "The Holy Cross did many miracles, and people who saw them believed in Jesus.",
+  "plain": "The Holy Cross did many miracles, and people who saw them believed in Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.r3",
+  "lesson": "L2-oct1",
+  "text": "But the enemies of Jesus did not like this. So they buried the Cross and hid it.",
+  "plain": "But the enemies of Jesus did not like this. So they buried the Cross and hid it.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.r4",
+  "lesson": "L2-oct1",
+  "text": "Hundreds of years later, a queen called Helena wanted to find the Cross of Jesus.",
+  "plain": "Hundreds of years later, a queen called Helena wanted to find the Cross of Jesus.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.h1",
+  "lesson": "L2-oct1",
+  "text": "Helena's son, Constantine, was a king. He wanted to do what his mother wished. Tap King Constantine.",
+  "plain": "Helena's son, Constantine, was a king. He wanted to do what his mother wished. Tap King Constantine.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.h2",
+  "lesson": "L2-oct1",
+  "text": "He gave her an army to go with her to Jerusalem.",
+  "plain": "He gave her an army to go with her to Jerusalem.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.h3",
+  "lesson": "L2-oct1",
+  "text": "Nobody in Jerusalem could tell her where the Cross was. At last she found an old man called Kyriakos. Tap him.",
+  "plain": "Nobody in Jerusalem could tell her where the Cross was. At last she found an old man called Kyriakos. Tap him.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.h4",
+  "lesson": "L2-oct1",
+  "text": "Kyriakos showed her the place where the Cross was buried.",
+  "plain": "Kyriakos showed her the place where the Cross was buried.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.f1",
+  "lesson": "L2-oct1",
+  "text": "God showed Helena what to do: light a big pile of wood, and put incense in the fire. Tap the wood to light it!",
+  "plain": "God showed Helena what to do: light a big pile of wood, and put incense in the fire. Tap the wood to light it!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.f2",
+  "lesson": "L2-oct1",
+  "text": "The fire burned bright! We use incense in church too. It smells sweet as it goes up with our prayers.",
+  "plain": "The fire burned bright! We use incense in church too. It smells sweet as it goes up with our prayers.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.f3",
+  "lesson": "L2-oct1",
+  "text": "The smoke went up high, and then it came down and pointed to one place.",
+  "plain": "The smoke went up high, and then it came down and pointed to one place.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.f4",
+  "lesson": "L2-oct1",
+  "text": "The people dug there, and they found the Holy Cross! Everyone was full of joy.",
+  "plain": "The people dug there, and they found the Holy Cross! Everyone was full of joy.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.puzzle-intro",
+  "lesson": "L2-oct1",
+  "text": "Puzzle time! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Puzzle time! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.puzzle-done",
+  "lesson": "L2-oct1",
+  "text": "You solved the cross puzzle!",
+  "plain": "You solved the cross puzzle!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w1",
+  "lesson": "L2-oct1",
+  "text": "The queen who wanted to find the Cross",
+  "plain": "The queen who wanted to find the Cross",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w1-a",
+  "lesson": "L2-oct1",
+  "text": "Helena!",
+  "plain": "Helena!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w2",
+  "lesson": "L2-oct1",
+  "text": "She went to find it in this city",
+  "plain": "She went to find it in this city",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w2-a",
+  "lesson": "L2-oct1",
+  "text": "Jerusalem!",
+  "plain": "Jerusalem!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w3",
+  "lesson": "L2-oct1",
+  "text": "They put this sweet thing in the fire",
+  "plain": "They put this sweet thing in the fire",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w3-a",
+  "lesson": "L2-oct1",
+  "text": "incense!",
+  "plain": "incense!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w4",
+  "lesson": "L2-oct1",
+  "text": "Cross in Amharic",
+  "plain": "Cross in Amharic",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.w4-a",
+  "lesson": "L2-oct1",
+  "text": "Meskel!",
+  "plain": "Meskel!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.order",
+  "lesson": "L2-oct1",
+  "text": "Tap the pictures in the order they happened.",
+  "plain": "Tap the pictures in the order they happened.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.order-done",
+  "lesson": "L2-oct1",
+  "text": "That is the whole story!",
+  "plain": "That is the whole story!",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.order-again",
+  "lesson": "L2-oct1",
+  "text": "Hmm, what happened before that?",
+  "plain": "Hmm, what happened before that?",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.q1",
+  "lesson": "L2-oct1",
+  "text": "Who buried the Holy Cross?",
+  "plain": "Who buried the Holy Cross?",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.q2",
+  "lesson": "L2-oct1",
+  "text": "Who was Helena's son?",
+  "plain": "Who was Helena's son?",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.q3",
+  "lesson": "L2-oct1",
+  "text": "What do we light every year for Meskel?",
+  "plain": "What do we light every year for Meskel?",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.song-intro",
+  "lesson": "L2-oct1",
+  "text": "Here is our song! It means: The Cross (of Christ) is our power, the Cross is our perseverance, the Cross is our guide For us who believe, it is our salvation Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: The Cross (of Christ) is our power, the Cross is our perseverance, the Cross is our guide For us who believe, it is our salvation Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.song-done",
+  "lesson": "L2-oct1",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-oct1.finish",
+  "lesson": "L2-oct1",
+  "text": "You did it! You finished Queen Helena Finds the Cross and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Queen Helena Finds the Cross and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.cover",
+  "lesson": "L2-oct2",
+  "text": "[[selam]]! Noah and his family were safe in the ark. Today we read how Noah knew the land was dry, and what God promised. Tap *Let's play*!",
+  "plain": "Selam! Noah and his family were safe in the ark. Today we read how Noah knew the land was dry, and what God promised. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-oct2.r1",
+  "lesson": "L2-oct2",
+  "text": "It rained for forty days without stopping. The ark floated on the water.",
+  "plain": "It rained for forty days without stopping. The ark floated on the water.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.r2",
+  "lesson": "L2-oct2",
+  "text": "Then the water started to go down, and the ark came to rest on a mountain.",
+  "plain": "Then the water started to go down, and the ark came to rest on a mountain.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.r3",
+  "lesson": "L2-oct2",
+  "text": "Noah wanted to know: is the land dry yet?",
+  "plain": "Noah wanted to know: is the land dry yet?",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.b1",
+  "lesson": "L2-oct2",
+  "text": "First Noah sent out a raven, a big black bird. Go and see if there is a tree! Tap the raven.",
+  "plain": "First Noah sent out a raven, a big black bird. Go and see if there is a tree! Tap the raven.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.b2",
+  "lesson": "L2-oct2",
+  "text": "The raven flew away, and it never came back.",
+  "plain": "The raven flew away, and it never came back.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.b3",
+  "lesson": "L2-oct2",
+  "text": "Then Noah sent out a dove, [[rigib]]. But there was water everywhere, so the dove came back.",
+  "plain": "Then Noah sent out a dove, Rigib. But there was water everywhere, so the dove came back.",
+  "words": [
+   "rigib"
+  ]
+ },
+ {
+  "id": "L2-oct2.b4",
+  "lesson": "L2-oct2",
+  "text": "After a few days, Noah sent the dove again. Tap the dove!",
+  "plain": "After a few days, Noah sent the dove again. Tap the dove!",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.b5",
+  "lesson": "L2-oct2",
+  "text": "The dove came back with a fresh olive leaf in its mouth! Now Noah knew the earth was dry.",
+  "plain": "The dove came back with a fresh olive leaf in its mouth! Now Noah knew the earth was dry.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.rainbow",
+  "lesson": "L2-oct2",
+  "text": "Noah's family and all the animals came out and thanked God. God promised never to destroy the earth with a flood again. Tap seven times to paint the seven colours of the rainbow!",
+  "plain": "Noah's family and all the animals came out and thanked God. God promised never to destroy the earth with a flood again. Tap seven times to paint the seven colours of the rainbow!",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.rainbow-done",
+  "lesson": "L2-oct2",
+  "text": "The [[kestedemena]], the rainbow, is the sign of God's promise!",
+  "plain": "The Keste demena, the rainbow, is the sign of God's promise!",
+  "words": [
+   "kestedemena"
+  ]
+ },
+ {
+  "id": "L2-oct2.blanks-intro",
+  "lesson": "L2-oct2",
+  "text": "Read the sentence, and tap the missing word.",
+  "plain": "Read the sentence, and tap the missing word.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.blanks-done",
+  "lesson": "L2-oct2",
+  "text": "Well read!",
+  "plain": "Well read!",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f1",
+  "lesson": "L2-oct2",
+  "text": "It rained for what? days.",
+  "plain": "It rained for what? days.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f1-a",
+  "lesson": "L2-oct2",
+  "text": "It rained for forty days.",
+  "plain": "It rained for forty days.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f2",
+  "lesson": "L2-oct2",
+  "text": "The what? flew away and never came back.",
+  "plain": "The what? flew away and never came back.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f2-a",
+  "lesson": "L2-oct2",
+  "text": "The raven flew away and never came back.",
+  "plain": "The raven flew away and never came back.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f3",
+  "lesson": "L2-oct2",
+  "text": "The dove came back with an olive what?.",
+  "plain": "The dove came back with an olive what?.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f3-a",
+  "lesson": "L2-oct2",
+  "text": "The dove came back with an olive leaf.",
+  "plain": "The dove came back with an olive leaf.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f4",
+  "lesson": "L2-oct2",
+  "text": "The what? is the sign of God's promise.",
+  "plain": "The what? is the sign of God's promise.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.f4-a",
+  "lesson": "L2-oct2",
+  "text": "The rainbow is the sign of God's promise.",
+  "plain": "The rainbow is the sign of God's promise.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.q1",
+  "lesson": "L2-oct2",
+  "text": "Which bird did Noah send first?",
+  "plain": "Which bird did Noah send first?",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.q2",
+  "lesson": "L2-oct2",
+  "text": "How did Noah know the land was dry?",
+  "plain": "How did Noah know the land was dry?",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.q3",
+  "lesson": "L2-oct2",
+  "text": "What did God show Noah as a sign of His promise?",
+  "plain": "What did God show Noah as a sign of His promise?",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.song-intro",
+  "lesson": "L2-oct2",
+  "text": "Here is our song! It means: Leave us not, Leave us not, neither forsake us God of Peace, help us. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Leave us not, Leave us not, neither forsake us God of Peace, help us. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.song-done",
+  "lesson": "L2-oct2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-oct2.finish",
+  "lesson": "L2-oct2",
+  "text": "You did it! You finished The Dove and the Rainbow and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished The Dove and the Rainbow and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
   "id": "L2-oct3.cover",
   "lesson": "L2-oct3",
   "text": "[[selam]]! Today we read a true story about a promise. God made a promise to Abraham and Sarah. Tap *Let's play*!",
@@ -6044,6 +7195,758 @@
   "lesson": "L2-oct3",
   "text": "You did it! You finished Abraham, Sarah, and the Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
   "plain": "You did it! You finished Abraham, Sarah, and the Promise and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.cover",
+  "lesson": "L2-oct4",
+  "text": "[[selam]]! Remember Isaac, the son God promised to Abraham? Today we read about Isaac's grandson, [[yosef]], Joseph. Tap *Let's play*!",
+  "plain": "Selam! Remember Isaac, the son God promised to Abraham? Today we read about Isaac's grandson, Yosef, Joseph. Tap Let's play!",
+  "words": [
+   "selam",
+   "yosef"
+  ]
+ },
+ {
+  "id": "L2-oct4.r1",
+  "lesson": "L2-oct4",
+  "text": "Jacob had twelve sons. He loved Joseph more than the others, and gave him a beautiful coat.",
+  "plain": "Jacob had twelve sons. He loved Joseph more than the others, and gave him a beautiful coat.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.r2",
+  "lesson": "L2-oct4",
+  "text": "His brothers were jealous, and they hated Joseph.",
+  "plain": "His brothers were jealous, and they hated Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.r3",
+  "lesson": "L2-oct4",
+  "text": "One night Joseph had a dream. He told his brothers: The sun, the moon and eleven stars bowed down to me!",
+  "plain": "One night Joseph had a dream. He told his brothers: The sun, the moon and eleven stars bowed down to me!",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.r4",
+  "lesson": "L2-oct4",
+  "text": "Now his brothers hated him even more. Is he going to rule over us? they said.",
+  "plain": "Now his brothers hated him even more. Is he going to rule over us? they said.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.stars",
+  "lesson": "L2-oct4",
+  "text": "In Joseph's dream, eleven stars bowed down. Tap to count eleven stars!",
+  "plain": "In Joseph's dream, eleven stars bowed down. Tap to count eleven stars!",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.stars-done",
+  "lesson": "L2-oct4",
+  "text": "Eleven stars, like his eleven brothers!",
+  "plain": "Eleven stars, like his eleven brothers!",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.p1",
+  "lesson": "L2-oct4",
+  "text": "One day Jacob sent Joseph to check on his brothers, who were keeping the sheep. Tap Joseph.",
+  "plain": "One day Jacob sent Joseph to check on his brothers, who were keeping the sheep. Tap Joseph.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.p2",
+  "lesson": "L2-oct4",
+  "text": "When the brothers saw him, they said: Here comes the dreamer. Let's get rid of him!",
+  "plain": "When the brothers saw him, they said: Here comes the dreamer. Let's get rid of him!",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.p3",
+  "lesson": "L2-oct4",
+  "text": "But Reuben said: Let's not kill him. Throw him in a pit. He wanted to come back and save Joseph. Tap Reuben.",
+  "plain": "But Reuben said: Let's not kill him. Throw him in a pit. He wanted to come back and save Joseph. Tap Reuben.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.p4",
+  "lesson": "L2-oct4",
+  "text": "They took off Joseph's coat and threw him into the pit.",
+  "plain": "They took off Joseph's coat and threw him into the pit.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.p5",
+  "lesson": "L2-oct4",
+  "text": "Some merchants passed by. The brothers sold Joseph to them as a slave, and he was taken to Egypt, [[gibts]].",
+  "plain": "Some merchants passed by. The brothers sold Joseph to them as a slave, and he was taken to Egypt, Gibts.",
+  "words": [
+   "gibts"
+  ]
+ },
+ {
+  "id": "L2-oct4.tf-intro",
+  "lesson": "L2-oct4",
+  "text": "Read each sentence. Is it true, or false?",
+  "plain": "Read each sentence. Is it true, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.tf-done",
+  "lesson": "L2-oct4",
+  "text": "Great thinking!",
+  "plain": "Great thinking!",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t1",
+  "lesson": "L2-oct4",
+  "text": "Jacob had twelve sons. True, or false?",
+  "plain": "Jacob had twelve sons. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t1-why",
+  "lesson": "L2-oct4",
+  "text": "True! True! Joseph was one of twelve brothers.",
+  "plain": "True! True! Joseph was one of twelve brothers.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t2",
+  "lesson": "L2-oct4",
+  "text": "Joseph's brothers loved his dream. True, or false?",
+  "plain": "Joseph's brothers loved his dream. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t2-why",
+  "lesson": "L2-oct4",
+  "text": "False! False. They hated him even more.",
+  "plain": "False! False. They hated him even more.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t3",
+  "lesson": "L2-oct4",
+  "text": "Reuben wanted to save Joseph. True, or false?",
+  "plain": "Reuben wanted to save Joseph. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t3-why",
+  "lesson": "L2-oct4",
+  "text": "True! True! He planned to come back for him.",
+  "plain": "True! True! He planned to come back for him.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t4",
+  "lesson": "L2-oct4",
+  "text": "The brothers told their father the truth. True, or false?",
+  "plain": "The brothers told their father the truth. True, or false?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.t4-why",
+  "lesson": "L2-oct4",
+  "text": "False! False. They covered up with a lie, and Jacob cried. Never cover a mistake with another wrong!",
+  "plain": "False! False. They covered up with a lie, and Jacob cried. Never cover a mistake with another wrong!",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.q1",
+  "lesson": "L2-oct4",
+  "text": "Who was Joseph's grandfather?",
+  "plain": "Who was Joseph's grandfather?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.q2",
+  "lesson": "L2-oct4",
+  "text": "What did Joseph's father give him?",
+  "plain": "What did Joseph's father give him?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.q3",
+  "lesson": "L2-oct4",
+  "text": "Where was Joseph taken?",
+  "plain": "Where was Joseph taken?",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.song-intro",
+  "lesson": "L2-oct4",
+  "text": "Here is our song! It means: It is true, It is true The kingdom of the Trinity is forever. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: It is true, It is true The kingdom of the Trinity is forever. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.song-done",
+  "lesson": "L2-oct4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-oct4.finish",
+  "lesson": "L2-oct4",
+  "text": "You did it! You finished Joseph and His Brothers and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Joseph and His Brothers and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.cover",
+  "lesson": "L2-sep2",
+  "text": "[[selam]]! This is the story of [[fitret]], creation. Let's read what God made in six days, and how He got the world ready for Adam. Tap *Let's play*!",
+  "plain": "Selam! This is the story of Fitret, creation. Let's read what God made in six days, and how He got the world ready for Adam. Tap Let's play!",
+  "words": [
+   "selam",
+   "fitret"
+  ]
+ },
+ {
+  "id": "L2-sep2.r1",
+  "lesson": "L2-sep2",
+  "text": "In the beginning God made heaven and earth. There were no trees, no houses, no animals and no people. There was only darkness.",
+  "plain": "In the beginning God made heaven and earth. There were no trees, no houses, no animals and no people. There was only darkness.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.r2",
+  "lesson": "L2-sep2",
+  "text": "God said: I will make a man and call him Adam. I will make him happy. He will love Me and speak with Me.",
+  "plain": "God said: I will make a man and call him Adam. I will make him happy. He will love Me and speak with Me.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.r3",
+  "lesson": "L2-sep2",
+  "text": "So God made the earth a good home for Adam, before He made him.",
+  "plain": "So God made the earth a good home for Adam, before He made him.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.s1",
+  "lesson": "L2-sep2",
+  "text": "God said: Let there be [[birhan]], light! Now Adam could see, read, play and eat. Tap the sun.",
+  "plain": "God said: Let there be Birhan, light! Now Adam could see, read, play and eat. Tap the sun.",
+  "words": [
+   "birhan"
+  ]
+ },
+ {
+  "id": "L2-sep2.s2",
+  "lesson": "L2-sep2",
+  "text": "God said: I will not leave Adam in the dark. And He made the moon and the stars.",
+  "plain": "God said: I will not leave Adam in the dark. And He made the moon and the stars.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.s3",
+  "lesson": "L2-sep2",
+  "text": "What will Adam eat? God made vegetables and fruits: apples, watermelon and grapes! Tap the tree.",
+  "plain": "What will Adam eat? God made vegetables and fruits: apples, watermelon and grapes! Tap the tree.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.s4",
+  "lesson": "L2-sep2",
+  "text": "Then God made the animals, the birds and the fish.",
+  "plain": "Then God made the animals, the birds and the fish.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.m1",
+  "lesson": "L2-sep2",
+  "text": "On the sixth day, God said: Everything is good.",
+  "plain": "On the sixth day, God said: Everything is good.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.m2",
+  "lesson": "L2-sep2",
+  "text": "God made a man from the dust of the ground, and breathed into him the breath of life. It was Adam! Tap Adam.",
+  "plain": "God made a man from the dust of the ground, and breathed into him the breath of life. It was Adam! Tap Adam.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.m3",
+  "lesson": "L2-sep2",
+  "text": "Adam opened his eyes and saw a beautiful world, all made ready for him.",
+  "plain": "Adam opened his eyes and saw a beautiful world, all made ready for him.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.puzzle-intro",
+  "lesson": "L2-sep2",
+  "text": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.puzzle-done",
+  "lesson": "L2-sep2",
+  "text": "You spelled them all! Great reading.",
+  "plain": "You spelled them all! Great reading.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w1",
+  "lesson": "L2-sep2",
+  "text": "First God said: Let there be …",
+  "plain": "First God said: Let there be …",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w1-a",
+  "lesson": "L2-sep2",
+  "text": "light!",
+  "plain": "light!",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w2",
+  "lesson": "L2-sep2",
+  "text": "At night God gave us the moon and the …",
+  "plain": "At night God gave us the moon and the …",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w2-a",
+  "lesson": "L2-sep2",
+  "text": "stars!",
+  "plain": "stars!",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w3",
+  "lesson": "L2-sep2",
+  "text": "The first man was called …",
+  "plain": "The first man was called …",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w3-a",
+  "lesson": "L2-sep2",
+  "text": "Adam!",
+  "plain": "Adam!",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w4",
+  "lesson": "L2-sep2",
+  "text": "Adam was made from the …",
+  "plain": "Adam was made from the …",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.w4-a",
+  "lesson": "L2-sep2",
+  "text": "dust!",
+  "plain": "dust!",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.order",
+  "lesson": "L2-sep2",
+  "text": "Tap the pictures in the order God made them.",
+  "plain": "Tap the pictures in the order God made them.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.order-done",
+  "lesson": "L2-sep2",
+  "text": "God made everything good, and He made it for us!",
+  "plain": "God made everything good, and He made it for us!",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.order-again",
+  "lesson": "L2-sep2",
+  "text": "Hmm, what happened before that?",
+  "plain": "Hmm, what happened before that?",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.q1",
+  "lesson": "L2-sep2",
+  "text": "What did God make first?",
+  "plain": "What did God make first?",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.q2",
+  "lesson": "L2-sep2",
+  "text": "Why did God make the fruits and vegetables?",
+  "plain": "Why did God make the fruits and vegetables?",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.q3",
+  "lesson": "L2-sep2",
+  "text": "On which day did God make Adam?",
+  "plain": "On which day did God make Adam?",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.song-intro",
+  "lesson": "L2-sep2",
+  "text": "Here is our song! It means: Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places. Psalm 135:6 Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places. Psalm 135:6 Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.song-done",
+  "lesson": "L2-sep2",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-sep2.finish",
+  "lesson": "L2-sep2",
+  "text": "You did it! You finished God Made Everything and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished God Made Everything and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.cover",
+  "lesson": "L2-sep3",
+  "text": "[[selam]]! Last time God made the world for Adam. Today we read how God cared for Adam in the beautiful Garden of Eden. Tap *Let's play*!",
+  "plain": "Selam! Last time God made the world for Adam. Today we read how God cared for Adam in the beautiful Garden of Eden. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "L2-sep3.r1",
+  "lesson": "L2-sep3",
+  "text": "Adam lived in a beautiful garden called Eden. But he was all alone.",
+  "plain": "Adam lived in a beautiful garden called Eden. But he was all alone.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.r2",
+  "lesson": "L2-sep3",
+  "text": "God saw that Adam was lonely, so He made Eve to be his helper.",
+  "plain": "God saw that Adam was lonely, so He made Eve to be his helper.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.r3",
+  "lesson": "L2-sep3",
+  "text": "Adam and Eve lived together happily in the Garden of Eden.",
+  "plain": "Adam and Eve lived together happily in the Garden of Eden.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.match-intro",
+  "lesson": "L2-sep3",
+  "text": "God brought all the animals to Adam, and Adam gave each one a name. Tap an animal, then tap its name.",
+  "plain": "God brought all the animals to Adam, and Adam gave each one a name. Tap an animal, then tap its name.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.match-done",
+  "lesson": "L2-sep3",
+  "text": "Every animal knew its name when Adam called it!",
+  "plain": "Every animal knew its name when Adam called it!",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.k1",
+  "lesson": "L2-sep3",
+  "text": "God made Adam and Eve like a king and a queen over everything on earth. Tap Adam and Eve.",
+  "plain": "God made Adam and Eve like a king and a queen over everything on earth. Tap Adam and Eve.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.k2",
+  "lesson": "L2-sep3",
+  "text": "God said: You may eat any fruit or vegetable that grows on earth.",
+  "plain": "God said: You may eat any fruit or vegetable that grows on earth.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.k3",
+  "lesson": "L2-sep3",
+  "text": "Except one: the fruit of the Tree of Knowledge. Tap that tree.",
+  "plain": "Except one: the fruit of the Tree of Knowledge. Tap that tree.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.k4",
+  "lesson": "L2-sep3",
+  "text": "Adam and Eve lived happily in the garden for a long time. God cared for them so much!",
+  "plain": "Adam and Eve lived happily in the garden for a long time. God cared for them so much!",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.puzzle-intro",
+  "lesson": "L2-sep3",
+  "text": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "plain": "Word puzzle! Read the clue, then tap the letters to spell the answer.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.puzzle-done",
+  "lesson": "L2-sep3",
+  "text": "You spelled them all! Great reading.",
+  "plain": "You spelled them all! Great reading.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.w1",
+  "lesson": "L2-sep3",
+  "text": "God made Adam a helper called …",
+  "plain": "God made Adam a helper called …",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.w1-a",
+  "lesson": "L2-sep3",
+  "text": "Eve!",
+  "plain": "Eve!",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.w2",
+  "lesson": "L2-sep3",
+  "text": "The beautiful garden was called …",
+  "plain": "The beautiful garden was called …",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.w2-a",
+  "lesson": "L2-sep3",
+  "text": "Eden!",
+  "plain": "Eden!",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.w3",
+  "lesson": "L2-sep3",
+  "text": "Adam gave every animal a …",
+  "plain": "Adam gave every animal a …",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.w3-a",
+  "lesson": "L2-sep3",
+  "text": "name!",
+  "plain": "name!",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.q1",
+  "lesson": "L2-sep3",
+  "text": "Why did God make Eve?",
+  "plain": "Why did God make Eve?",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.q2",
+  "lesson": "L2-sep3",
+  "text": "Who gave the animals their names?",
+  "plain": "Who gave the animals their names?",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.q3",
+  "lesson": "L2-sep3",
+  "text": "Which fruit were they told not to eat?",
+  "plain": "Which fruit were they told not to eat?",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.song-intro",
+  "lesson": "L2-sep3",
+  "text": "Here is our song! It means: Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places. Psalm 135:6 Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places. Psalm 135:6 Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.song-done",
+  "lesson": "L2-sep3",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-sep3.finish",
+  "lesson": "L2-sep3",
+  "text": "You did it! You finished Adam and Eve in the Garden and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Adam and Eve in the Garden and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.cover",
+  "lesson": "L2-sep4",
+  "text": "[[selam]]! Today we read about a holy man called [[noah]], who loved and obeyed God, and the big ship he built. Tap *Let's play*!",
+  "plain": "Selam! Today we read about a holy man called Noh, who loved and obeyed God, and the big ship he built. Tap Let's play!",
+  "words": [
+   "selam",
+   "noah"
+  ]
+ },
+ {
+  "id": "L2-sep4.r1",
+  "lesson": "L2-sep4",
+  "text": "There was a man called Noah who loved and obeyed God. But the people around him did not fear God or keep His commandments.",
+  "plain": "There was a man called Noah who loved and obeyed God. But the people around him did not fear God or keep His commandments.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.r2",
+  "lesson": "L2-sep4",
+  "text": "God said to Noah: I will send rain to flood the earth. Build an ark, so you and your family will be safe.",
+  "plain": "God said to Noah: I will send rain to flood the earth. Build an ark, so you and your family will be safe.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.r3",
+  "lesson": "L2-sep4",
+  "text": "An ark is a very big ship. Noah built it with his sons, out of wood.",
+  "plain": "An ark is a very big ship. Noah built it with his sons, out of wood.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.r4",
+  "lesson": "L2-sep4",
+  "text": "Noah told the people about the rain, but they did not believe him. They laughed at him.",
+  "plain": "Noah told the people about the rain, but they did not believe him. They laughed at him.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.animals",
+  "lesson": "L2-sep4",
+  "text": "God said: Go into the ark with your family, and two of every kind of animal. Drag the animals into the ark!",
+  "plain": "God said: Go into the ark with your family, and two of every kind of animal. Drag the animals into the ark!",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.animals-done",
+  "lesson": "L2-sep4",
+  "text": "Everyone is inside, and God shut the door.",
+  "plain": "Everyone is inside, and God shut the door.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.rain",
+  "lesson": "L2-sep4",
+  "text": "It became cloudy, and [[zinab]], rain, began to fall. Tap to make it rain!",
+  "plain": "It became cloudy, and Zinab, rain, began to fall. Tap to make it rain!",
+  "words": [
+   "zinab"
+  ]
+ },
+ {
+  "id": "L2-sep4.rain-done",
+  "lesson": "L2-sep4",
+  "text": "The whole earth was flooded. But Noah and his family were safe in the ark, and they prayed to God.",
+  "plain": "The whole earth was flooded. But Noah and his family were safe in the ark, and they prayed to God.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.blanks-intro",
+  "lesson": "L2-sep4",
+  "text": "Read the sentence, and tap the missing word.",
+  "plain": "Read the sentence, and tap the missing word.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.blanks-done",
+  "lesson": "L2-sep4",
+  "text": "Well read!",
+  "plain": "Well read!",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.b1",
+  "lesson": "L2-sep4",
+  "text": "Noah loved and what? God.",
+  "plain": "Noah loved and what? God.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.b1-a",
+  "lesson": "L2-sep4",
+  "text": "Noah loved and obeyed God.",
+  "plain": "Noah loved and obeyed God.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.b2",
+  "lesson": "L2-sep4",
+  "text": "An ark is a very big what?.",
+  "plain": "An ark is a very big what?.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.b2-a",
+  "lesson": "L2-sep4",
+  "text": "An ark is a very big ship.",
+  "plain": "An ark is a very big ship.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.b3",
+  "lesson": "L2-sep4",
+  "text": "The people did not believe Noah. They what? at him.",
+  "plain": "The people did not believe Noah. They what? at him.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.b3-a",
+  "lesson": "L2-sep4",
+  "text": "The people did not believe Noah. They laughed at him.",
+  "plain": "The people did not believe Noah. They laughed at him.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.q1",
+  "lesson": "L2-sep4",
+  "text": "What did God ask Noah to build?",
+  "plain": "What did God ask Noah to build?",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.q2",
+  "lesson": "L2-sep4",
+  "text": "What did Noah use to build the ark?",
+  "plain": "What did Noah use to build the ark?",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.q3",
+  "lesson": "L2-sep4",
+  "text": "What happens when heavy rain falls for a long time?",
+  "plain": "What happens when heavy rain falls for a long time?",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.song-intro",
+  "lesson": "L2-sep4",
+  "text": "Here is our song! It means: Leave us not, Leave us not, neither forsake us God of Peace, help us. Tap the kebero drum to play along with your teacher.",
+  "plain": "Here is our song! It means: Leave us not, Leave us not, neither forsake us God of Peace, help us. Tap the kebero drum to play along with your teacher.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.song-done",
+  "lesson": "L2-sep4",
+  "text": "Beautiful! Keep singing this song with your family this week.",
+  "plain": "Beautiful! Keep singing this song with your family this week.",
+  "words": []
+ },
+ {
+  "id": "L2-sep4.finish",
+  "lesson": "L2-sep4",
+  "text": "You did it! You finished Noah Builds the Ark and earned a sticker! Tap Play again, or go back to pick another lesson.",
+  "plain": "You did it! You finished Noah Builds the Ark and earned a sticker! Tap Play again, or go back to pick another lesson.",
   "words": []
  },
  {
