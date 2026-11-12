@@ -18,6 +18,38 @@ const add=(id,text,lesson,shared)=>{ if(!id||!text) return; const gid=shared?id:
 add('tryagain','Hmm, try again!',null,true);
 [['Forehead','cross-1'],['Chest','cross-2'],['Left shoulder','cross-3'],['Right shoulder','cross-4']].forEach(([w,k],i)=>add('cross-'+i,`${w}. [[${k}]]`,null,true));
 add('amen','[[sign-of-cross]] [[amen]]',null,true);
+
+// home screen and the Creation prototype (lessons/creation.html, Level I Sep wk2-4). Text here is the recording script;
+// creation.html keeps English respellings for its device-voice fallback.
+add('home.hello',"[[selam]]! I'm Selam. Pick a lesson, and let's learn and play together!",null,true);
+const CR={cover:"[[selam]]! I'm Selam. Who made the world, and everything in it? Let's find out together. Tap Let's play!",
+ 'd1-intro':"Oh! It is dark everywhere. Tap the dark five times, and say: Let there be light!",
+ 'd1-light':"Let there be light! And there was light! God called the light day, and the darkness night.",
+ 'd1-angels':"On this day, God also made the angels in heaven. Tap each angel to hear it sing!",
+ 'd1-done':"The angels praise God! You finished day one, and you earned a sticker!",
+ 'd2-intro':"Everything is water! Pull the water down to make room for the sky. Drag the gold button down.",
+ 'd2-sky':"God said: Let there be a sky! And the sky appeared. Now tap the sky to make three clouds.",
+ 'd2-done':"Beautiful clouds! God called the sky heaven. You finished day two!",
+ 'd3-intro':"The earth is covered with water. Tap the water three times to say: Let dry land appear!",
+ 'd3-land':"Dry land! Now drag a plant from the box onto the land. Plant four!",
+ 'd3-done':"Trees, enset and coffee! Fruit and plants grew on the earth. You finished day three!",
+ 'd4-intro':"The sky is empty. Drag the sun up into the sky!",
+ 'd4-sun':"The sun gives light in the day! Now drag the moon up for the night.",
+ 'd4-moon':"The moon shines at night. Tap the sky to light up six stars!",
+ 'd4-done':"Sun for the day, moon and stars for the night. You finished day four! Tap the moon or the sky to switch day and night.",
+ 'd5-intro':"God said: Let the waters be filled with fish, and let birds fly in the sky! Tap the water for fish, and the sky for birds.",
+ 'd5-done':"Fish in the water and birds in the sky! You finished day five!",
+ 'd6-intro':"God made the animals! Some are hiding behind the bushes. Tap the bushes to find all five!",
+ 'a-lion':"A lion! In Amharic we say [[anbessa]].", 'a-cow':"A cow! In Amharic we say [[lam]].", 'a-sheep':"A sheep! In Amharic we say [[beg]].",
+ 'a-walia':"A walia ibex! In Amharic we say [[walya]].", 'a-gelada':"A gelada monkey! In Amharic we say [[chilada]].",
+ 'd6-done':"You found them all! God made every animal, just by speaking. Isn't that amazing?",
+ 'd7-intro':"Then God made Adam with his own hands, and gave him life. And God made Eve. Bring the animals to Adam, so he can name them!",
+ 'adam-sheep':"Adam says: you are a sheep!", 'adam-lion':"Adam says: you are a lion!", 'adam-cow':"Adam says: you are a cow!",
+ 'd7-done':"Adam named all the animals. Adam and Eve are God's children. We are God's children too, because God is our Father!",
+ q1:"What did God make on the first day?", q2:"How did God make the world? Did He speak, use a hammer, or paint it?",
+ q3:"What did God put in the sky to shine at night?", q4:"How did God make Adam?", q5:"Who gave names to all the animals?",
+ 'fin-1':"You did it! You learned how God made everything. Now let's pray with the sign of the cross. Tap the glowing dot."};
+Object.entries(CR).forEach(([k,t])=>add(k,t,'creation'));
 const files=fs.readdirSync(path.join(root,'data/lessons')).filter(f=>/^L\d-\w+\.js$/.test(f)).sort();
 for(const f of files){ let L; vm.runInNewContext(fs.readFileSync(path.join(root,'data/lessons',f),'utf8'),{BKLesson:x=>{L=x}});
   const A=(arr)=>arr&&add(arr[0],arr[1],L.id);

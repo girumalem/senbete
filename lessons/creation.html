@@ -187,6 +187,7 @@ details.parents p{max-width:64ch;margin:.6em 0 0}
   <p class="credit">Adapted from the EOTC English Sunday school lessons, Level I (KG and Pre-KG), Creation I–III, Genesis 1 &amp; 2. Lessons compiled by Kesis Solomon Mulugeta for Bole Debre Salem Medhanealem Church. Prototype; narration uses the device voice until recorded audio is added.</p>
 </div>
 
+<script src="../data/audio.js"></script>
 <script>
 (()=>{
 const GEEZ=['፩','፪','፫','፬','፭','፮','፯','፰','፱','፲'];
@@ -195,7 +196,9 @@ const rnd=(a,b)=>a+Math.random()*(b-a);
 
 /* Recorded narration goes here later (ElevenLabs): { 'd1-intro': 'audio/d1-intro.mp3', ... }.
    Any line without a file falls back to the device voice. Every spoken line has an id. */
-const AUDIO={};
+const AUD=window.BK_AUDIO||{lines:[]};
+/* clip for a line id: shared player lines keep their id, the rest are creation.<id> (see tools/lines.js) */
+function clipFor(id){ const k=/^(cross-\d|yes\d|tryagain)$/.test(id)?id:'creation.'+id; return (AUD.lines||[]).includes(k)?`../audio/lines/${k}.mp3`:null; }
 
 /* ---------------- art ---------------- */
 function cross(color='#D4930F',accent='#B3322A'){
@@ -308,7 +311,7 @@ function say(id,text,show){
     stopVoice(); talking(true);
     const tts=()=>{ if(!canSpeak){ setTimeout(end,est); return; }
       try{ const u=new SpeechSynthesisUtterance(text); u.rate=.9; u.pitch=1.2; u.lang='en-US'; u.onend=end; u.onerror=end; speechSynthesis.speak(u); setTimeout(end,est+3500);}catch(e){ setTimeout(end,est); } };
-    if(AUDIO[id]){ const a=new Audio(AUDIO[id]); curAudio=a; a.onended=end; a.onerror=tts; a.play().catch(tts); } else tts();
+    const src=clipFor(id); if(src){ const a=new Audio(src); curAudio=a; a.onended=end; a.onerror=end; a.play().catch(end); } else if(id==='amen') setTimeout(end,1600); /* Ge'ez: silent until recorded */ else tts();
   });
 }
 
@@ -561,7 +564,7 @@ PAGES.push({kind:'finish', parent:`<p>The Level I lessons teach children to begi
   confetti(60); sfx('win');
   const showNext=()=>s.querySelectorAll('.pt').forEach((p,i)=>p.classList.toggle('show',i<=n));
   (async()=>{
-    await api.say('fin-1',`You did it! You learned how God made everything, and you got ${stars} ${stars===1?'star':'stars'}. Now let's pray with the sign of the cross. Tap the glowing dot.`,`You did it! ${'★'.repeat(stars)} Now let's make the <b>sign of the cross</b> together. Tap the glowing dot.`);
+    await api.say('fin-1',"You did it! You learned how God made everything. Now let's pray with the sign of the cross. Tap the glowing dot.",`You did it! ${'★'.repeat(stars)} Now let's make the <b>sign of the cross</b> together. Tap the glowing dot.`);
     if(!api.alive()) return; showNext(); })();
   const line=(a,b)=>s.querySelector('.lines').insertAdjacentHTML('beforeend',`<line x1="${a[0]}" y1="${a[1]}" x2="${b[0]}" y2="${b[1]}" stroke="#FFF6D2" stroke-width="12" stroke-linecap="round" opacity=".95"/>`);
   s.querySelectorAll('.pt').forEach(p=>tapper(p,()=>{ const i=+p.dataset.i; if(i!==n||!p.classList.contains('show')) return; const [x,y,w,am]=pts[i];

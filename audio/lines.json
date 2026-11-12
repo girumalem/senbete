@@ -74,6 +74,272 @@
   ]
  },
  {
+  "id": "home.hello",
+  "lesson": "shared",
+  "text": "[[selam]]! I'm Selam. Pick a lesson, and let's learn and play together!",
+  "plain": "Selam! I'm Selam. Pick a lesson, and let's learn and play together!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "creation.cover",
+  "lesson": "creation",
+  "text": "[[selam]]! I'm Selam. Who made the world, and everything in it? Let's find out together. Tap Let's play!",
+  "plain": "Selam! I'm Selam. Who made the world, and everything in it? Let's find out together. Tap Let's play!",
+  "words": [
+   "selam"
+  ]
+ },
+ {
+  "id": "creation.d1-intro",
+  "lesson": "creation",
+  "text": "Oh! It is dark everywhere. Tap the dark five times, and say: Let there be light!",
+  "plain": "Oh! It is dark everywhere. Tap the dark five times, and say: Let there be light!",
+  "words": []
+ },
+ {
+  "id": "creation.d1-light",
+  "lesson": "creation",
+  "text": "Let there be light! And there was light! God called the light day, and the darkness night.",
+  "plain": "Let there be light! And there was light! God called the light day, and the darkness night.",
+  "words": []
+ },
+ {
+  "id": "creation.d1-angels",
+  "lesson": "creation",
+  "text": "On this day, God also made the angels in heaven. Tap each angel to hear it sing!",
+  "plain": "On this day, God also made the angels in heaven. Tap each angel to hear it sing!",
+  "words": []
+ },
+ {
+  "id": "creation.d1-done",
+  "lesson": "creation",
+  "text": "The angels praise God! You finished day one, and you earned a sticker!",
+  "plain": "The angels praise God! You finished day one, and you earned a sticker!",
+  "words": []
+ },
+ {
+  "id": "creation.d2-intro",
+  "lesson": "creation",
+  "text": "Everything is water! Pull the water down to make room for the sky. Drag the gold button down.",
+  "plain": "Everything is water! Pull the water down to make room for the sky. Drag the gold button down.",
+  "words": []
+ },
+ {
+  "id": "creation.d2-sky",
+  "lesson": "creation",
+  "text": "God said: Let there be a sky! And the sky appeared. Now tap the sky to make three clouds.",
+  "plain": "God said: Let there be a sky! And the sky appeared. Now tap the sky to make three clouds.",
+  "words": []
+ },
+ {
+  "id": "creation.d2-done",
+  "lesson": "creation",
+  "text": "Beautiful clouds! God called the sky heaven. You finished day two!",
+  "plain": "Beautiful clouds! God called the sky heaven. You finished day two!",
+  "words": []
+ },
+ {
+  "id": "creation.d3-intro",
+  "lesson": "creation",
+  "text": "The earth is covered with water. Tap the water three times to say: Let dry land appear!",
+  "plain": "The earth is covered with water. Tap the water three times to say: Let dry land appear!",
+  "words": []
+ },
+ {
+  "id": "creation.d3-land",
+  "lesson": "creation",
+  "text": "Dry land! Now drag a plant from the box onto the land. Plant four!",
+  "plain": "Dry land! Now drag a plant from the box onto the land. Plant four!",
+  "words": []
+ },
+ {
+  "id": "creation.d3-done",
+  "lesson": "creation",
+  "text": "Trees, enset and coffee! Fruit and plants grew on the earth. You finished day three!",
+  "plain": "Trees, enset and coffee! Fruit and plants grew on the earth. You finished day three!",
+  "words": []
+ },
+ {
+  "id": "creation.d4-intro",
+  "lesson": "creation",
+  "text": "The sky is empty. Drag the sun up into the sky!",
+  "plain": "The sky is empty. Drag the sun up into the sky!",
+  "words": []
+ },
+ {
+  "id": "creation.d4-sun",
+  "lesson": "creation",
+  "text": "The sun gives light in the day! Now drag the moon up for the night.",
+  "plain": "The sun gives light in the day! Now drag the moon up for the night.",
+  "words": []
+ },
+ {
+  "id": "creation.d4-moon",
+  "lesson": "creation",
+  "text": "The moon shines at night. Tap the sky to light up six stars!",
+  "plain": "The moon shines at night. Tap the sky to light up six stars!",
+  "words": []
+ },
+ {
+  "id": "creation.d4-done",
+  "lesson": "creation",
+  "text": "Sun for the day, moon and stars for the night. You finished day four! Tap the moon or the sky to switch day and night.",
+  "plain": "Sun for the day, moon and stars for the night. You finished day four! Tap the moon or the sky to switch day and night.",
+  "words": []
+ },
+ {
+  "id": "creation.d5-intro",
+  "lesson": "creation",
+  "text": "God said: Let the waters be filled with fish, and let birds fly in the sky! Tap the water for fish, and the sky for birds.",
+  "plain": "God said: Let the waters be filled with fish, and let birds fly in the sky! Tap the water for fish, and the sky for birds.",
+  "words": []
+ },
+ {
+  "id": "creation.d5-done",
+  "lesson": "creation",
+  "text": "Fish in the water and birds in the sky! You finished day five!",
+  "plain": "Fish in the water and birds in the sky! You finished day five!",
+  "words": []
+ },
+ {
+  "id": "creation.d6-intro",
+  "lesson": "creation",
+  "text": "God made the animals! Some are hiding behind the bushes. Tap the bushes to find all five!",
+  "plain": "God made the animals! Some are hiding behind the bushes. Tap the bushes to find all five!",
+  "words": []
+ },
+ {
+  "id": "creation.a-lion",
+  "lesson": "creation",
+  "text": "A lion! In Amharic we say [[anbessa]].",
+  "plain": "A lion! In Amharic we say Anbessa.",
+  "words": [
+   "anbessa"
+  ]
+ },
+ {
+  "id": "creation.a-cow",
+  "lesson": "creation",
+  "text": "A cow! In Amharic we say [[lam]].",
+  "plain": "A cow! In Amharic we say Lam.",
+  "words": [
+   "lam"
+  ]
+ },
+ {
+  "id": "creation.a-sheep",
+  "lesson": "creation",
+  "text": "A sheep! In Amharic we say [[beg]].",
+  "plain": "A sheep! In Amharic we say Beg.",
+  "words": [
+   "beg"
+  ]
+ },
+ {
+  "id": "creation.a-walia",
+  "lesson": "creation",
+  "text": "A walia ibex! In Amharic we say [[walya]].",
+  "plain": "A walia ibex! In Amharic we say Walya.",
+  "words": [
+   "walya"
+  ]
+ },
+ {
+  "id": "creation.a-gelada",
+  "lesson": "creation",
+  "text": "A gelada monkey! In Amharic we say [[chilada]].",
+  "plain": "A gelada monkey! In Amharic we say Chilada.",
+  "words": [
+   "chilada"
+  ]
+ },
+ {
+  "id": "creation.d6-done",
+  "lesson": "creation",
+  "text": "You found them all! God made every animal, just by speaking. Isn't that amazing?",
+  "plain": "You found them all! God made every animal, just by speaking. Isn't that amazing?",
+  "words": []
+ },
+ {
+  "id": "creation.d7-intro",
+  "lesson": "creation",
+  "text": "Then God made Adam with his own hands, and gave him life. And God made Eve. Bring the animals to Adam, so he can name them!",
+  "plain": "Then God made Adam with his own hands, and gave him life. And God made Eve. Bring the animals to Adam, so he can name them!",
+  "words": []
+ },
+ {
+  "id": "creation.adam-sheep",
+  "lesson": "creation",
+  "text": "Adam says: you are a sheep!",
+  "plain": "Adam says: you are a sheep!",
+  "words": []
+ },
+ {
+  "id": "creation.adam-lion",
+  "lesson": "creation",
+  "text": "Adam says: you are a lion!",
+  "plain": "Adam says: you are a lion!",
+  "words": []
+ },
+ {
+  "id": "creation.adam-cow",
+  "lesson": "creation",
+  "text": "Adam says: you are a cow!",
+  "plain": "Adam says: you are a cow!",
+  "words": []
+ },
+ {
+  "id": "creation.d7-done",
+  "lesson": "creation",
+  "text": "Adam named all the animals. Adam and Eve are God's children. We are God's children too, because God is our Father!",
+  "plain": "Adam named all the animals. Adam and Eve are God's children. We are God's children too, because God is our Father!",
+  "words": []
+ },
+ {
+  "id": "creation.q1",
+  "lesson": "creation",
+  "text": "What did God make on the first day?",
+  "plain": "What did God make on the first day?",
+  "words": []
+ },
+ {
+  "id": "creation.q2",
+  "lesson": "creation",
+  "text": "How did God make the world? Did He speak, use a hammer, or paint it?",
+  "plain": "How did God make the world? Did He speak, use a hammer, or paint it?",
+  "words": []
+ },
+ {
+  "id": "creation.q3",
+  "lesson": "creation",
+  "text": "What did God put in the sky to shine at night?",
+  "plain": "What did God put in the sky to shine at night?",
+  "words": []
+ },
+ {
+  "id": "creation.q4",
+  "lesson": "creation",
+  "text": "How did God make Adam?",
+  "plain": "How did God make Adam?",
+  "words": []
+ },
+ {
+  "id": "creation.q5",
+  "lesson": "creation",
+  "text": "Who gave names to all the animals?",
+  "plain": "Who gave names to all the animals?",
+  "words": []
+ },
+ {
+  "id": "creation.fin-1",
+  "lesson": "creation",
+  "text": "You did it! You learned how God made everything. Now let's pray with the sign of the cross. Tap the glowing dot.",
+  "plain": "You did it! You learned how God made everything. Now let's pray with the sign of the cross. Tap the glowing dot.",
+  "words": []
+ },
+ {
   "id": "L1-dec1.cover",
   "lesson": "L1-dec1",
   "text": "[[selam]]! Moses grew up in a king's palace in Egypt. He was kind and helped the poor. Today we see something amazing he saw on a mountain! Tap *Let's play*!",

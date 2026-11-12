@@ -1,4 +1,5 @@
-/* Plays every page of a lesson in a headless browser, with sound off, and reports pages that could not be finished.
+/* Plays every page of a lesson in a headless browser, with sound off, and reports pages that could not be finished
+   and spoken lines that have no recorded clip (NO CLIP).
    Usage: node tools/autoplay.js http://localhost:8765 L1-oct4 [more ids] */
 const {chromium}=require('playwright');
 (async()=>{
@@ -6,7 +7,7 @@ const {chromium}=require('playwright');
   for(const id of ids){
     const p=await b.newPage({viewport:{width:1000,height:800}}); const errs=[]; p.on('pageerror',e=>errs.push(e.message));
     await p.goto(`${base}/lesson.html?id=${id}`); await p.waitForTimeout(400);
-    await p.evaluate(()=>{ BKVoice.sound=false; });
+    await p.evaluate(()=>{ BKVoice.sound=false; window.__miss=new Set(); const o=BKVoice.say; BKVoice.say=(id,t)=>{ if(!(window.BK_AUDIO.lines||[]).includes(id)) window.__miss.add(id||'(no id) '+t); return o(id,t); }; });
     const n=await p.evaluate(()=>document.querySelectorAll('#dots i').length); const res=[];
     for(let i=1;i<n;i++){
       await p.evaluate(i=>BKgo(i),i); await p.waitForTimeout(300);
@@ -35,7 +36,8 @@ const {chromium}=require('playwright');
       }
       res.push(ok?'✓':'✗'+i); if(!ok) bad++; if(process.env.V) console.log(' page',i,ok?'ok':'STUCK',Math.round((Date.now()-t0)/1000)+'s');
     }
-    console.log(id,res.join(' '),errs.length?'ERR '+errs.join(' | '):''); await p.close();
+    const miss=await p.evaluate(()=>[...window.__miss]);
+    console.log(id,res.join(' '),errs.length?'ERR '+errs.join(' | '):'',miss.length?'NO CLIP: '+miss.join(', '):''); await p.close();
   }
   await b.close(); process.exit(bad?1:0);
 })();
