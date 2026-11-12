@@ -2537,7 +2537,10 @@ window.BK_CURR=[
 "1. What is the Holy Bible?",
 "2. What are the two major parts of the Holy Bible?",
 "3. In which book two groups of the Holy Bible do we find the history of creation?"
-]
+],
+"built": {
+"icon": "bible"
+}
 },
 {
 "id": "L3-sep3",
@@ -2563,7 +2566,10 @@ window.BK_CURR=[
 "Questions Who received the Ten Commandments from God? . What is the first commandment?",
 "Are the Ten Commandments in the Old Testament or the New Testament?",
 "Have you kept all the commandments? Which ones are hard to keep and why?"
-]
+],
+"built": {
+"icon": "scroll"
+}
 },
 {
 "id": "L3-oct1",
@@ -2586,7 +2592,10 @@ window.BK_CURR=[
 "What is the first thing Noah did when he came out of the Ark? Did God like what Noah did? Why?",
 "What was the covenant God made with Noah? What sign did He give Noah as a sign of the covenant?",
 "What is the book of the Bible, which has the story of Noah?"
-]
+],
+"built": {
+"icon": "rainbow"
+}
 },
 {
 "id": "L3-oct2",
@@ -2608,7 +2617,10 @@ window.BK_CURR=[
 "Why did Sarah laugh when God said that He would give Abraham a son from Sarah?",
 "What did God ask Abraham to sacrifice? Did Abraham obey? Why?",
 "What kind of a child was Isaac? Was he obedient to his parents?"
-]
+],
+"built": {
+"icon": "star"
+}
 },
 {
 "id": "L3-oct3",
@@ -2657,7 +2669,10 @@ window.BK_CURR=[
 "What did he ask the woman? Did she give him what he asked?",
 "What did he thank God for?",
 "On which book of the Bible do you find the story of Isaac & Rebecca?"
-]
+],
+"built": {
+"icon": "jar"
+}
 },
 {
 "id": "L3-nov1",
@@ -2680,7 +2695,10 @@ window.BK_CURR=[
 "How did Esau feel about his birthright?",
 "Do you get blessings from your parents, your grand parents? What about from the priest at church?",
 "Do you do certain things to get a blessing from your parents? Can you give example?"
-]
+],
+"built": {
+"icon": "pot"
+}
 },
 {
 "id": "L3-nov2",
@@ -2708,7 +2726,10 @@ window.BK_CURR=[
 "Why did Jacob move to Egypt with his family?",
 "How many years did the descendants of Jacob leave in Egypt?",
 "Was Jacob a patient person? Was he forgiving? Was he a faithful in his service? Explain."
-]
+],
+"built": {
+"icon": "ladder"
+}
 },
 {
 "id": "L3-nov3",
@@ -2733,7 +2754,10 @@ window.BK_CURR=[
 "Who was the angel who protected and helped the Israelites in their journey from Egypt to the Jerusalem?",
 "Why is Jerusalem called the promise land?",
 "Is there an icon inside our church that shows the Archangel Michael helping the Israelites? Can you describe it?"
-]
+],
+"built": {
+"icon": "waterWall"
+}
 },
 {
 "id": "L3-nov4",
@@ -2755,7 +2779,10 @@ window.BK_CURR=[
 "What was Joseph's response when Potiphar's wife spoke to him again and again to sin with her?",
 "Do you have friends who ask you to do something you don't want to do? How do you respond?",
 "5. How did God reward Joseph for being loyal, faithful, obedient and humble?"
-]
+],
+"built": {
+"icon": "coat"
+}
 },
 {
 "id": "L3-dec1",
@@ -2777,7 +2804,10 @@ window.BK_CURR=[
 "Who gave the Virgin Mary food when she was living in the temple?",
 "Why was the Virgin Mary engaged to Joseph?",
 "6. For next week, ask one of the priests the name of the angel who gave her food and drink when the Virgin Mary first came to the temple."
-]
+],
+"built": {
+"icon": "temple"
+}
 },
 {
 "id": "L3-dec2",
@@ -2801,7 +2831,10 @@ window.BK_CURR=[
 "What did Moses say, when God told him that He would send him to free the people of Israel from their bondage in Egypt?",
 "Why did God hearken his heart after he decided to destroy the Israelites because of their repeated sins against Him?",
 "Who replaced Moses when he died to lead Israel into the promise land?"
-]
+],
+"built": {
+"icon": "moses"
+}
 },
 {
 "id": "L3-dec3",
@@ -2824,7 +2857,10 @@ window.BK_CURR=[
 "What is the miracle of Joshua, which the Bible said the following about: There has been no day like this, that the Lord heeded the voice of man?",
 "What did Joshua tell the Israelites after he divided the land among them?",
 "How old was Joshua when he died?"
-]
+],
+"built": {
+"icon": "covenantArk"
+}
 },
 {
 "id": "L3-dec4",
@@ -2852,7 +2888,10 @@ window.BK_CURR=[
 "What did the Archangel tell Joseph to do after Jesus Christ was born? Why?",
 "Why did God choose the Archangel Gabriel to announce the birth of Jesus Christ to Virgin Mary?",
 "Describe the two kinds of icons we have inside the church? Ask your parents or the priest for the story of the icons."
-]
+],
+"built": {
+"icon": "gabriel"
+}
 },
 {
 "id": "L3-jan1",
@@ -2874,7 +2913,10 @@ window.BK_CURR=[
 "Who brought the news of the birth of a savior to shepherds?",
 "What did the shepherds hear the angels sing?",
 "6. Do you give presents to your friends on their birthdays? What about to Jesus Christ?"
-]
+],
+"built": {
+"icon": "manger"
+}
 },
 {
 "id": "L3-jan2",
@@ -2896,7 +2938,10 @@ window.BK_CURR=[
 "Where did Simeon see the fulfillment of the prophecy on the book of the prophet Isaiah?",
 "Who else was in the temple when the Virgin Mary and Joseph brought our Lord, the Baby Jesus into the Temple? What was she doing in the temple?",
 "When did the Virgin Mary and Joseph bring Jesus Christ to the Temple?"
-]
+],
+"built": {
+"icon": "babyJesus"
+}
 },
 {
 "id": "L3-jan3",
@@ -2925,7 +2970,10 @@ window.BK_CURR=[
 "Why was Jesus Christ baptized?",
 "Why do we get baptized?",
 "At what age do we get baptized? Do you remember you baptismal names?"
-]
+],
+"built": {
+"icon": "dove"
+}
 },
 {
 "id": "L3-jan4",
@@ -2947,7 +2995,10 @@ window.BK_CURR=[
 "How did John the Baptist know Jesus Christ when he saw Him?",
 "Why did he criticize king Herod?",
 "Was John the Baptist afraid of telling the truth? Do always tell the truth?"
-]
+],
+"built": {
+"icon": "johnBaptist"
+}
 },
 {
 "id": "L3-feb1",
@@ -2968,7 +3019,10 @@ window.BK_CURR=[
 "What did John the Baptist say, when he saw Jesus Christ?",
 "Name all the disciples of Jesus Christ from this lesson.",
 "Who wrote about Jesus Christ before he came?"
-]
+],
+"built": {
+"icon": "net"
+}
 },
 {
 "id": "L3-feb2",
@@ -2989,7 +3043,10 @@ window.BK_CURR=[
 "Are we supposed to hate sinners? What about sin?",
 "Write the names of the 12 disciples?",
 "Which of the 12 chosen disciples deny Jesus Christ?"
-]
+],
+"built": {
+"icon": "table"
+}
 },
 {
 "id": "L3-feb3",
@@ -3018,7 +3075,10 @@ window.BK_CURR=[
 "What did he tell the court, when asked about the accusations against him?",
 "What did St Stephen see, when he looked up?",
 "What were the last words of St. Stephen as he was stoned to death?"
-]
+],
+"built": {
+"icon": "stone"
+}
 },
 {
 "id": "L3-len1",
