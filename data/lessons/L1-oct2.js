@@ -3,7 +3,7 @@ BKLesson({
  id:'L1-oct2', title:'The Power of the Cross', am:'ቅዱስ ጊዮርጊስ', sticker:'shield',
  pages:[
   {game:'cover', bg:'day', title:'The Power of the Cross', am:'የመስቀል ኃይል',
-   props:[{art:'horse',x:470,y:410,s:.9,anim:'bob'},{art:'george',x:270,y:425,s:.7},{art:'cross',x:600,y:200,s:1.2,anim:'bob'}],
+   props:[{art:'stGeorge',x:610,y:445,s:.82},{art:'cross',x:140,y:210,s:1.1,anim:'bob'}],
    say:['cover','[[selam]]! Do you remember how to make the sign of the cross? Today we learn how powerful it is! Tap *Let\'s play*!'],
    parent:'<p>This lesson follows Level I, October week 2: <b>The Power of the Cross</b>, a story from the Synaxarium about Saint George (Kidus Giyorgis).</p>'},
 
