@@ -10,9 +10,13 @@ const C={gold:'#E2A62B',goldD:'#C98A12',red:'#B3322A',green:'#2F7A4E',blue:'#244
 /* ---------- shared bits ---------- */
 function eyes(y=0,sp=10,r=3.6){return `<path d="M${-sp-8} ${y} Q${-sp} ${y-7} ${-sp+8} ${y} Q${-sp} ${y+5} ${-sp-8} ${y}Z" fill="#fff"/><path d="M${sp-8} ${y} Q${sp} ${y-7} ${sp+8} ${y} Q${sp} ${y+5} ${sp-8} ${y}Z" fill="#fff"/><circle cx="${-sp+1}" cy="${y}" r="${r}" fill="#111"/><circle cx="${sp+1}" cy="${y}" r="${r}" fill="#111"/><circle cx="${-sp+2}" cy="${y-1.4}" r="1" fill="#fff"/><circle cx="${sp+2}" cy="${y-1.4}" r="1" fill="#fff"/><path d="M${-sp-8} ${y-8} Q${-sp} ${y-13} ${-sp+8} ${y-8} M${sp-8} ${y-8} Q${sp} ${y-13} ${sp+8} ${y-8}" stroke="#24160F" stroke-width="2.2" fill="none" stroke-linecap="round"/>`}
 function cross(color=C.gold,accent=C.red){
-  let s='';
-  for(let a=0;a<4;a++) s+=`<g transform="rotate(${a*90})"><rect x="-6" y="-40" width="12" height="32" rx="2" fill="${color}"/><circle cx="0" cy="-42" r="7" fill="${color}"/><circle cx="-9" cy="-35" r="5" fill="${color}"/><circle cx="9" cy="-35" r="5" fill="${color}"/><circle cx="0" cy="-42" r="2.4" fill="${accent}"/><path d="M-20 -20 L-8 -8" stroke="${color}" stroke-width="4" stroke-linecap="round"/></g>`;
-  return s+`<rect x="-11" y="-11" width="22" height="22" transform="rotate(45)" fill="${color}"/><circle r="5" fill="${accent}"/>`;
+  /* Ethiopian hand/processional cross, same design as the style guide: open lattice drawn as a bold line,
+     a ring at the centre, budded arm ends and four small rings between the arms. */
+  const arm=`<rect x="-5.2" y="-34" width="10.4" height="21" rx="2.5"/><circle cy="-41.5" r="6.8"/><circle cx="-9" cy="-31" r="3.8"/><circle cx="9" cy="-31" r="3.8"/><path d="M0 -30 v10"/>`;
+  let s=`<g fill="none" stroke="${color}" stroke-width="3.6" stroke-linejoin="round">`;
+  for(let a=0;a<4;a++) s+=`<g transform="rotate(${a*90})">${arm}</g>`;
+  s+=`<circle r="12.5"/>${[[1,1],[1,-1],[-1,1],[-1,-1]].map(([x,y])=>`<circle cx="${x*18}" cy="${y*18}" r="3.4"/>`).join('')}</g>`;
+  return s+`<path d="M0 -6.5 L6.5 0 L0 6.5 L-6.5 0Z" fill="${accent}"/>`;
 }
 const hemBand=(w,y,c1=C.gold,c2=C.red)=>`<rect x="${-w}" y="${y-12}" width="${w*2}" height="12" fill="${c2}"/><path d="M${-w} ${y-6} ${Array.from({length:Math.ceil(w/6)},(_,i)=>`L${-w+i*12+6} ${y-11} L${-w+i*12+12} ${y-6}`).join(' ')}" stroke="${c1}" stroke-width="2.4" fill="none"/>`;
 
@@ -137,7 +141,11 @@ const dragon=()=>`<path d="M60 -20 Q120 -10 140 -50 Q150 -70 170 -60" stroke="#4
  <path d="M-10 -58 Q-30 -120 30 -130 Q10 -110 20 -80Z" fill="#7DB04E" opacity=".9"/>
  ${[-30,-4,40,60].map(x=>`<rect x="${x}" y="-6" width="14" height="34" rx="6" fill="#4E7A2E"/>`).join('')}
  <path d="M-46 -44 Q-74 -60 -84 -40 Q-100 -40 -104 -24 Q-90 -12 -54 -18Z" fill="#5E9A3A"/><circle cx="-78" cy="-44" r="5" fill="#FFE18A"/><circle cx="-78" cy="-44" r="2.4" fill="#111"/><path d="M-102 -26 L-80 -24" stroke="#2A3A1A" stroke-width="2"/>`;
-const fish=(o={})=>`<ellipse rx="26" ry="13" fill="${o.c||'#3C8DD8'}"/><path d="M22 0 L42 -15 L42 15Z" fill="${o.c||'#3C8DD8'}"/><circle cx="-14" cy="-3" r="3.4" fill="#111"/><path d="M-2 -10 Q4 0 -2 10" stroke="#ffffff88" stroke-width="2" fill="none"/>`;
+const fish=(o={})=>{const c=o.c||'#3C8DD8';return `<path d="M22 0 L42 -16 Q38 0 42 16Z" fill="${c}"/><path d="M-2 -13 Q6 -21 14 -12Z M0 13 Q6 18 11 11Z" fill="${C.gold}"/>
+ <path d="M-30 0 Q-16 -16 6 -14 Q22 -10 26 0 Q22 10 6 14 Q-16 16 -30 0Z" fill="${c}"/>
+ <path d="M-6 -8 q4 8 0 16 M2 -9 q4 9 0 18 M10 -8 q4 8 0 16" stroke="#ffffff70" stroke-width="1.8" fill="none"/>
+ <path d="M-14 -9 Q-10 0 -14 9" stroke="#18234F55" stroke-width="1.8" fill="none"/>
+ <path d="M-25 -2 Q-21 -6 -17 -2 Q-21 1 -25 -2Z" fill="#FFF8EA" stroke="#2B1B10" stroke-width="1"/><circle cx="-21" cy="-2" r="1.7" fill="#111"/>`};
 const bird=(o={})=>`<g class="flap"><path d="M-32 -6 Q-15 -26 0 -2 Q15 -26 32 -6 Q15 -12 0 6 Q-15 -12 -32 -6Z" fill="${o.c||'#F4EEDF'}"/></g><circle r="5.5" fill="${o.c||'#F4EEDF'}"/>`;
 const dove=(o={})=>`<path d="M-30 0 Q-10 -24 20 -12 L40 -20 L34 -6 Q20 12 -10 10Z" fill="#FFFFFF" stroke="#D8DCE6" stroke-width="2"/><path d="M-6 -6 Q8 -40 30 -36 Q18 -14 4 -2Z" fill="#EEF1F7" stroke="#D8DCE6" stroke-width="2"/><circle cx="-18" cy="-6" r="2.4" fill="#111"/><path d="M-30 -2 L-38 2 L-30 4Z" fill="${C.gold}"/>${o.leaf?`<path d="M-38 2 Q-52 -6 -58 6 Q-48 12 -38 2Z" fill="#5E9A3A"/>`:''}`;
 const raven=()=>`<path d="M-30 0 Q-10 -24 20 -12 L40 -20 L34 -6 Q20 12 -10 10Z" fill="#1E1E28"/><path d="M-6 -6 Q8 -40 30 -36 Q18 -14 4 -2Z" fill="#2A2A36"/><circle cx="-18" cy="-6" r="2.4" fill="#fff"/><path d="M-30 -4 L-42 2 L-30 4Z" fill="#555"/>`;
@@ -170,11 +178,19 @@ const stone=(o={})=>`<path d="M-30 0 Q-34 -26 -10 -30 Q20 -34 30 -16 Q36 0 30 0Z
 const pillar=()=>`<path d="M-24 0 L-20 -90 Q0 -100 20 -90 L24 0Z" fill="#8A8478"/><path d="M-20 -90 Q0 -80 20 -90" stroke="#B9B3A6" stroke-width="3" fill="none"/><path d="M-10 -86 Q0 -80 10 -86" stroke="${C.gold}" stroke-width="5" fill="none"/>`;
 const tent=()=>`<path d="M-110 0 L0 -120 L110 0Z" fill="#6E4A2E"/><path d="M-110 0 L0 -120 L-60 0Z" fill="#8A5E3A"/><path d="M0 -120 L-18 0 L18 0Z" fill="#2A1A10"/>${[-80,-40,40,80].map(x=>`<path d="M${x} ${-Math.abs(x)*-0+(-120+Math.abs(x)*1.09)} L${x} ${-120+Math.abs(x)*1.09+4}" stroke="${C.gold}" stroke-width="3"/>`).join('')}<path d="M-110 -6 L110 -6" stroke="${C.gold}" stroke-width="4"/><path d="M-110 -12 L110 -12" stroke="${C.red}" stroke-width="3"/>`;
 const tukul=()=>`<rect x="-70" y="-80" width="140" height="80" fill="#C9A26A"/><path d="M-70 -40 H70" stroke="#A8824E" stroke-width="3"/><path d="M-90 -76 L0 -170 L90 -76Z" fill="#D9B45E"/><path d="M-90 -76 L0 -170 L90 -76" stroke="#B08A3C" stroke-width="4" fill="none"/>${[-60,-30,0,30,60].map(x=>`<path d="M${x*1.2} -78 L0 -168" stroke="#B08A3C" stroke-width="2"/>`).join('')}<rect x="-18" y="-56" width="36" height="56" rx="16" fill="#3A2416"/><g transform="translate(0 -178) scale(.3)">${cross(C.gold,C.red)}</g>`;
-const church=()=>`<rect x="-120" y="-110" width="240" height="110" fill="#F4E7CB"/>${[-90,-50,50,90].map(x=>`<rect x="${x-10}" y="-84" width="20" height="34" rx="10" fill="#24418F"/>`).join('')}
- <rect x="-28" y="-80" width="56" height="80" rx="28" fill="#B3322A"/><path d="M-28 -50 H28" stroke="${C.gold}" stroke-width="3"/>
- <path d="M-140 -106 L0 -200 L140 -106Z" fill="#2F7A4E"/><path d="M-140 -106 H140" stroke="${C.gold}" stroke-width="6"/>
- <rect x="-34" y="-250" width="68" height="64" fill="#F4E7CB"/><path d="M-44 -246 L0 -290 L44 -246Z" fill="#2F7A4E"/><rect x="-10" y="-236" width="20" height="30" rx="10" fill="#24418F"/>
- <g transform="translate(0 -318) scale(.5)">${cross(C.gold,C.red)}</g><rect x="-3" y="-296" width="6" height="12" fill="${C.gold}"/>`;
+const church=()=>{
+  const eggs=[0,1,2,3,4].map(i=>`<ellipse cx="0" cy="${-262-i*13}" rx="6" ry="7.5" fill="#FFFDF6" stroke="#8A6A3A" stroke-width="1.6"/>`).join('');
+  return `<rect x="-130" y="-8" width="260" height="10" rx="4" fill="#9A7A56"/>
+ <path d="M-120 0 V-112 H120 V0 Q0 14 -120 0Z" fill="#F4E7CB"/><path d="M-120 0 V-112 H-102 V3Z M120 0 V-112 H102 V3Z" fill="#E3CFA6"/>
+ <path d="M-120 -112 H120 V-96 H-120Z" fill="${C.red}"/>${[...Array(20)].map((_,i)=>`<path d="M${-118+i*12} -104 l6 -6 l6 6 l-6 6Z" fill="${C.gold}"/>`).join('')}
+ ${[-88,-52,52,88].map(x=>`<path d="M${x-10} -50 V-74 Q${x} -88 ${x+10} -74 V-50Z" fill="${C.blue}"/><path d="M${x-12} -50 H${x+12}" stroke="${C.gold}" stroke-width="3"/>`).join('')}
+ <path d="M-26 2 V-62 Q0 -88 26 -62 V2Z" fill="${C.red}"/><path d="M0 -76 V2" stroke="#7E1F19" stroke-width="2"/><path d="M-26 -62 Q0 -88 26 -62" stroke="${C.gold}" stroke-width="4" fill="none"/>
+ <g transform="translate(0 -40) scale(.32)">${cross(C.gold,C.red)}</g>
+ <path d="M-150 -108 L-58 -176 H58 L150 -108 Q0 -96 -150 -108Z" fill="${C.green}"/><path d="M-150 -108 Q0 -96 150 -108" stroke="${C.gold}" stroke-width="5" fill="none"/>
+ <path d="M-58 -176 H58 V-196 H-58Z" fill="#F4E7CB"/>${[-36,-12,12,36].map(x=>`<rect x="${x-5}" y="-192" width="10" height="13" rx="5" fill="${C.blue}"/>`).join('')}
+ <path d="M-74 -194 L0 -246 L74 -194 Q0 -186 -74 -194Z" fill="${C.green}"/><path d="M-74 -194 Q0 -186 74 -194" stroke="${C.gold}" stroke-width="4" fill="none"/>
+ <path d="M0 -246 V-322" stroke="${C.gold}" stroke-width="4"/>${eggs}
+ <g transform="translate(0 -338) scale(.42)">${cross(C.gold,C.red)}</g>`};
 const pyramid=()=>`<path d="M-140 0 L0 -150 L140 0Z" fill="#D9A04A"/><path d="M0 -150 L140 0 L40 0Z" fill="#B8823A"/>`;
 const cityWall=()=>`<rect x="-200" y="-90" width="400" height="90" fill="#C9A26A"/>${[...Array(10)].map((_,i)=>`<rect x="${-200+i*42}" y="-110" width="24" height="22" fill="#C9A26A"/>`).join('')}<rect x="-30" y="-70" width="60" height="70" rx="30" fill="#5A3E26"/><rect x="-160" y="-170" width="70" height="90" fill="#B8915A"/><rect x="100" y="-150" width="60" height="70" fill="#B8915A"/><path d="M-170 -170 L-125 -210 L-80 -170Z" fill="${C.red}"/>`;
 const pot=(o={})=>`<path d="M-26 0 Q-40 -30 -24 -50 L-14 -60 L14 -60 L24 -50 Q40 -30 26 0Z" fill="${o.c||'#A8582E'}"/><path d="M-18 -60 H18" stroke="#6B3418" stroke-width="5"/><path d="M-30 -30 H30" stroke="#E2A62B" stroke-width="3"/>${o.steam?`<path class="steam" d="M-8 -66 Q-14 -80 -6 -92 M8 -66 Q2 -82 10 -94" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" opacity=".8"/>`:''}`;
@@ -185,7 +201,10 @@ const shield=()=>`<ellipse cy="-40" rx="32" ry="44" fill="${C.red}"/><ellipse cy
 const sandals=()=>`<ellipse cx="-16" cy="-6" rx="11" ry="22" fill="#8A5A30" transform="rotate(-8)"/><ellipse cx="16" cy="-6" rx="11" ry="22" fill="#8A5A30" transform="rotate(8)"/><path d="M-24 -12 H-8 M8 -12 H24" stroke="#5A3418" stroke-width="3"/>`;
 const star=(o={})=>{const r=o.r||12,c=o.c||'#FFF3C4';return `<path d="M0 ${-r} L${r*.3} ${-r*.3} L${r} 0 L${r*.3} ${r*.3} L0 ${r} L${-r*.3} ${r*.3} L${-r} 0 L${-r*.3} ${-r*.3}Z" fill="${c}"/>`;};
 const bigStar=()=>`<g class="twinkle">${star({r:34,c:'#FFE18A'})}</g><path d="M0 30 L0 200" stroke="#FFE18A" stroke-width="3" opacity=".5"/>`;
-const sun=()=>{let r='';for(let i=0;i<12;i++)r+=`<rect x="-4" y="-78" width="8" height="24" rx="4" fill="#F6B92B" transform="rotate(${i*30})"/>`;return `${r}<circle r="44" fill="#FFD25A"/><circle r="34" fill="#FFE18A"/><circle cx="-12" cy="-4" r="4" fill="#7A4A10"/><circle cx="12" cy="-4" r="4" fill="#7A4A10"/><path d="M-12 10 Q0 20 12 10" stroke="#7A4A10" stroke-width="3" fill="none" stroke-linecap="round"/>`};
+const sun=()=>{let r='';for(let i=0;i<16;i++){const l=i%2?62:76;r+=`<path d="M-7 -44 L0 ${-l} L7 -44Z" fill="${i%2?C.red:'#E0A11B'}" transform="rotate(${i*22.5})"/>`;}
+ return `${r}<circle r="46" fill="${C.red}"/><circle r="40" fill="#F2B632"/><circle r="40" fill="none" stroke="#FBD878" stroke-width="2" stroke-dasharray="3 5"/>
+ <path d="M-22 -6 Q-14 -15 -5 -6 Q-14 -1 -22 -6Z M22 -6 Q14 -15 5 -6 Q14 -1 22 -6Z" fill="#FFF8EA" stroke="#5A2E0E" stroke-width="1.6"/><circle cx="-13" cy="-6" r="3" fill="#2B1B10"/><circle cx="13" cy="-6" r="3" fill="#2B1B10"/>
+ <path d="M-24 -14 Q-14 -22 -4 -15 Q0 -12 0 -6 V10 M24 -14 Q14 -22 4 -15 Q0 -12 0 -6" stroke="#5A2E0E" stroke-width="2" fill="none" stroke-linecap="round"/><path d="M-8 20 Q0 25 8 20" stroke="#8A2A1A" stroke-width="2.6" fill="none" stroke-linecap="round"/>`};
 const moon=()=>`<path d="M8 -44 A44 44 0 1 0 8 44 A58 58 0 0 1 8 -44Z" fill="#FFF1C2"/><circle cx="-22" cy="-8" r="3.6" fill="#8A7A4A"/><path d="M-28 10 Q-21 17 -14 10" stroke="#8A7A4A" stroke-width="2.6" fill="none" stroke-linecap="round"/>`;
 const fire=()=>`<path d="M-30 0 L30 0 M-24 -6 L24 6 M24 -6 L-24 6" stroke="#6B4423" stroke-width="8" stroke-linecap="round"/><g class="flicker"><path d="M-22 -4 Q-30 -40 0 -76 Q30 -40 22 -4Z" fill="#F08A3C"/><path d="M-12 -4 Q-14 -30 0 -50 Q14 -30 12 -4Z" fill="#FFE18A"/></g>`;
 const kebero=()=>`<path d="M-50 -90 L50 -90 L40 0 L-40 0Z" fill="#8A4A20"/><ellipse cy="-90" rx="50" ry="14" fill="#E9D8B4" stroke="#6B3418" stroke-width="3"/><ellipse rx="40" ry="10" fill="#6B3418"/>${[-36,-18,0,18,36].map(x=>`<path d="M${x} -78 L${x*.8} -6" stroke="#E9D8B4" stroke-width="2.4"/>`).join('')}<path d="M-46 -60 H46" stroke="${C.gold}" stroke-width="5"/><path d="M-43 -40 H43" stroke="${C.red}" stroke-width="5"/>`;
@@ -201,11 +220,17 @@ const sparkles=()=>[[-40,-30],[30,-50],[50,10],[-20,30],[0,-70]].map(([x,y],i)=>
 
 const manger=(o={})=>`<path d="M-70 -50 L70 -50 L56 0 L-56 0Z" fill="#8A5A30"/><path d="M-60 -30 L60 -30" stroke="#6B4423" stroke-width="4"/>${[-60,-30,0,30,60].map(x=>`<path d="M${x} -50 L${x*1.1} -70" stroke="#E3C45A" stroke-width="5" stroke-linecap="round"/>`).join('')}<path d="M-66 -52 Q0 -66 66 -52" stroke="#E3C45A" stroke-width="10" fill="none"/>${o.baby?`<g transform="translate(0 -56) scale(1.2)">${baby({crossHalo:true})}</g>`:''}`;
 const stable=()=>`<path d="M-200 0 L-200 -180 L0 -260 L200 -180 L200 0Z" fill="#6E4A2E"/><path d="M-160 0 L-160 -160 L160 -160 L160 0Z" fill="#2A1A10"/><path d="M-220 -176 L0 -270 L220 -176" stroke="#8A6038" stroke-width="16" fill="none" stroke-linecap="round"/>`;
-const jar=(o={})=>`<path d="M-30 0 Q-44 -50 -26 -86 L-20 -96 L20 -96 L26 -86 Q44 -50 30 0Z" fill="#A9A49A" stroke="#7E796E" stroke-width="3"/><path d="M-24 -96 H24" stroke="#7E796E" stroke-width="6"/>${o.fill?`<ellipse cy="-92" rx="18" ry="5" fill="${o.fill}"/>`:''}`;
+const jar=(o={})=>`<path d="M-12 -86 Q-14 -70 -26 -62 Q-48 -46 -42 -20 Q-34 0 0 2 Q34 0 42 -20 Q48 -46 26 -62 Q14 -70 12 -86Z" fill="#B0623A"/>
+ <path d="M-34 -50 Q-44 -36 -38 -20" stroke="#C97A4E" stroke-width="4" fill="none" stroke-linecap="round"/>
+ <path d="M-40 -42 H40" stroke="#7A3A1E" stroke-width="3"/>${[...Array(10)].map((_,i)=>`<path d="M${-36+i*8} -42 l4 7 l4 -7" stroke="#7A3A1E" stroke-width="2" fill="none"/>`).join('')}
+ <path d="M-16 -92 H16 L12 -86 H-12Z" fill="#7A3A1E"/>${o.fill?`<ellipse cy="-91" rx="13" ry="3.6" fill="${o.fill}"/>`:''}`;
 const net=(o={})=>`<path d="M-90 -60 Q0 30 90 -60" stroke="#C9A26A" stroke-width="4" fill="#C9A26A33"/>${[-60,-30,0,30,60].map(x=>`<path d="M${x} -58 L${x*.6} ${-20+Math.abs(x)*-.3}" stroke="#C9A26A" stroke-width="2"/>`).join('')}${o.full?[[-40,-30],[0,-14],[40,-30],[-20,-40],[22,-44],[0,-50]].map(([a,b],i)=>`<g transform="translate(${a} ${b}) scale(.6)">${fish({c:['#3C8DD8','#E2A62B','#C2272D'][i%3]})}</g>`).join(''):''}`;
 const rockWater=(o={})=>`<path d="M-80 0 Q-96 -80 -40 -110 Q20 -130 70 -90 Q100 -50 86 0Z" fill="#9A8A74"/><path d="M-40 -80 Q0 -96 40 -76" stroke="#B9AC98" stroke-width="5" fill="none"/>${o.water?`<path d="M0 -70 Q-10 -30 -30 0 Q-60 20 -140 26 L-140 40 Q-40 36 10 0 Q14 -40 14 -70Z" fill="#7CC4F0" class="flow"/><path d="M-6 -60 Q-12 -20 -40 6" stroke="#fff" stroke-width="3" fill="none" opacity=".8"/>`:''}`;
 const manna=()=>[[-14,-4],[6,-10],[16,2],[-4,8],[-20,10],[12,12]].map(([a,b])=>`<ellipse cx="${a}" cy="${b}" rx="6" ry="4" fill="#FFFDF4" stroke="#E7DFC6" stroke-width="1.5"/>`).join('');
-const basket=()=>`<path d="M-50 -40 L50 -40 L40 0 L-40 0Z" fill="#C9A26A"/>${[-34,-14,6,26].map(x=>`<path d="M${x} -40 L${x+6} 0" stroke="#A8824E" stroke-width="3"/>`).join('')}<path d="M-50 -40 Q0 -100 50 -40" stroke="#A8824E" stroke-width="6" fill="none"/>`;
+const basket=()=>`<path d="M-52 -42 Q-54 -8 -30 0 H30 Q54 -8 52 -42Z" fill="#D8B56E"/>${[-34,-8,-2].map(y=>`<path d="M-51 ${y} Q0 ${y+4} 51 ${y}" stroke="#B8924E" stroke-width="1.6" fill="none"/>`).join('')}
+ <path d="M-52 -30 Q0 -26 52 -30 L51 -16 Q0 -12 -51 -16Z" fill="${C.red}"/>${[...Array(9)].map((_,i)=>`<path d="M${-44+i*11} -18 l5.5 -9 l5.5 9Z" fill="${C.gold}"/>`).join('')}
+ <path d="M-46 -8 Q0 -4 46 -8" stroke="${C.green}" stroke-width="4" fill="none"/>
+ <path d="M-56 -42 H56" stroke="#A8824E" stroke-width="7" stroke-linecap="round"/><path d="M-54 -42 H54" stroke="${C.red}" stroke-width="2.4" stroke-dasharray="5 5"/>`;
 const waterWall=(o={})=>`<rect x="-210" y="-330" width="420" height="330" fill="#2B78B8"/><rect x="-210" y="-330" width="420" height="30" fill="#5AA0D8"/>${[...Array(9)].map((_,i)=>`<path d="M-200 ${-290+i*34} q25 -10 50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0 t50 0" stroke="#ffffff40" stroke-width="3" fill="none"/>`).join('')}`;
 const pool=()=>`<ellipse rx="150" ry="36" fill="#9A8A74"/><ellipse rx="130" ry="26" fill="#5AA0D8"/><path d="M-80 -4 q20 -8 40 0 t40 0 t40 0" stroke="#fff" stroke-width="3" fill="none" opacity=".7"/>`;
 const crowd=()=>[[-60,'#2F7A4E'],[0,'#B3322A'],[60,'#24418F']].map(([x,c],i)=>`<g transform="translate(${x} ${i%2?6:0}) scale(.45)">${figure({robe:c,arms:i===1?'up':'down',netela:i===1?C.gold:null})}</g>`).join('');
