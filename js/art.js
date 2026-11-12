@@ -236,6 +236,70 @@ const pool=()=>`<ellipse rx="150" ry="36" fill="#9A8A74"/><ellipse rx="130" ry="
 const crowd=()=>[[-60,'#2F7A4E'],[0,'#B3322A'],[60,'#24418F']].map(([x,c],i)=>`<g transform="translate(${x} ${i%2?6:0}) scale(.45)">${figure({robe:c,arms:i===1?'up':'down',netela:i===1?C.gold:null})}</g>`).join('');
 
 /* ---------- registry ---------- */
+/* ---------- St George (Kidus Giyorgis) on his white horse, as on Ethiopian church walls ---------- */
+const serpent=(o={})=>{ /* Ethiopian-icon dragon: a long scaled serpent with small wings. Head at (0,0) facing left, body trailing right. */
+  const g=o.c||'#3E7B3A', d='#24502A', belly='#D9C27A';
+  const body=o.body||`M0 0 Q30 30 80 18 Q130 4 150 34 Q170 64 220 50 Q262 36 270 8 Q276 -16 256 -22`;
+  return `<path d="${body}" stroke="${d}" stroke-width="34" fill="none" stroke-linecap="round"/><path d="${body}" stroke="${g}" stroke-width="28" fill="none" stroke-linecap="round"/>
+ <path d="${body}" stroke="${belly}" stroke-width="5" fill="none" stroke-dasharray="2 9" stroke-linecap="round" transform="translate(0 9)"/>
+ <path d="${body}" stroke="#7FB04E" stroke-width="2.4" fill="none" stroke-dasharray="7 7"/>
+ ${o.body?'':[[60,14],[100,8],[140,22],[188,56],[232,44]].map(([x,y])=>`<path d="M${x-9} ${y-12} L${x} ${y-30} L${x+9} ${y-12}Z" fill="${C.red}"/>`)
+.join('')}${o.body?'':`<path d="M110 4 Q96 -46 140 -64 Q132 -40 150 -36 Q140 -20 150 -8 Q128 -4 120 8Z" fill="#5E9A3A" stroke="${d}" stroke-width="3"/>
+ <path d="M116 -2 Q112 -34 136 -52 M124 2 Q126 -20 144 -24" stroke="${d}" stroke-width="2" fill="none"/>`}
+ <path d="M18 -6 Q4 -30 -24 -24 Q-44 -20 -50 -8 Q-36 -4 -26 0 Q-44 6 -46 16 Q-20 22 10 14Z" fill="${g}" stroke="${d}" stroke-width="3"/>
+ <path d="M-50 -8 Q-36 -4 -26 0 Q-44 6 -46 16" fill="${C.red}"/>
+ ${o.tongue!==false?`<path d="M-48 4 L-70 0 M-60 1 L-72 -8 M-60 1 L-72 10" stroke="${C.red}" stroke-width="3" stroke-linecap="round"/>`:''}
+ <path d="M-12 -18 Q-4 -24 4 -18 Q-4 -13 -12 -18Z" fill="#F6D24A" stroke="${d}" stroke-width="1.5"/><circle cx="-4" cy="-18" r="2.2" fill="#111"/>
+ <path d="M2 -24 L14 -40 L12 -22 M-6 -24 L0 -42 L4 -24" fill="${C.red}" stroke="${d}" stroke-width="1.5"/>
+ ${o.body?'':`<path d="M266 -20 Q290 -40 278 -58" stroke="${g}" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M272 -60 L288 -66 L280 -50Z" fill="${C.red}"/>`}`;
+};
+const dragonNew=(o={})=>`<g transform="translate(-140 -82)">${serpent(o)}</g>`;
+const gondarFace=(skin=C.skin)=>`<ellipse rx="15" ry="18" fill="${skin}" stroke="#2B1B10" stroke-width="1.6"/>
+ <path d="M-12 -3 Q-6.5 -9.5 -1.5 -3 Q-6.5 1.5 -12 -3Z M12 -3 Q6.5 -9.5 1.5 -3 Q6.5 1.5 12 -3Z" fill="#FFF8EA" stroke="#2B1B10" stroke-width="1.2"/>
+ <circle cx="-6.3" cy="-3.4" r="2.3" fill="#2B1B10"/><circle cx="6.3" cy="-3.4" r="2.3" fill="#2B1B10"/>
+ <path d="M-13 -8 Q-7 -13 -1.5 -9 Q0 -6 0 -2 V6 Q-1 8 -3 8 M13 -8 Q7 -13 1.5 -9 Q0 -6 0 -2" stroke="#2B1B10" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+ <path d="M-4 12 Q0 14 4 12" stroke="#7A2A1A" stroke-width="2" fill="none" stroke-linecap="round"/>`;
+const stGeorge=(o={})=>{
+  const W='#F7F2E6', Wd='#D8CDB8', strike=o.strike!==false;
+  /* spear runs from behind the rider's shoulder down to the dragon's mouth */
+  const sx1=-62, sy1=-334, sx2=strike?126:150, sy2=strike?-62:-110;
+  const horse=`
+  <path d="M-86 -122 Q-124 -110 -126 -60 Q-118 -84 -104 -88 Q-112 -60 -100 -40 Q-96 -76 -84 -96Z" fill="${W}" stroke="${Wd}" stroke-width="2"/>
+  ${['M-60 -96 L-74 -46 L-68 -10','M-34 -94 L-36 -48 L-26 -10','M48 -96 L58 -48 L52 -10','M70 -104 L104 -126 L112 -92'].map(d=>`<path d="${d}" stroke="${Wd}" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="${d}" stroke="${W}" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`).join('')}
+  ${[[-68,-8],[-26,-8],[52,-8],[112,-90]].map(([x,y])=>`<rect x="${x-9}" y="${y-4}" width="18" height="10" rx="3" fill="#5A3A1E"/>`).join('')}
+  <path d="M-90 -110 Q-92 -150 -40 -152 L40 -152 Q86 -150 92 -110 Q90 -78 50 -76 L-50 -76 Q-90 -78 -90 -110Z" fill="${W}" stroke="${Wd}" stroke-width="2"/>
+  <path d="M58 -140 Q70 -196 104 -226 L132 -214 Q100 -180 92 -116Z" fill="${W}" stroke="${Wd}" stroke-width="2"/>
+  <path d="M104 -226 Q118 -240 136 -232 L170 -190 Q174 -178 160 -176 L132 -190 Q120 -200 116 -206Z" fill="${W}" stroke="${Wd}" stroke-width="2"/>
+  <path d="M100 -226 L96 -246 L112 -232Z" fill="${W}" stroke="${Wd}" stroke-width="2"/>
+  <path d="M98 -224 Q76 -200 66 -146 M90 -222 Q66 -196 58 -150" stroke="#C9B9A0" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M128 -216 Q131 -222 136 -216 Q131 -212 128 -216Z" fill="#2B1B10"/>
+  <path d="M112 -232 L150 -196 L166 -180 M126 -224 L118 -196" stroke="${C.red}" stroke-width="4" fill="none" stroke-linecap="round"/>
+  ${[0,1,2,3,4].map(i=>`<circle cx="${80+i*7}" cy="${-160-i*12}" r="4" fill="${C.gold}"/>`).join('')}
+  <path d="M-62 -150 Q0 -160 62 -150 L66 -92 Q0 -82 -66 -92Z" fill="${C.red}"/>
+  <path d="M-66 -104 Q0 -94 66 -104 L66 -92 Q0 -82 -66 -92Z" fill="${C.gold}"/>${[...Array(11)].map((_,i)=>`<path d="M${-58+i*11.6} -97 l5 -5 l5 5 l-5 5Z" fill="${C.red}"/>`).join('')}
+  ${[-50,-30,-10,10,30,50].map(x=>`<path d="M${x} -92 v14" stroke="${C.gold}" stroke-width="3"/>`).join('')}`;
+  const rider=`
+  <path d="M-14 -212 Q-70 -230 -120 -200 Q-150 -180 -170 -186 Q-150 -164 -118 -168 Q-136 -146 -160 -142 Q-120 -126 -84 -150 Q-50 -168 -16 -170Z" fill="${C.red}" stroke="#7E1F19" stroke-width="2"/>
+  <path d="M-120 -200 Q-110 -184 -118 -168 M-84 -150 Q-96 -170 -80 -186" stroke="#7E1F19" stroke-width="2" fill="none"/>
+  <path d="M-2 -150 L6 -98 L18 -98" stroke="${C.blue}" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 -104 L22 -94 L30 -96" stroke="#5A3A1E" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M-24 -150 L-20 -214 Q0 -222 20 -214 L24 -150 Q0 -142 -24 -150Z" fill="${C.blue}"/>
+  ${[0,1,2,3,4].map(r=>[0,1,2,3].map(c=>`<path d="M${-17+c*11+(r%2)*5} ${-206+r*11} q5 7 10 0" stroke="${C.gold}" stroke-width="2" fill="none"/>`).join('')).join('')}
+  <path d="M-24 -156 Q0 -148 24 -156 L24 -148 Q0 -140 -24 -148Z" fill="${C.gold}"/>
+  <path d="M-22 -150 L-30 -132 Q0 -124 30 -132 L22 -150Z" fill="${C.red}"/>
+  <circle cx="0" cy="-246" r="27" fill="${C.gold}" stroke="${C.red}" stroke-width="3.5"/>
+  <path d="M-15 -216 Q-14 -232 0 -232 Q14 -232 15 -216Z" fill="${C.skin}"/>
+  <g transform="translate(0 -244)">${gondarFace()}</g>
+  <path d="M-16 -250 Q-18 -270 0 -272 Q18 -270 16 -250 Q12 -262 0 -262 Q-12 -262 -16 -250Z" fill="#24160F"/>
+  ${[-14,-7,0,7,14].map(x=>`<circle cx="${x}" cy="${-266+Math.abs(x)*.25}" r="4.4" fill="#24160F"/>`).join('')}
+  <path d="M20 -208 Q44 -200 50 -184" stroke="${C.blue}" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="52" cy="-180" r="6.5" fill="${C.skin}" stroke="#2B1B10" stroke-width="1.2"/>`;
+  const spear=`<path d="M${sx1} ${sy1} L${sx2} ${sy2}" stroke="#6B4423" stroke-width="5" stroke-linecap="round"/>
+  <g transform="translate(${sx1} ${sy1}) rotate(${Math.atan2(sy2-sy1,sx2-sx1)*180/Math.PI+90}) translate(0 -8) scale(.22)">${cross(C.gold,C.red)}</g>
+  <path d="M${sx2} ${sy2} l${(sx2-sx1)/30} ${(sy2-sy1)/30}" stroke="#C9CCD2" stroke-width="7" stroke-linecap="round"/>`;
+  const dr=strike&&o.dragon!==false?`<g transform="translate(150 -56) scale(.8)">${serpent({body:'M0 0 Q30 30 40 50 Q40 68 0 70 Q-100 72 -200 62 Q-262 56 -292 30 Q-304 10 -284 -2'})}<path d="M-284 -2 l-6 -16 l16 8Z" fill="${C.red}"/></g>`:'';
+  return `${dr}<g transform="translate(-20 -18)">${horse}</g>${spear.replace(/^/,'')}<g transform="translate(-20 -18)">${rider}</g>`;
+};
 const P=(o)=>({draw:(x={})=>figure({...o,...x}),box:'-120 -260 240 270'});
 const ART={
   figure:{draw:figure,box:'-120 -260 240 270'},
@@ -300,7 +364,7 @@ const ART={
   sleeper:{draw:lying,box:'-130 -70 240 80'},
   lion:{draw:lion,box:'-80 -80 180 130'}, cow:{draw:cow,box:'-90 -100 180 150'}, sheep:{draw:sheep,box:'-75 -60 140 100'},
   walia:{draw:walia,box:'-80 -110 140 160'}, gelada:{draw:gelada,box:'-60 -90 130 130'}, donkey:{draw:donkey,box:'-90 -150 180 190'},
-  camel:{draw:camel,box:'-100 -120 180 170'}, horse:{draw:horse,box:'-100 -130 200 180'}, dragon:{draw:dragon,box:'-110 -140 300 180'},
+  camel:{draw:camel,box:'-100 -120 180 170'}, horse:{draw:horse,box:'-100 -130 200 180'}, stGeorge:{draw:stGeorge,box:'-200 -345 420 365'}, dragon:{draw:dragonNew,box:'-220 -160 380 170'},
   fish:{draw:fish,box:'-30 -30 76 60'}, bird:{draw:bird,box:'-36 -30 72 50'}, dove:{draw:dove,box:'-60 -46 104 66'}, raven:{draw:raven,box:'-46 -46 90 66'},
   elephant:{draw:elephant,box:'-90 -90 170 130'}, giraffe:{draw:giraffe,box:'-70 -170 120 210'}, snake:{draw:snake,box:'-70 -40 150 60'},
   cloud:{draw:cloud,box:'-70 -50 140 100'}, acacia:{draw:acacia,box:'-80 -120 160 130'}, enset:{draw:enset,box:'-90 -150 180 160'}, palm:{draw:palm,box:'-90 -240 190 250'},
