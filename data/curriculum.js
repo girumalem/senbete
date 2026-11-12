@@ -2002,7 +2002,10 @@ window.BK_CURR=[
 "5 1",
 "6 2",
 "An angel of the Lord told Mary Magdalene and the women that Jesus Christ is risen from the dead."
-]
+],
+"built": {
+"icon": "tomb"
+}
 },
 {
 "id": "L2-eas2",
@@ -2029,7 +2032,10 @@ window.BK_CURR=[
 "5.  threw himself in the water and swam towards Jesus",
 "6. Jesus appeared to the disciples for the  time after His Resurrection.",
 "I can share the \"Good News\" with a friend."
-]
+],
+"built": {
+"icon": "fish"
+}
 },
 {
 "id": "L2-eas3",
@@ -2056,7 +2062,10 @@ window.BK_CURR=[
 "5. Joachim and Anna  to God to give them a child.",
 "6. Anna's  was healed, when she rubbed Anna's belly and touched her blind eyes.",
 "Prayer is speaking to God."
-]
+],
+"built": {
+"icon": "adeyAbeba"
+}
 },
 {
 "id": "L2-eas4",
@@ -2084,7 +2093,10 @@ window.BK_CURR=[
 "6. Many people became 8.  after witnessing the miracles of St. George.",
 "2 8",
 "St. George kills the Dragon, and saves the governor's daughter."
-]
+],
+"built": {
+"icon": "george"
+}
 },
 {
 "id": "L2-eas5",
@@ -2112,7 +2124,10 @@ window.BK_CURR=[
 "6. Jesus told the criminal who asked for forgiveness that He would be with Him in .",
 "7. The forgiven criminal became the  person to enter paradise.",
 "Golgotha"
-]
+],
+"built": {
+"icon": "calvary"
+}
 },
 {
 "id": "L2-eas6",
@@ -2141,7 +2156,10 @@ window.BK_CURR=[
 "6.  in white appeared to the disciples, as they looked up at Jesus Christ ascending into heaven.",
 "7. Jesus Christ ascended into heaven from a place called Mount .",
 "3 7"
-]
+],
+"built": {
+"icon": "cloud"
+}
 },
 {
 "id": "L2-eas7",
@@ -2168,7 +2186,10 @@ window.BK_CURR=[
 "5. The disciples received the Holy Spirit 10 days after the  of Jesus Christ.",
 "6. After receiving the Holy Spirit, the disciples started  about Jesus Christ.",
 "4 5"
-]
+],
+"built": {
+"icon": "lots"
+}
 },
 {
 "id": "L2-eas8",
@@ -2193,7 +2214,10 @@ window.BK_CURR=[
 "4. Peter thought he was  as he followed the angel out of the prison.",
 "5. The  fell of his hands, as Peter got up to follow the angel.",
 "6. Peter went to the house of St. , where the faithful were gathered and praying for him."
-]
+],
+"built": {
+"icon": "chains"
+}
 },
 {
 "id": "L2-jul1",
