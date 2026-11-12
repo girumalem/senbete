@@ -883,7 +883,10 @@ window.BK_CURR=[
 "Do you remember who St. Peter is? ... He is one of the 12 disciples of Jesus Christ. Today, we are going to learn how he was freed from prison by an angel of God.",
 "Once upon a time there was a king whose name was Herod. He was a bad king. He treated the disciples and the friends of Jesus very badly, because he didn't want them to believe in Jesus Christ or teach about Him. Once upon a time King Herod put St. Peter, one of Jesus Christ's disciples, in prison, because he was teaching the people about Jesus. When St. Peter was in prison, he was not afraid. He knew that God was with him. In the evening, an angel of the Lord suddenly appeared to St. Peter while he was sleeping in prison, and a light shined around the angel. The angel woke up St. Peter and told him to put on his sandals and clothes and follow him. St. Peter's hand and legs were chained, but the chains fell of his hands and feet. St. Peter was free again. The angel led him out of the prison to the street. St. Peter went back to his home. When St. peter came back home every body was happy because they were all praying for him to be free again and come back home safely. God has listened to their prayers and sent His angel to set free.",
 "Exercise 1) St. Peter is one of Jesus' twelve . 2) What is the name of the king who put St. Peter in prison? 3) How was St. Peter set free from prison?"
-]
+],
+"built": {
+"icon": "chains"
+}
 },
 {
 "id": "L1-jul2",
@@ -901,7 +904,10 @@ window.BK_CURR=[
 "Conclusion:",
 "We need to obey God's commandments always. If we do this, God always protects us even in time of hardship. God sent the ravens to take Elijah bread and meat, when there was no rain and food because of the sins of Ahab and the people. God cares for us too.",
 "Exercise 1) What are idols? 2) Where did God tell Elijah to go? 3) How did God take care of Elijah?"
-]
+],
+"built": {
+"icon": "raven"
+}
 },
 {
 "id": "L1-jul3",
@@ -920,7 +926,10 @@ window.BK_CURR=[
 "God sends his blessings through holy people. Because the woman served the prophet Elijah, God blessed her house, and everything she had. Because of this she and her son were saved from dying of hunger.",
 "Exercise 1) What is a prophet? 2) Where did Elijah go after the river he was drinking from dried up? 3) How did God bless the widow's house?",
 "The Widow's Oil The Widows's Jar Flour Pot"
-]
+],
+"built": {
+"icon": "jar"
+}
 },
 {
 "id": "L1-jul4",
@@ -941,7 +950,10 @@ window.BK_CURR=[
 "3. God heard the prayer of Elijah and returned the soul of the widow's son into him again.",
 "Exercise 1) How did Elijah survive the drought season? 2) What happened to the widow's son? 3) How did Elijah save the life of the widow and her son?",
 "Elijah raises the widow's son."
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L1-aug1",
@@ -961,7 +973,10 @@ window.BK_CURR=[
 "1. What was the name of Elijah's follower?",
 "2. How did Elijah and Elisha cross the Jordan River?",
 "3. What did Elisha ask for before Elijah was taken up to heaven?"
-]
+],
+"built": {
+"icon": "chariot"
+}
 },
 {
 "id": "L1-aug2",
@@ -981,7 +996,10 @@ window.BK_CURR=[
 "• He saves and He rescues.",
 "• He works signs and wonders in heaven and on earth.",
 "Exercise 1) What did king Darius declare about worshiping? 2) How many times a day did Daniel pray? 3) Why was Daniel thrown in to a den of lions? Did the lions heart him?"
-]
+],
+"built": {
+"icon": "lion"
+}
 },
 {
 "id": "L1-aug3",
@@ -997,7 +1015,10 @@ window.BK_CURR=[
 "What is a prophet? ... A prophet is a messenger of God who teaches the people to keep the commandment of God, and also tells of God's messages. Today, we are going to learn about the childhood of one of the God's prophets called Samuel. He was the child of God loving parents, Hannah and Elkanah.",
 "The parents of Samuel, Hannah & Elkanah were very good people who loved God very much. But they didn’t have any children. This made Hannah very sad. So she went to the temple one day and started to cry, asking and praying that God may give her a baby. She promised to give the child to serve in the temple if God gave her a child. God listened to her prayers and gave her a son and they named him Samuel. Hannah and Elkanah took Samuel to the temple to fulfill their promise, and Samuel lived and grew up in the temple. One day while Samuel was sleeping, he heard someone call his name. He got up and ran to the priest, Eli thinking that he had called him. He said to the priest “Here I am”, but the priest told him to go back to sleep because he hadn’t called him. So Samuel went back to sleep. But he heard the voice calling him again, so he got up and ran to the priest and said to him “Here I am”. The priest told him to go back again because he hadn’t called him. This happened for the third time. When Samuel went to the priest again thinking that he had called him, the priest realized that God was trying to speak to Samuel. So he told Samuel to go back and say, “Speak, Lord, for your servant hears”, and to listen carefully. When Samuel heard the voice calling him again he said, “Speak for your servant hears”. Then God started to speak to Samuel and He told him that He was going to punish the people of Israel because they weren’t listening to God.",
 "Conclusion: He was obedient – when he thought that the priest was calling him, he ran to him immediately to see what he wanted. He didn’t take his time or pretend not to hear him. God wanted to talk to Samuel even though he was a little boy because He loved him. God wants to talk to us too because He loves us no matter how small we are. Even though Samuel was a little boy, he served God and did good things. We too must do good and avoid doing bad things."
-]
+],
+"built": {
+"icon": "candle"
+}
 },
 {
 "id": "L1-aug4",
@@ -1014,7 +1035,10 @@ window.BK_CURR=[
 "One day, when Jesus went into the temple in Jerusalem, He found the people inside selling oxen, sheep, doves and exchanging money. What is a temple? ... Jesus was angry. Why do you think the Lord was upset? He wanted the people to respect and honor the church. So, He said to them, Take these out, do not make my Father's house, a house of merchandize. My house shall be called a house of prayer\". And he drove them out of the temple. Do we want the Lord to be upset with us? So how should we behave? A church is a house of God, therefore a house of prayer. We should do the following when we come to church: We should be clean and also have clean cloth. We should take our shoes off when we go inside. Once we are inside the church, we should stand or sit (if tired) in one place until Holy Communion. You should make the sign of the cross before you go inside the church. Do you remember how to make the sign of the cross? ... If we do all these things, Jesus will be happy with us, and He will bless us.",
 "Conclusion:",
 "We should respect the church and the priests because the church is the house of God, and therefore it is called a house of prayer. God is present in the church all the time. During the liturgy, the angels and the saints also come and join us."
-]
+],
+"built": {
+"icon": "church"
+}
 },
 {
 "id": "L1-sep1",

@@ -8,7 +8,7 @@ BKLesson({
    parent:'<p>This lesson follows Level I, Easter week 4: <b>Angels of Good News</b> (Luke 1:26-38; Luke 2:10-11; Matthew 28:5-6). Aim: learn about the works of angels.</p><p>Talk about it: Which angel came to the Virgin Mary? What did the angel tell the shepherds?</p>'},
 
   {game:'story', bg:'garden', chip:'Good news for Mary',
-   props:[{id:'mary',art:'mary',x:560,y:440,s:.6},{id:'gab',art:'gabriel',x:240,y:430,s:.6,hidden:true},{id:'glow',art:'glory',x:240,y:300,s:1.1,hidden:true}],
+   props:[{id:'mary',art:'mary',x:560,y:440,s:.6},{id:'glow',art:'glory',x:240,y:300,s:1.1,hidden:true},{id:'gab',art:'gabriel',x:240,y:430,s:.6,hidden:true}],
    beats:[
     {say:['g1','One day [[mariam]] was praying. Tap [[mariam]].'],tap:'mary'},
     {show:['glow','gab'],sfx:'glory',say:['g2','The angel Gabriel came to her! He said: Hail, full of grace. The Lord is with you.']},
