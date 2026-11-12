@@ -54,6 +54,8 @@ const files=fs.readdirSync(path.join(root,'data/lessons')).filter(f=>/^L\d-\w+\.
 for(const f of files){ let L; vm.runInNewContext(fs.readFileSync(path.join(root,'data/lessons',f),'utf8'),{BKLesson:x=>{L=x}});
   const A=(arr)=>arr&&add(arr[0],arr[1],L.id);
   for(const pg of L.pages){
+    const walk=o=>{ if(!o||typeof o!=='object') return; if(Array.isArray(o)){ o.forEach(walk); return; } for(const [k,v] of Object.entries(o)){ if(['say','intro','done','prompt','final','fail','why'].includes(k)&&Array.isArray(v)&&typeof v[0]==='string'&&typeof v[1]==='string') A(v); else walk(v); } };
+    if(['choose','collect','repeat','hold','sort'].includes(pg.game)) walk(pg);
     A(pg.say); A(pg.intro); A(pg.done);
     (pg.beats&&Array.isArray(pg.beats)?pg.beats:[]).forEach(b=>A(b.say));
     (pg.items||[]).forEach(it=>A(it.say)); (pg.spots||[]).forEach(s=>A(s.say)); (pg.cards||[]).forEach(c=>A(c.say));

@@ -394,5 +394,6 @@ window.BKPlay=function(){
   document.addEventListener('keydown',e=>{ if(e.target.closest&&e.target.closest('[role=button],button,summary,a')) return; const nb=$('#nextBtn'); if(e.key==='ArrowRight'&&!nb.hidden) nb.click(); if(e.key==='ArrowLeft'&&!$('#prevBtn').disabled) $('#prevBtn').click(); });
   go(0);
 };
+window.BKKit={scene,propHTML,P,place,drag,tapper,hint,clearHint,ring,apply,waitTap,addHit,confetti,sleep,centerOf,pt,rewiggle,docScene,picHTML,esc,shuffle,solver,GEEZ,VO,draw,icon};
 window.BKGames=G; window.BKgo=i=>go(i);
 })();

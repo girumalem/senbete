@@ -16153,206 +16153,234 @@
  {
   "id": "L3-dec3.cover",
   "lesson": "L3-dec3",
-  "text": "[[selam]]! After Moses, God chose Joshua to lead His people into the promised land. Read with me, then test yourself!",
-  "plain": "Selam! After Moses, God chose Joshua to lead His people into the promised land. Read with me, then test yourself!",
+  "text": "[[selam]]! After Moses, God chose Joshua to lead His people into the promised land. Come on the journey with him!",
+  "plain": "Selam! After Moses, God chose Joshua to lead His people into the promised land. Come on the journey with him!",
   "words": [
    "selam"
   ]
  },
  {
-  "id": "L3-dec3.r1",
+  "id": "L3-dec3.s1",
   "lesson": "L3-dec3",
-  "text": "Moses sent twelve men to spy out the land of Canaan. They saw a good land, flowing with milk and honey.",
-  "plain": "Moses sent twelve men to spy out the land of Canaan. They saw a good land, flowing with milk and honey.",
+  "text": "Moses sent twelve men to spy out the land of Canaan, the land God had promised. Tap Moses.",
+  "plain": "Moses sent twelve men to spy out the land of Canaan, the land God had promised. Tap Moses.",
   "words": []
  },
  {
-  "id": "L3-dec3.r2",
+  "id": "L3-dec3.s2",
   "lesson": "L3-dec3",
-  "text": "But ten of the spies said: The people there are strong giants. We cannot fight them! And the Israelites cried out against Moses.",
-  "plain": "But ten of the spies said: The people there are strong giants. We cannot fight them! And the Israelites cried out against Moses.",
+  "text": "They found grapes so big that two men carried one bunch on a pole! It was a land flowing with milk and honey. Tap the grapes.",
+  "plain": "They found grapes so big that two men carried one bunch on a pole! It was a land flowing with milk and honey. Tap the grapes.",
   "words": []
  },
  {
-  "id": "L3-dec3.r3",
+  "id": "L3-dec3.s3",
   "lesson": "L3-dec3",
-  "text": "Only Joshua and Caleb said: We will take the land, because God is with us. Because of their faith, they were the only grown-ups of that time who entered the promised land.",
-  "plain": "Only Joshua and Caleb said: We will take the land, because God is with us. Because of their faith, they were the only grown-ups of that time who entered the promised land.",
+  "text": "But they also saw giants, strong people living in cities with high walls.",
+  "plain": "But they also saw giants, strong people living in cities with high walls.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.c0",
+  "lesson": "L3-dec3",
+  "text": "You are one of the spies, and all the people are waiting. What will you tell them?",
+  "plain": "You are one of the spies, and all the people are waiting. What will you tell them?",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.c1",
+  "lesson": "L3-dec3",
+  "text": "That is what ten of the spies said. The people were afraid, cried against Moses, and wanted to go back to Egypt! Try the other answer.",
+  "plain": "That is what ten of the spies said. The people were afraid, cried against Moses, and wanted to go back to Egypt! Try the other answer.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.c2",
+  "lesson": "L3-dec3",
+  "text": "That is what Joshua and Caleb said! Because of their faith, they were the only grown-ups of that time who entered the promised land.",
+  "plain": "That is what Joshua and Caleb said! Because of their faith, they were the only grown-ups of that time who entered the promised land.",
   "words": []
  },
  {
   "id": "L3-dec3.j1",
   "lesson": "L3-dec3",
-  "text": "Joshua told twelve men to carry the Ark of the Covenant into the Jordan River. Tap the Ark.",
-  "plain": "Joshua told twelve men to carry the Ark of the Covenant into the Jordan River. Tap the Ark.",
-  "words": []
- },
- {
-  "id": "L3-dec3.j2",
-  "lesson": "L3-dec3",
-  "text": "As soon as they stood in the river, the water parted, just like the Red Sea!",
-  "plain": "As soon as they stood in the river, the water parted, just like the Red Sea!",
+  "text": "Joshua told the priests to carry the Ark of the Covenant into the Jordan River. Drag the Ark into the water.",
+  "plain": "Joshua told the priests to carry the Ark of the Covenant into the Jordan River. Drag the Ark into the water.",
   "words": []
  },
  {
   "id": "L3-dec3.j3",
   "lesson": "L3-dec3",
-  "text": "All Israel crossed the Jordan on dry land.",
-  "plain": "All Israel crossed the Jordan on dry land.",
+  "text": "All Israel crossed the Jordan on dry ground.",
+  "plain": "All Israel crossed the Jordan on dry ground.",
   "words": []
  },
  {
-  "id": "L3-dec3.j4",
+  "id": "L3-dec3.j2",
   "lesson": "L3-dec3",
-  "text": "Joshua set up twelve stones as a memorial, so the people would always remember what God had done.",
-  "plain": "Joshua set up twelve stones as a memorial, so the people would always remember what God had done.",
+  "text": "As soon as the priests stood in the river with the Ark, the water stopped and stood up like a wall, just like the Red Sea!",
+  "plain": "As soon as the priests stood in the river with the Ark, the water stopped and stood up like a wall, just like the Red Sea!",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.m1",
+  "lesson": "L3-dec3",
+  "text": "God told Joshua: Take twelve stones from the middle of the river, one for each tribe of Israel. Tap or drag all twelve to the riverbank.",
+  "plain": "God told Joshua: Take twelve stones from the middle of the river, one for each tribe of Israel. Tap or drag all twelve to the riverbank.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.m2",
+  "lesson": "L3-dec3",
+  "text": "Joshua set up the twelve stones as a memorial. When your children ask what these stones mean, tell them: God dried up the Jordan for us!",
+  "plain": "Joshua set up the twelve stones as a memorial. When your children ask what these stones mean, tell them: God dried up the Jordan for us!",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.h1",
+  "lesson": "L3-dec3",
+  "text": "Near the city of Jericho, Joshua looked up and saw a man with a sword. It was the Archangel Michael! Tap him.",
+  "plain": "Near the city of Jericho, Joshua looked up and saw a man with a sword. It was the Archangel Michael! Tap him.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.h2",
+  "lesson": "L3-dec3",
+  "text": "He said: As commander of the army of the Lord I have now come. Joshua fell to the ground.",
+  "plain": "He said: As commander of the army of the Lord I have now come. Joshua fell to the ground.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.h3",
+  "lesson": "L3-dec3",
+  "text": "The Archangel said: Take off your sandals, for the place where you stand is holy. Tap the sandals.",
+  "plain": "The Archangel said: Take off your sandals, for the place where you stand is holy. Tap the sandals.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.h4",
+  "lesson": "L3-dec3",
+  "text": "We do the same! We take off our shoes before we enter the holy part of our church.",
+  "plain": "We do the same! We take off our shoes before we enter the holy part of our church.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.r0",
+  "lesson": "L3-dec3",
+  "text": "God told Joshua: March around the city once a day for six days, with the priests blowing trumpets. Tap the trumpet to march!",
+  "plain": "God told Joshua: March around the city once a day for six days, with the priests blowing trumpets. Tap the trumpet to march!",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.r1",
+  "lesson": "L3-dec3",
+  "text": "Day one. Around the city once! The people kept silent.",
+  "plain": "Day one. Around the city once! The people kept silent.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.r2",
+  "lesson": "L3-dec3",
+  "text": "Day two.",
+  "plain": "Day two.",
+  "words": []
+ },
+ {
+  "id": "L3-dec3.r3",
+  "lesson": "L3-dec3",
+  "text": "Day three.",
+  "plain": "Day three.",
   "words": []
  },
  {
   "id": "L3-dec3.r4",
   "lesson": "L3-dec3",
-  "text": "Near Jericho, the Archangel Michael appeared to Joshua and said: As commander of the army of the Lord I have now come.",
-  "plain": "Near Jericho, the Archangel Michael appeared to Joshua and said: As commander of the army of the Lord I have now come.",
+  "text": "Day four.",
+  "plain": "Day four.",
   "words": []
  },
  {
   "id": "L3-dec3.r5",
   "lesson": "L3-dec3",
-  "text": "Joshua fell to the ground. The Archangel said: Take off your shoes, for the place where you stand is holy. Saint Michael helped Joshua, just as he had helped Moses.",
-  "plain": "Joshua fell to the ground. The Archangel said: Take off your shoes, for the place where you stand is holy. Saint Michael helped Joshua, just as he had helped Moses.",
+  "text": "Day five.",
+  "plain": "Day five.",
   "words": []
  },
  {
   "id": "L3-dec3.r6",
   "lesson": "L3-dec3",
-  "text": "Once, during a battle, the day was ending. Joshua prayed and commanded the sun to stand still, and it did not set until the battle was won. There has never been another day like it.",
-  "plain": "Once, during a battle, the day was ending. Joshua prayed and commanded the sun to stand still, and it did not set until the battle was won. There has never been another day like it.",
+  "text": "Day six. The walls are still standing.",
+  "plain": "Day six. The walls are still standing.",
   "words": []
  },
  {
-  "id": "L3-dec3.tf-intro",
+  "id": "L3-dec3.r7",
   "lesson": "L3-dec3",
-  "text": "True or false? Read each sentence and decide.",
-  "plain": "True or false? Read each sentence and decide.",
+  "text": "On the seventh day they marched around seven times. Then Joshua said: Shout, for the Lord has given you the city! Tap Shout!",
+  "plain": "On the seventh day they marched around seven times. Then Joshua said: Shout, for the Lord has given you the city! Tap Shout!",
   "words": []
  },
  {
-  "id": "L3-dec3.tf-done",
+  "id": "L3-dec3.r8",
   "lesson": "L3-dec3",
-  "text": "Well done!",
-  "plain": "Well done!",
+  "text": "The people shouted, and the walls fell down flat! God gave them Jericho, just as He promised.",
+  "plain": "The people shouted, and the walls fell down flat! God gave them Jericho, just as He promised.",
   "words": []
  },
  {
-  "id": "L3-dec3.t1",
+  "id": "L3-dec3.u1",
   "lesson": "L3-dec3",
-  "text": "All twelve spies said Israel could take the land. True, or false?",
-  "plain": "All twelve spies said Israel could take the land. True, or false?",
+  "text": "The battle was not finished, but the sun was going down. Joshua prayed: Sun, stand still! Press and hold the sun to keep it in the sky.",
+  "plain": "The battle was not finished, but the sun was going down. Joshua prayed: Sun, stand still! Press and hold the sun to keep it in the sky.",
   "words": []
  },
  {
-  "id": "L3-dec3.t1-why",
+  "id": "L3-dec3.u2",
   "lesson": "L3-dec3",
-  "text": "False! Only Joshua and Caleb trusted God.",
-  "plain": "False! Only Joshua and Caleb trusted God.",
+  "text": "God sent great hailstones from heaven on the enemy!",
+  "plain": "God sent great hailstones from heaven on the enemy!",
   "words": []
  },
  {
-  "id": "L3-dec3.t2",
+  "id": "L3-dec3.u3",
   "lesson": "L3-dec3",
-  "text": "The Jordan River parted when the Ark entered it. True, or false?",
-  "plain": "The Jordan River parted when the Ark entered it. True, or false?",
+  "text": "The sun did not set until the battle was won. There has never been a day like it, when the Lord listened to the voice of a man.",
+  "plain": "The sun did not set until the battle was won. There has never been a day like it, when the Lord listened to the voice of a man.",
   "words": []
  },
  {
-  "id": "L3-dec3.t2-why",
+  "id": "L3-dec3.f0",
   "lesson": "L3-dec3",
-  "text": "True! Israel crossed on dry land.",
-  "plain": "True! Israel crossed on dry land.",
-  "words": []
- },
- {
-  "id": "L3-dec3.t3",
-  "lesson": "L3-dec3",
-  "text": "Joshua said his own strength won the battles. True, or false?",
-  "plain": "Joshua said his own strength won the battles. True, or false?",
-  "words": []
- },
- {
-  "id": "L3-dec3.t3-why",
-  "lesson": "L3-dec3",
-  "text": "False! He said: The Lord God fought for Israel.",
-  "plain": "False! He said: The Lord God fought for Israel.",
-  "words": []
- },
- {
-  "id": "L3-dec3.t4",
-  "lesson": "L3-dec3",
-  "text": "The sun stood still at Joshua's prayer. True, or false?",
-  "plain": "The sun stood still at Joshua's prayer. True, or false?",
-  "words": []
- },
- {
-  "id": "L3-dec3.t4-why",
-  "lesson": "L3-dec3",
-  "text": "True! The Lord heeded the voice of a man.",
-  "plain": "True! The Lord heeded the voice of a man.",
-  "words": []
- },
- {
-  "id": "L3-dec3.bl-intro",
-  "lesson": "L3-dec3",
-  "text": "Fill in the missing word.",
-  "plain": "Fill in the missing word.",
-  "words": []
- },
- {
-  "id": "L3-dec3.bl-done",
-  "lesson": "L3-dec3",
-  "text": "All filled in!",
-  "plain": "All filled in!",
+  "text": "Joshua and Caleb spoke with faith. Ten spies spoke with fear. Put each sentence in the right basket.",
+  "plain": "Joshua and Caleb spoke with faith. Ten spies spoke with fear. Put each sentence in the right basket.",
   "words": []
  },
  {
   "id": "L3-dec3.f1",
   "lesson": "L3-dec3",
-  "text": "Joshua and what? were the two faithful spies.",
-  "plain": "Joshua and what? were the two faithful spies.",
-  "words": []
- },
- {
-  "id": "L3-dec3.f1-a",
-  "lesson": "L3-dec3",
-  "text": "Joshua and Caleb were the two faithful spies.",
-  "plain": "Joshua and Caleb were the two faithful spies.",
+  "text": "That is what the fearful spies said. Try again.",
+  "plain": "That is what the fearful spies said. Try again.",
   "words": []
  },
  {
   "id": "L3-dec3.f2",
   "lesson": "L3-dec3",
-  "text": "Israel crossed the what? River on dry land.",
-  "plain": "Israel crossed the what? River on dry land.",
-  "words": []
- },
- {
-  "id": "L3-dec3.f2-a",
-  "lesson": "L3-dec3",
-  "text": "Israel crossed the Jordan River on dry land.",
-  "plain": "Israel crossed the Jordan River on dry land.",
+  "text": "Joshua said this. It is faith!",
+  "plain": "Joshua said this. It is faith!",
   "words": []
  },
  {
   "id": "L3-dec3.f3",
   "lesson": "L3-dec3",
-  "text": "Joshua set up twelve what? as a memorial.",
-  "plain": "Joshua set up twelve what? as a memorial.",
+  "text": "God said this to Joshua. It is faith!",
+  "plain": "God said this to Joshua. It is faith!",
   "words": []
  },
  {
-  "id": "L3-dec3.f3-a",
+  "id": "L3-dec3.f4",
   "lesson": "L3-dec3",
-  "text": "Joshua set up twelve stones as a memorial.",
-  "plain": "Joshua set up twelve stones as a memorial.",
+  "text": "At the end of his life Joshua told the people: It is the Lord your God who fought for you. Choose faith, like Joshua!",
+  "plain": "At the end of his life Joshua told the people: It is the Lord your God who fought for you. Choose faith, like Joshua!",
   "words": []
  },
  {
@@ -16379,22 +16407,22 @@
  {
   "id": "L3-dec3.q1",
   "lesson": "L3-dec3",
-  "text": "Who led Israel after Moses?",
-  "plain": "Who led Israel after Moses?",
+  "text": "Which two spies trusted God?",
+  "plain": "Which two spies trusted God?",
   "words": []
  },
  {
   "id": "L3-dec3.q2",
   "lesson": "L3-dec3",
-  "text": "Who appeared to Joshua near Jericho?",
-  "plain": "Who appeared to Joshua near Jericho?",
+  "text": "What made the walls of Jericho fall?",
+  "plain": "What made the walls of Jericho fall?",
   "words": []
  },
  {
   "id": "L3-dec3.q3",
   "lesson": "L3-dec3",
-  "text": "What stood still at Joshua's prayer?",
-  "plain": "What stood still at Joshua's prayer?",
+  "text": "Why do we take off our shoes in church?",
+  "plain": "Why do we take off our shoes in church?",
   "words": []
  },
  {
