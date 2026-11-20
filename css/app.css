@@ -167,6 +167,7 @@ a.next{display:inline-block;background:var(--gold);color:var(--on-gold);box-shad
 @keyframes flash{from{opacity:.9}to{opacity:0}}
 .quizgrid.n2{grid-template-columns:repeat(2,1fr);padding-inline:12%}
 .quizgrid.n4{grid-template-columns:repeat(4,1fr)}
+.quizgrid.n7,.quizgrid.n8{grid-template-columns:repeat(4,1fr);gap:clamp(6px,1.4vw,12px)}.quizgrid.n7 .card,.quizgrid.n8 .card{font-size:.8em}
 .card{position:relative}
 .card .badge{position:absolute;top:8px;left:8px;width:34px;height:34px;border-radius:50%;background:var(--red);color:#fff;font-family:var(--ethiopic);font-style:normal;font-weight:700;display:none;place-items:center;font-size:1.1rem}
 .card.right .badge:not(:empty){display:grid}

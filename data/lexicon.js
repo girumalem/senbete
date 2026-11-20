@@ -704,5 +704,221 @@ window.BK_LEX = {
   "lang": "am",
   "say": "deh-meh-RAH",
   "check": true
+ },
+ "eleni": {
+  "fidel": "ዕሌኒ",
+  "latin": "Eleni",
+  "en": "Queen Helena, who found the Holy Cross",
+  "lang": "am",
+  "say": "eh-LEH-nee",
+  "check": true
+ },
+ "zara-yaqob": {
+  "fidel": "ዘርዐ ያዕቆብ",
+  "latin": "Zara Yaqob",
+  "en": "Emperor Zara Yaqob",
+  "lang": "am",
+  "say": "ZAR-ah YAH-kob",
+  "check": true
+ },
+ "gishen-mariam": {
+  "fidel": "ግሸን ማርያም",
+  "latin": "Gishen Mariam",
+  "en": "the monastery in Wollo where the True Cross is kept",
+  "lang": "am",
+  "say": "GEE-shen MAHR-yahm",
+  "check": true
+ },
+ "hidar": {
+  "fidel": "ኅዳር",
+  "latin": "Hidar",
+  "en": "third Ethiopian month (November)",
+  "lang": "am",
+  "say": "hih-DAHR",
+  "check": true
+ },
+ "kuskuam": {
+  "fidel": "ቍስቋም",
+  "latin": "Kuskuam",
+  "en": "the place in Egypt where the Holy Family stayed",
+  "lang": "am",
+  "say": "KUS-kwahm",
+  "check": true
+ },
+ "iyakem": {
+  "fidel": "ኢያቄም",
+  "latin": "Iyakem",
+  "en": "Joachim, father of the Virgin Mary",
+  "lang": "am",
+  "say": "ee-yah-KEM",
+  "check": true
+ },
+ "hanna": {
+  "fidel": "ሐና",
+  "latin": "Hanna",
+  "en": "Anna, mother of the Virgin Mary",
+  "lang": "am",
+  "say": "HAH-nah",
+  "check": true
+ },
+ "tahsas": {
+  "fidel": "ታኅሣሥ",
+  "latin": "Tahsas",
+  "en": "fourth Ethiopian month (December-January)",
+  "lang": "am",
+  "say": "TAH-sahs",
+  "check": true
+ },
+ "tir": {
+  "fidel": "ጥር",
+  "latin": "Tir",
+  "en": "fifth Ethiopian month (January-February)",
+  "lang": "am",
+  "say": "TIR",
+  "check": true
+ },
+ "netela": {
+  "fidel": "ነጠላ",
+  "latin": "Netela",
+  "en": "white cotton shawl worn to church",
+  "lang": "am",
+  "say": "neh-TEH-lah",
+  "check": true
+ },
+ "nenewe": {
+  "fidel": "ነነዌ",
+  "latin": "Nenewe",
+  "en": "Nineveh (and the Fast of Nineveh)",
+  "lang": "am",
+  "say": "neh-neh-WEH",
+  "check": true
+ },
+ "abiy-tsom": {
+  "fidel": "ዐቢይ ጾም",
+  "latin": "Abiy Tsom",
+  "en": "the Great Lent",
+  "lang": "am",
+  "say": "ah-BEE TSOM",
+  "check": true
+ },
+ "debre-zeit": {
+  "fidel": "ደብረ ዘይት",
+  "latin": "Debre Zeit",
+  "en": "the Mount of Olives; fifth Sunday of Lent",
+  "lang": "am",
+  "say": "DEB-reh ZAYT",
+  "check": true
+ },
+ "siklet": {
+  "fidel": "ስቅለት",
+  "latin": "Siklet",
+  "en": "Good Friday, the Crucifixion",
+  "lang": "am",
+  "say": "SIK-let",
+  "check": true
+ },
+ "miyazya": {
+  "fidel": "ሚያዝያ",
+  "latin": "Miyazya",
+  "en": "the eighth month of the Ethiopian year (April to May)",
+  "lang": "am",
+  "say": "mee-YAHZ-yah",
+  "check": true
+ },
+ "senne": {
+  "fidel": "ሰኔ",
+  "latin": "Senne",
+  "en": "the tenth month of the Ethiopian year (June to July)",
+  "lang": "am",
+  "say": "SEH-neh",
+  "check": true
+ },
+ "hamle": {
+  "fidel": "ሐምሌ",
+  "latin": "Hamle",
+  "en": "the eleventh month of the Ethiopian year (July to August)",
+  "lang": "am",
+  "say": "HAHM-leh",
+  "check": true
+ },
+ "nehase": {
+  "fidel": "ነሐሴ",
+  "latin": "Nehasse",
+  "en": "the twelfth month of the Ethiopian year (August to September)",
+  "lang": "am",
+  "say": "neh-HAH-seh",
+  "check": true
+ },
+ "filseta": {
+  "fidel": "ፍልሰታ",
+  "latin": "Filseta",
+  "en": "the Assumption of the Virgin Mary, and its two-week fast",
+  "lang": "am",
+  "say": "fil-SEH-tah",
+  "check": true
+ },
+ "kirkos": {
+  "fidel": "ቂርቆስ",
+  "latin": "Qirkos",
+  "en": "Saint Qirkos (Cyriacus), the child martyr",
+  "lang": "am",
+  "say": "KEER-kohs",
+  "check": true
+ },
+ "iyalota": {
+  "fidel": "ኢየሉጣ",
+  "latin": "Iyalota",
+  "en": "Saint Iyalota (Julitta), mother of Qirkos",
+  "lang": "am",
+  "say": "ee-yeh-LOO-tah",
+  "check": true
+ },
+ "abune-aregawi": {
+  "fidel": "አቡነ አረጋዊ",
+  "latin": "Abune Aregawi",
+  "en": "Abune Aregawi, one of the Nine Saints",
+  "lang": "am",
+  "say": "ah-BOO-neh ah-REH-gah-wee",
+  "check": true
+ },
+ "debre-damo": {
+  "fidel": "ደብረ ዳሞ",
+  "latin": "Debre Damo",
+  "en": "the monastery of Abune Aregawi on a cliff-top in Tigray",
+  "lang": "am",
+  "say": "DEB-reh DAH-moh",
+  "check": true
+ },
+ "zemikael": {
+  "fidel": "ዘሚካኤል",
+  "latin": "Zemikael",
+  "en": "Abune Aregawi's birth name, meaning of Michael",
+  "lang": "am",
+  "say": "zeh-mee-kah-EL",
+  "check": true
+ },
+ "aksum": {
+  "fidel": "አክሱም",
+  "latin": "Aksum",
+  "en": "the ancient holy city of Ethiopia",
+  "lang": "am",
+  "say": "AHK-soom",
+  "check": true
+ },
+ "gebre-meskel": {
+  "fidel": "ገብረ መስቀል",
+  "latin": "Gebre Meskel",
+  "en": "King Gebre Meskel of Aksum",
+  "lang": "am",
+  "say": "GEB-reh MES-kel",
+  "check": true
+ },
+ "kaleb": {
+  "fidel": "ካሌብ",
+  "latin": "Kaleb",
+  "en": "King Kaleb of Aksum",
+  "lang": "am",
+  "say": "KAH-leb",
+  "check": true
  }
 };
