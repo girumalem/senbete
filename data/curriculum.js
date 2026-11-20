@@ -3828,7 +3828,10 @@ window.BK_CURR=[
 "2. What are the two major sections of the Holy Bible?",
 "1.  2.",
 "3. What categories of books do we find in the New Testament?"
-]
+],
+"built": {
+"icon": "bible"
+}
 },
 {
 "id": "L4-sep3",
@@ -3851,7 +3854,10 @@ window.BK_CURR=[
 "3.",
 "2. Which category of the two major section of the Bible do we find the story of creation in?",
 "3. Who wrote the story of creation? (Clue: He is a prophet born in Egypt.)"
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L4-sep4",
@@ -3877,7 +3883,10 @@ window.BK_CURR=[
 "3. Why did Eve eat of the forbidden tree?",
 "4. What are the results of sin?",
 "5. How did God show his love to Adam and Eve after thy sinned?"
-]
+],
+"built": {
+"icon": "snake"
+}
 },
 {
 "id": "L4-oct1",
@@ -3903,7 +3912,10 @@ window.BK_CURR=[
 "4. How do you prostrate yourself with the Holy Cross when you pray, and what is the meaning of each step of the",
 "prostration?",
 "4. What is the message of the Cross?"
-]
+],
+"built": {
+"icon": "cross"
+}
 },
 {
 "id": "L4-oct2",
@@ -3928,7 +3940,10 @@ window.BK_CURR=[
 "3. Where were the Israelites traveling to, & from where?",
 "4. What is the symbolism of the journey?",
 "5. What do you learn from the story?"
-]
+],
+"built": {
+"icon": "bronzeSnake"
+}
 },
 {
 "id": "L4-oct3",
@@ -3978,7 +3993,10 @@ window.BK_CURR=[
 "2. Write one of Pharaoh's dreams, which Joseph interpreted, with the interpretation.",
 "3. Explain how Joseph was faithful to his master & to God?",
 "4. Is there any bad deed you can hide from God? Can you give examples of some things that you may do just because your parents' or anyone else cannot see you? Is that a good thing to do in the sight of God?"
-]
+],
+"built": {
+"icon": "coat"
+}
 },
 {
 "id": "L4-nov1",
@@ -4002,7 +4020,10 @@ window.BK_CURR=[
 "4. What was the promise God gave Abraham & Isaac?",
 "5. Do you get blessings from your parent's or grandparent's? Write words of blessing you received from anyone.",
 "6. If God asks you of what you want, what would you ask for?"
-]
+],
+"built": {
+"icon": "sun"
+}
 },
 {
 "id": "L4-nov2",
@@ -4024,7 +4045,10 @@ window.BK_CURR=[
 "3. Who told Joseph to take the Virgin Mary and her Son to Egypt?",
 "4. Give an example of a material or worldly desire that may lead one to be dishonest, or to hurt others.",
 "5. Do you think strong desire is always bad? Explain."
-]
+],
+"built": {
+"icon": "donkey"
+}
 },
 {
 "id": "L4-nov3",
@@ -4047,7 +4071,10 @@ window.BK_CURR=[
 "3. Who is the prophet whom the Archangel Michael helped during his moments of loneliness?",
 "4. God's are messengers of God. Can you write two instances that show this from the Bible?",
 "5. There are two icons of the Archangel St. Michael inside the church that represent two events described in this lesson. Identify these icons and write which event each icon represents."
-]
+],
+"built": {
+"icon": "michael"
+}
 },
 {
 "id": "L4-nov4",
@@ -4071,7 +4098,10 @@ window.BK_CURR=[
 "4. Why were the people called \"the children of Israel\"?",
 "5. What do you learn about how we should stand in a holy place from this story?",
 "6. Is there anything that you are curious about in the church, any icon or the different ceremonies in our worship?"
-]
+],
+"built": {
+"icon": "burningBush"
+}
 },
 {
 "id": "L4-dec1",
@@ -4104,7 +4134,10 @@ window.BK_CURR=[
 "3. Why was there a division among the angels in heaven after they were created?",
 "4. What happened to Satnael and the angels that followed him?",
 "5. Write three roles of angels:"
-]
+],
+"built": {
+"icon": "angel"
+}
 },
 {
 "id": "L4-dec2",
@@ -4128,7 +4161,10 @@ window.BK_CURR=[
 "4. Why do we call the Virgin Mary \"Mother of God\"?",
 "5. What was the first Miracle Jesus did in the New Testament, at the request of the Virgin Mary? Where?",
 "6. For the next period, write a description of one of the icons of the Virgin Mary inside the church."
-]
+],
+"built": {
+"icon": "mary"
+}
 },
 {
 "id": "L4-dec3",
@@ -4156,7 +4192,10 @@ window.BK_CURR=[
 "5. What kind of covenant does God make with His saints to forgive us of our sins?",
 "6. Do you have a favorite angel or saint? Who?",
 "7. What do we have to do to benefit from the intercession of saints for us, and the covenant of mercy God made with them?"
-]
+],
+"built": {
+"icon": "censer"
+}
 },
 {
 "id": "L4-dec4",
@@ -4184,7 +4223,10 @@ window.BK_CURR=[
 "4. What was Zachariah's response to the Archangel's announcement that his wife, Elizabeth, would bear a child at an old age?",
 "5. What happened to Zachariah because of his doubt?",
 "6. How did the archangel Gabriel greet the Virgin Mary?"
-]
+],
+"built": {
+"icon": "gabriel"
+}
 },
 {
 "id": "L4-jan1",
@@ -4212,7 +4254,10 @@ window.BK_CURR=[
 "4. Who announced the birth of Jesus Christ to angels?",
 "5. What did the angels hear after they heard of Christ's birth from the angel?",
 "6. Write three gifts we received upon the birth of Jesus Christ."
-]
+],
+"built": {
+"icon": "manger"
+}
 },
 {
 "id": "L4-jan2",
@@ -4237,7 +4282,10 @@ window.BK_CURR=[
 "5. Write the reasons they brought the gifts they offered to Jesus Christ. a.  b.  c.",
 "6. Did the three kings return to Herod after they presented their gifts and worshipped Jesus Christ? Why?",
 "7. Can we give Jesus Christ gifts today? How?"
-]
+],
+"built": {
+"icon": "gift"
+}
 },
 {
 "id": "L4-jan3",
@@ -4269,7 +4317,10 @@ window.BK_CURR=[
 "6. What happened when Jesus Christ came out of the water after being baptized?",
 "7. Why was Jesus Christ baptized?",
 "8. When do we celebrate Epiphany? Why is this celebration called Epiphany?"
-]
+],
+"built": {
+"icon": "dove"
+}
 },
 {
 "id": "L4-jan4",
@@ -4293,7 +4344,10 @@ window.BK_CURR=[
 "5. When does the devil usually try to tempt and deceive us?",
 "6. What happened when Jesus Christ came out of the water after being baptized?",
 "7. How many days and nights did Jesus Christ fast in the wilderness? Do you remember anyone who fasted the same days and nights from the Old Testament?"
-]
+],
+"built": {
+"icon": "stone"
+}
 },
 {
 "id": "L4-feb1",
@@ -4318,7 +4372,10 @@ window.BK_CURR=[
 "6. What happened to the tree under which Jonah rested?",
 "7. What did God tell Jonah, when Jonah felt angry because of the withering of the tree?",
 "8. In which book of the Bible is the Book of Jonah? The New or the Old Testament?"
-]
+],
+"built": {
+"icon": "bigFish"
+}
 },
 {
 "id": "L4-feb2",
@@ -4343,7 +4400,10 @@ window.BK_CURR=[
 "6. How did his father accept him when his son repented and returned?",
 "7. Does God hate sinners? What does he want us to do when we sin?",
 "8. In which book of the bible is the story of the prodigal Son? Who wrote the book? Who told the story of the prodigal son?"
-]
+],
+"built": {
+"icon": "pig"
+}
 },
 {
 "id": "L4-feb3",
@@ -4371,7 +4431,10 @@ window.BK_CURR=[
 "4. Who symbolizes Jesus Christ in the story of the great supper?",
 "5. What is the great supper a symbol of?",
 "6. Do you make excuses when you fail to fulfill your responsibility? Can you mention some?"
-]
+],
+"built": {
+"icon": "bread"
+}
 },
 {
 "id": "L4-len1",
@@ -4402,7 +4465,10 @@ window.BK_CURR=[
 "2. Who are the prophets that fasted for forty days and forty nights?",
 "3. Give two examples of the saving of a nation from danger of God's punishment through fasting.",
 "4. Discuss the challenges of fasting and how you can overcome them."
-]
+],
+"built": {
+"icon": "injera"
+}
 },
 {
 "id": "L4-len2",
@@ -4426,7 +4492,10 @@ window.BK_CURR=[
 "3. Describe What Esther did before going to talk to the king.",
 "4. Are there any hardships in the world today that we need to pray and fast for? Describe them.",
 "5. What kind of person was Mordecai, and what do you learn from him?"
-]
+],
+"built": {
+"icon": "scepter"
+}
 },
 {
 "id": "L4-len3",
@@ -4451,7 +4520,10 @@ window.BK_CURR=[
 "2. What were the people doing in the temple when Jesus Christ came to Jerusalem? What did He say to them, and what did He do?",
 "3. How should we prepare ourselves when we come to church?",
 "4. What did God say to Moses first, when He spoke to Him on the Mountain of God? In which book of the Bible do we find this?"
-]
+],
+"built": {
+"icon": "temple"
+}
 },
 {
 "id": "L4-len4",
@@ -4473,7 +4545,10 @@ window.BK_CURR=[
 "3. What did Bartimaeus used to beg for sitting on the main road of Jericho?",
 "4. Did he ask for money and gold from Jesus Christ? What did he ask for?",
 "5. What good did Bartimaeus’ faith and persistence prayer do for him?"
-]
+],
+"built": {
+"icon": "blindMan"
+}
 },
 {
 "id": "L4-len5",
@@ -4495,7 +4570,10 @@ window.BK_CURR=[
 "3. What is the other parable He told the disciples on the same day? Find out for next week.",
 "4. What are the symbolisms of the bridegroom, the ten virgins, the lamps and the oil?",
 "5. How do you prepare for your exams in school? Does the result of your exam depend on how you prepare for it? How does the same principle apply in spiritual life?"
-]
+],
+"built": {
+"icon": "lamp"
+}
 },
 {
 "id": "L4-len6",
@@ -4521,7 +4599,10 @@ window.BK_CURR=[
 "6. What did Jesus say to the disciples when He commissioned them to spread the gospel to all",
 "nations?",
 "7. Why is it important to always seek to know more about God?"
-]
+],
+"built": {
+"icon": "dove"
+}
 },
 {
 "id": "L4-len7",
@@ -4547,7 +4628,10 @@ window.BK_CURR=[
 "6. What is the week after Hosanna called?",
 "7. In which book of the Bible do we find prophecies about the glorious entry of Jesus Christ into",
 "Jerusalem?"
-]
+],
+"built": {
+"icon": "branch"
+}
 },
 {
 "id": "L4-len8",
@@ -4578,7 +4662,10 @@ window.BK_CURR=[
 "5. On what day of the week was Jesus Christ crucified?",
 "6. Where was Jesus Christ crucified?",
 "7. Who received the Virgin Mary as His mother, representing all of us?"
-]
+],
+"built": {
+"icon": "calvary"
+}
 },
 {
 "id": "L4-eas1",
@@ -4604,7 +4691,10 @@ window.BK_CURR=[
 "5. Who came to the tomb to anoint the body of Jesus Christ on the early morning hours of Sunday after the Crucifixion?",
 "6. Who announced to the women the Resurrection of Jesus Christ?",
 "7. What did the women do after they heard the joyful news of the Resurrection?"
-]
+],
+"built": {
+"icon": "tomb"
+}
 },
 {
 "id": "L4-eas2",
@@ -4640,7 +4730,10 @@ window.BK_CURR=[
 "5. On which day of the week was Jesus Christ crucified? What about His Resurrection?",
 "6. Who brought the good news of Jesus' Resurrection to the women who came to Jesus' Tomb?",
 "7. Why did the women come to the Tomb of Jesus Christ?"
-]
+],
+"built": {
+"icon": "sun"
+}
 },
 {
 "id": "L4-eas3",
@@ -4667,7 +4760,10 @@ window.BK_CURR=[
 "4. What did St. George do when the dragon was about to attack him?",
 "5. What is the meaning of prostrating oneself with the sign of the cross?",
 "6. What is a martyr? How did St. George become a martyr?"
-]
+],
+"built": {
+"icon": "george"
+}
 },
 {
 "id": "L4-eas4",
@@ -4702,7 +4798,10 @@ window.BK_CURR=[
 "5. Who is the disciple whom Philip told to come and see the Messiah?",
 "6. What was the profession of Mathew before Jesus Christ made him a disciple?",
 "7. Who was the disciple who betrayed Jesus Christ? Who was chosen in his place?"
-]
+],
+"built": {
+"icon": "net"
+}
 },
 {
 "id": "L4-eas5",
@@ -4737,7 +4836,10 @@ window.BK_CURR=[
 "7. Why do we need to receive the Holy Communion?",
 "8. What is the consequence of living without the Holy Communion?",
 "9. Find our from the Bible where this story is written, how Jesus Chist went to Capernaum after feeding 5000 people."
-]
+],
+"built": {
+"icon": "bread"
+}
 },
 {
 "id": "L4-eas6",
@@ -4766,7 +4868,10 @@ window.BK_CURR=[
 "5. What did the angels tell the disciples, as they stood staring up as Jesus Christ ascended into heaven?",
 "6. Where did Jesus Christ teach the disciples about on the Mount of Olives before His crucifixion?",
 "7. According to what Jesus told them, what would happen to the disciples as they go throughout the world witnessing about Jesus Christ?"
-]
+],
+"built": {
+"icon": "cloud"
+}
 },
 {
 "id": "L4-eas7",
@@ -4799,7 +4904,10 @@ window.BK_CURR=[
 "4. What kind of sign would follow those who believed?",
 "5. In what state of harmony were the disciples assembled when they received the Holy Spirit?",
 "6. Do you assemble in one accord with your family at home, your friends at school?"
-]
+],
+"built": {
+"icon": "flame"
+}
 },
 {
 "id": "L4-eas8",
@@ -4825,7 +4933,10 @@ window.BK_CURR=[
 "5. What is the prevalent kind of idolization in the world today? Do you idolize anything or anyone?",
 "6. Who is your favorite saint? Why?",
 "7. What is the relationship between the woman who found the Cross, and the Emperor who ended the persecution of Christians by closing pagan temples, and opening churches? What are their names?"
-]
+],
+"built": {
+"icon": "michael"
+}
 },
 {
 "id": "L4-jul1",
@@ -4858,7 +4969,10 @@ window.BK_CURR=[
 "3. Why is it important to teach in words and in deeds?",
 "4. Explain some virtues you learned from others through their deeds.",
 "5. Do you have younger brothers and sisters? Do they try to imitate your actions? Explain how."
-]
+],
+"built": {
+"icon": "heart"
+}
 },
 {
 "id": "L4-jul2",
@@ -4888,7 +5002,10 @@ window.BK_CURR=[
 "5. How did St. Stephen follow the example Jesus Christ set for us?",
 "6. Do you always tell the truth no matter what, like St. Stephen?",
 "7. What is martyrdom?"
-]
+],
+"built": {
+"icon": "stone"
+}
 },
 {
 "id": "L4-jul3",
@@ -4916,7 +5033,10 @@ window.BK_CURR=[
 "5. What was the responsibility Jesus gave Peter?",
 "6. How many people believed and were baptized on the day of Pentecost after Peter's preaching?",
 "7. Where was St. Peter Martyred? How was he martyred?"
-]
+],
+"built": {
+"icon": "peter"
+}
 },
 {
 "id": "L4-jul4",
@@ -4944,7 +5064,10 @@ window.BK_CURR=[
 "5. Where was St. Paul Martyred?",
 "6. What happened to the veil a woman gave St. Paul just before he was beheaded? Who did the woman say that she saw after St. Paul was martyred?",
 "7. What is the reward of those who \"loved His appearing\" according to St. Paul?"
-]
+],
+"built": {
+"icon": "sword"
+}
 },
 {
 "id": "L4-aug1",
@@ -4976,7 +5099,10 @@ window.BK_CURR=[
 "6. What are the fruits of Martyrdom?",
 "7. Who did Qirkos learn from to have courage in faith?",
 "8. What is the era called, during which Qirkos and Iyalota lived?"
-]
+],
+"built": {
+"icon": "fire"
+}
 },
 {
 "id": "L4-aug2",
@@ -5005,7 +5131,10 @@ window.BK_CURR=[
 "9. What did St. Yared say of Debre Damo?",
 "10. Did Abuna Aregawi die? What happened to him?",
 "11. Do you remember of anyone in the Holy Bible who was taken alive by God?"
-]
+],
+"built": {
+"icon": "amba"
+}
 },
 {
 "id": "L4-aug3",
@@ -5034,7 +5163,10 @@ window.BK_CURR=[
 "6. How is the linen Thomas received from the Virgin Mary, when she ascended into heaven, represented (symbolized) in our church?",
 "7. Can you write some symbolisms and representations of Biblical or religious events and figures in the church?",
 "8. Can you think of wrong symbolisms and representations in the world that may influence the youth into materialism and wrong actions?"
-]
+],
+"built": {
+"icon": "mary"
+}
 },
 {
 "id": "L4-aug4",
@@ -5067,7 +5199,10 @@ window.BK_CURR=[
 "8. What did the Israelites take with them when returning to Jerusalem?",
 "9. How many books did the men Ezra chose write? How many days it take them?",
 "10. How were they able to write so many books in just few days?"
-]
+],
+"built": {
+"icon": "scroll"
+}
 },
 {
 "id": "L4-sep1",
@@ -5119,6 +5254,9 @@ window.BK_CURR=[
 "• Not having a foundation and the riches of this world are other obstacles of bearing fruit from the word of God. The purpose of spiritual learning at an early age is to lay a strong spiritual foundation. But even after having the spiritual foundation, we have to be careful not to be deceived by the riches, attractiveness and materialism of this world.",
 "• Our heart is like the good ground that bears fruit only if we are doers, and not just hearers of the word of God. It is a struggle to overcome the temptations of this world, but hearing the word of God as often as we can, praying and fasting are important spiritual tools to overcome temptations.",
 "How would you describe your heart according to the parable? Do you have a heart like the street, the stony place, a ground with thorns, or a good ground that bears fruit?"
-]
+],
+"built": {
+"icon": "angel"
+}
 }
 ];
